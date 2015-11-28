@@ -11,9 +11,9 @@ header-img: "img/green.jpg"
 </center>
 
 
-###联系
+###Contact
 
-- [博客：www.junjieliu.info](www.junjieliu.info)
+- [Personal Page：www.junjieliu.info](www.junjieliu.info)
 
 
 
