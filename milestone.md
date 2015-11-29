@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Milestone"
-description: ""
+description: "A thousand miles begins with a single step"
 header-img: ""
 ---
 
