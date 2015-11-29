@@ -5,14 +5,14 @@ description: ""
 header-img: "img/semantic.jpg"  
 ---
 
-##本页使用方法
+##Usage
 
-1. 在下面选一个你喜欢的词
-2. 点击它
-3. 相关的文章会「唰」地一声跳到页面顶端
-4. 马上试试？
+1. Choose a key word
+2. Click it
+3. Relative materials will bump to the top
+4. Juse have a try
 
-##基因列表
+##Key word list
 
 
 <div id='tag_cloud'>
