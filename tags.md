@@ -9,9 +9,9 @@ header-img: "img/semantic.jpg"
 
 1. Choose a key word
 2. Click it
-3. Relative materials will bump to the top
-4. Juse have a try
-
+3. Relative materials will bump up to the top
+4. Just have a try!
+ 
 ##Key word list
 
 
