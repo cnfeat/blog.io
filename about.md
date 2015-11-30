@@ -12,7 +12,7 @@ header-img: "img/green.jpg"
 
 
 ###Contact
-
+- I am a students at CityU currently
 - [Personal Page：www.junjieliu.info](www.junjieliu.info)
 
 
