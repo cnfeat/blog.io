@@ -10,9 +10,9 @@ header-img: "img/green.jpg"
     <p><img src="" align="center"></p>
 </center>
 
+I am a student at CityU currently
 
 ###Contact
-- I am a students at CityU currently
 - [Personal Page：www.junjieliu.info](www.junjieliu.info)
 
 
