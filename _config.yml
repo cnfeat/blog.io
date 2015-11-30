@@ -17,10 +17,10 @@ gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
 
-github_username: junjieliu2910
-facebook_username: 刘俊杰
+#github_username: junjieliu2910
+#facebook_username: 刘俊杰
 
-zhihu_username: 刘俊杰
+#zhihu_username: 刘俊杰
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "Nocturne"
-      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
