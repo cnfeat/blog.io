@@ -1,18 +1,18 @@
 ---
 layout: page
 title: "Tags"
-description: "哈哈，你找到了我的文章基因库"  
+description: ""  
 header-img: "img/semantic.jpg"  
 ---
 
-##本页使用方法
+##Usage
 
-1. 在下面选一个你喜欢的词
-2. 点击它
-3. 相关的文章会「唰」地一声跳到页面顶端
-4. 马上试试？
-
-##基因列表
+1. Choose a key word
+2. Click it
+3. This page will be relocated to the postion of relative materials
+4. Just have a try!
+ 
+##Key word list
 
 
 <div id='tag_cloud'>
