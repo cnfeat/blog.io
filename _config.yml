@@ -2,26 +2,26 @@
 title: 读立写生
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "王益国|唏嘘岁月 , 蹉跎人生"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://eaglewang.top"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " eaglewang"
+  email: goesywyg@163.com
+  bio: "浮沉半生，重入风雨"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+douban_username:  EagleWang
+twitter_username: EagleWang
+github_username: EagleWang
+facebook_username: EagleWang
+weibo_username: EagleWang 
+zhihu_username: EagleWang
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -34,7 +34,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 relative_permalinks: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Qingdao
 
 # Defaults for posts
 defaults:
