@@ -13,17 +13,17 @@ header-img: "img/red.jpg"
 
 
 
-一个放些小东西的窝
+##一个放些小东西的窝
 
-一片自由徜徉的菜地
+###一片自由徜徉的菜地
 
-一个宁静的休闲居所
+####一个宁静的休闲居所
 
 
 
 
 **联系我们**
-——店铺——
+###--Our Shop：白熊购物车--  
 <center>
     <p><img src="http://i8.tietuku.com/46f34cb668912616.png" align="center"></p>
 </center>
