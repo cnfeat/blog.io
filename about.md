@@ -10,8 +10,13 @@ header-img: "img/red.jpg"
     <p><img src="http://i8.tietuku.com/82833ee1cfae4077.jpg" height="150" width="150" align="center"></p>
 </center>
 
+
+
+
 ##一个放些小东西的窝
+
 ###一片自由徜徉的菜地
+
 ####一个宁静的休闲居所
 
 
