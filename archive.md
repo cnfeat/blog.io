@@ -2,7 +2,7 @@
 layout: page
 title: "杂货列表"
 description: "你看到的，是一只熊的唠叨"
-header-img: "img/orange.jpg"
+header-img: "img/yellow.jpg"
 ---
 
 
