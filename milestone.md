@@ -2,7 +2,7 @@
 layout: page
 title: "地下室"
 description: "如果有先知，必然会被气死"
-header-img: "img/zhihu.jpg"
+header-img: "img/gray.jpg"
 ---
 
 
