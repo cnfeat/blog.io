@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 米阑儿技术博客
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "王美兰|技术博客"  
 baseurl: ""
 url: "http://cnfeat"  
 
 # About/contact
 owner: 
   name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  email:gzwangmeilan@163.com
+  bio: "技术博客"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
