@@ -62,3 +62,5 @@ google_verify:
 bing_verify:
 
 # Links to include in footer navigation
+
+gems: [jekyll-paginate]
