@@ -49,17 +49,7 @@ defaults:
 # Comments 
 comments :
   provider : duoshuo
-  duoshuo :
-    short_name : cnfeat
-  disqus :
-      short_name : cnfeat
 
-# Analytics and webmaster tools stuff goes here
-google_analytics: 
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Analytics and webmaster tools stuff goes her
 
 # Links to include in footer navigation
-
-gems: [jekyll-paginate]
