@@ -3,7 +3,7 @@ title: 思想空间
 header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "李岳思想空间"  
-baseurl: "/martinLilili.github.io"
+baseurl: ""
 url: "http://moonlspace.com"  
 
 # About/contact
@@ -43,16 +43,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "martinl"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : martinl
   disqus :
-      short_name : cnfeat
+      short_name : martinl
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
