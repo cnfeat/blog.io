@@ -1,15 +1,15 @@
 # Site settings
-title: 读立写生
+title: 牛羊之家
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "养殖场|原生态·健康品"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://www.niuyangzhijia.com"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
+  name: " wangyifan"
+  email: wangyifan@yahoo.com
   bio: "写就是写的报酬"
 
 # Data
