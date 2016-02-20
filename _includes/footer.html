@@ -27,12 +27,13 @@
 
                     {% if site.github_username %}
                     <li>
-                        <a href="https://github.com/{{ site.github_username }}">
+                        <a href="https://github.com/{{ site.github_username }};javascript:void(0)" onMouseOut="hideImg()"  onmouseover="showImg()">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-mobile-phone fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
+                        <div id="wxImg" style="display:none;height:50px;back-ground:#f00;position:absolute;"><img src="http://img.baidu.com/img/iknow/logo-iknowxjd.gif"></div>
                     </li>
                     {% endif %}
                     
@@ -103,7 +104,15 @@
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
 
-
+<!-- Show/Hide wexin img -->
+<script type="text/javascript">
+function  showImg(){
+document.getElementById("wxImg").style.display='block';
+}
+function hideImg(){
+document.getElementById("wxImg").style.display='none';
+}
+</script>
 
 <!-- Highlight.js -->
 <script>
