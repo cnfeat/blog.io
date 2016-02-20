@@ -1,6 +1,6 @@
 # Site settings
 title: 牛羊之家
-header-img: "http://ww1.sinaimg.cn/mw690/006oFwz1gw1f16005v7tzj31gs0dwt96.jpg"
+header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "养殖场|原生态·健康品"  
 baseurl: ""
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "CnFeat"
-      header-img: "http://ww1.sinaimg.cn/mw690/006oFwz1gw1f16005v7tzj31gs0dwt96.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
