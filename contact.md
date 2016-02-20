@@ -7,7 +7,8 @@ header-img: "http://ww2.sinaimg.cn/mw690/006oFwz1gw1f160nw5264j31gs0dwt96.jpg"
 
 <body>
 
-<p><span style="font-size: 20px"><strong>地址：湖北省黄石市汪仁镇王叶村</strong></span></p>
+<p><span style="font-size: 20px"><strong>地址：湖北省黄石市汪仁镇陈家湾</strong></span></p>
+<img src="http://ww4.sinaimg.cn/mw690/006oFwz1gw1f1696n1wf4j30rd0i07bi.jpg"/>
 <p><span style="font-size: 20px"><strong>手机：15826963286</strong></span></p>
 <p><span style="font-size: 20px"><strong>联系人：王幼林</strong></span></p>
 <p><span style="font-size: 20px"><strong>邮箱：<a href="mailto:wangyifan@yahoo.com">wangyifan@yahoo.com</a></strong></span></p>
