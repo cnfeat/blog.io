@@ -16,52 +16,27 @@
                     </li>
                     {% if site.twitter_username %}
                     <li>
-                        <a href="https://twitter.com/{{ site.twitter_username }}">
+                        <a href="https://twitter.com/{{ site.twitter_username }};javascript:void(0)" onMouseOut="hideImg()"  onmouseover="showImg()">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-weixin fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
+                        <div id="wxImg" style="display:none;height:50px;back-ground:#f00;position:absolute;"><img src="http://img.baidu.com/img/iknow/logo-iknowxjd.gif"></div>
                     </li>
                     {% endif %}
 
                     {% if site.github_username %}
                     <li>
-                        <a href="https://github.com/{{ site.github_username }};javascript:void(0)" onMouseOut="hideImg()"  onmouseover="showImg()">
+                        <a href="https://github.com/{{ site.github_username }};javascript:void(0)" onMouseOut="hidePhone()"  onmouseover="showPhone()">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-mobile-phone fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
-                        <div id="wxImg" style="display:none;height:50px;back-ground:#f00;position:absolute;"><img src="http://img.baidu.com/img/iknow/logo-iknowxjd.gif"></div>
+                        <div id="phone" style="display:none;height:50px;back-ground:#f00;position:absolute;">158-2696-3286</div>
                     </li>
                     {% endif %}
-                    
-                    <!--
-                    {% if site.douban_username %}
-                    <li>
-                        <a href="http://www.douban.com/people/{{ site.douban_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-douban fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    -->
-
-                    <!--
-                    {% if site.facebook_username %}
-                    <li>
-                        <a href="https://www.facebook.com/{{ site.facebook_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    -->
 
                     {% if site.zhihu_username %}
                     <li>
@@ -73,18 +48,6 @@
                         </a>
                     </li>
                     {% endif %}
-                    <!--
-                    {% if site.weibo_username %}
-                    <li>
-                        <a target="_blank" href="http://weibo.com/{{ site.weibo_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    -->
 
                 </ul>
                 <p class="copyright text-muted">
@@ -111,6 +74,16 @@ document.getElementById("wxImg").style.display='block';
 }
 function hideImg(){
 document.getElementById("wxImg").style.display='none';
+}
+</script>
+
+<!-- Show/Hide phone number -->
+<script type="text/javascript">
+function  showPhone(){
+document.getElementById("phone").style.display='block';
+}
+function hidePhone(){
+document.getElementById("phone").style.display='none';
 }
 </script>
 
