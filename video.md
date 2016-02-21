@@ -7,6 +7,6 @@ header-img: "http://ww4.sinaimg.cn/mw690/006oFwz1gw1f160o04aylj31gs0dwt96.jpg"
 
 <body>
  <div align="center">
-  <p><embed src="http://static.video.qq.com/TPout.swf?vid=x0183i01l6a&auto=0" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></p>
+  <p><iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=p01850jpmdc&tiny=0&auto=0" allowfullscreen></iframe></p>
  </div>
 </body>
