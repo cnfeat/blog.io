@@ -16,13 +16,14 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="{{ site.baseurl }}/">Home</a>
+                    <a href="{{ site.baseurl }}/product/">产品介绍</a>
                 </li>
-                {% for page in site.pages %}{% if page.title %}
                 <li>
-                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                    <a href="{{ site.baseurl }}/video/">视频欣赏</a>
+                </li>                
+                <li>
+                    <a href="{{ site.baseurl }}/contact/">联系我们</a>
                 </li>
-                {% endif %}{% endfor %}
             </ul>
         </div>
         <!-- /.navbar-collapse -->

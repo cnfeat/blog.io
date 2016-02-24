@@ -1,41 +1,14 @@
 ---
 layout: page
-description: "陈素封"
+description: "养殖场|原生态·健康品"
+header-img: "http://ww1.sinaimg.cn/mw690/006oFwz1gw1f16005v7tzj31gs0dwt96.jpg"
 ---
 
-{% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            
-            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-        <div class="post-content-preview">
-            {{ post.content | strip_html | truncate:150 }}
-        </div>
-    </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
-</div>
-
-<hr>
-{% endfor %}
-
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
+<body>
+<p><span style="font-size: 20px"><strong>本养殖场有大量黄牛和山羊出售，黄石及周边乡镇可以送货上门，其它地区欢迎上门详谈，联系电话15826963286！点击页面右上角获取更多信息。</strong></span></p>
+<img src="http://img4.agronet.com.cn/Users/100/502/521/20156161020399749.JPG"/>
+<img src="http://jsplxj.wxysd.net/uploadfile/20141010/20141010104743567.gif"/>
+<img src="http://images.ccoo.cn/ablum/20120514/20120514231430553.jpg"/>
+<img src="http://pic.cnhubei.com/attachment/201410/11/4124_1413044322EkTQ.jpg"/>
+<img src="http://image.gxnews.com.cn/middlepic/2012/10/24/bdfc6f71838e90805addb85b41ba2ebd.jpg"/>
+</body>

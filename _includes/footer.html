@@ -1,93 +1,60 @@
 <!-- Footer -->
 <footer>
     <div class="container">
+        <div class="text" style="text-align:center; color:red;font-size:35px">联系我们</div>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
                     <!-- kill the Facebook and Weibo -->
                     <li>
-                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+                        <a href='http://wpa.qq.com/msgrd?v=3&uin={{ site.qq_number }}&site=qq&menu=yes' target='_blank'>
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-qq fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
                     {% if site.twitter_username %}
                     <li>
-                        <a href="https://twitter.com/{{ site.twitter_username }}">
+                        <a href="javascript:void(0)" onMouseOut="hideImg()"  onmouseover="showImg()">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-weixin fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
+                        <div id="wxImg" style="display:none;height:50px;back-ground:#f00;position:absolute;left:100px;top:-510px;text-algin:center"><img src="http://ww2.sinaimg.cn/mw690/006oFwz1gw1f15ui6uboej30by0by0sy.jpg">扫一扫添加微信好友或者搜索账号whuwyf添加</div>
                     </li>
                     {% endif %}
 
                     {% if site.github_username %}
                     <li>
-                        <a href="https://github.com/{{ site.github_username }}">
+                        <a href="javascript:void(0)" onMouseOut="hidePhone()"  onmouseover="showPhone()">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-mobile-phone fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
+                        <div id="phone" style="display:none;height:50px;back-ground:#f00;position:absolute;right:45px;top:-35px;color:red;font-size:25px">王经理：158-2696-3286</div>
                     </li>
                     {% endif %}
-                    
-                    <!--
-                    {% if site.douban_username %}
-                    <li>
-                        <a href="http://www.douban.com/people/{{ site.douban_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-douban fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    -->
-
-                    <!--
-                    {% if site.facebook_username %}
-                    <li>
-                        <a href="https://www.facebook.com/{{ site.facebook_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    -->
 
                     {% if site.zhihu_username %}
                     <li>
-                        <a target="_blank" href="https://www.zhihu.com/people/{{ site.zhihu_username }}">
+                        <a target="_blank" href="/contact/">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa  fa-stack-1x fa-inverse">知</i>
+                                <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
                     {% endif %}
-                    <!--
-                    {% if site.weibo_username %}
-                    <li>
-                        <a target="_blank" href="http://weibo.com/{{ site.weibo_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    -->
 
                 </ul>
                 <p class="copyright text-muted">
                 &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} ❖ Powered by Jekyll.
                 </p>
+                <!-- CNZZ tongji -->
+                <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1257554692'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1257554692%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
             </div>
         </div>
     </div>
@@ -102,7 +69,25 @@
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
 
+<!-- Show/Hide wexin img -->
+<script type="text/javascript">
+function  showImg(){
+document.getElementById("wxImg").style.display='block';
+}
+function hideImg(){
+document.getElementById("wxImg").style.display='none';
+}
+</script>
 
+<!-- Show/Hide phone number -->
+<script type="text/javascript">
+function  showPhone(){
+document.getElementById("phone").style.display='block';
+}
+function hidePhone(){
+document.getElementById("phone").style.display='none';
+}
+</script>
 
 <!-- Highlight.js -->
 <script>
