@@ -16,12 +16,12 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
+douban_username:  
+twitter_username: 
+github_username: 
 facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+weibo_username: 
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -50,9 +50,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : 
   disqus :
-      short_name : cnfeat
+      short_name : 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
