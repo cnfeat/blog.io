@@ -4,11 +4,11 @@ header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "王美兰|技术博客"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://Myranda"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
+  name: " Myranda"
   email:"gzwangmeilan@163.com"
   bio: "技术博客"
 
@@ -16,12 +16,12 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
+douban_username:  
+twitter_username: 
+github_username: Myranda
 facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+weibo_username: 米阑儿
+zhihu_username: 王美兰
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -44,16 +44,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "Myranda"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : Myranda
   disqus :
-      short_name : cnfeat
+      short_name : Myranda
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
