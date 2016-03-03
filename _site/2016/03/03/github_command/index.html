@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="王美兰|个人博客">
 
-    <title>Markdown 语法文章示例 - 王美兰的个人博客</title>
+    <title>Github代码提交常用指令 - 王美兰的个人博客</title>
 
-    <link rel="canonical" href="http://Myranda/2016/03/03/my_first_article/">
+    <link rel="canonical" href="http://Myranda/2016/03/03/github_command/">
 
     <!-- Icons -->
   <link rel="shortcut icon" href="img/favicon.ico">
@@ -103,8 +103,10 @@
                 <div class="post-heading">
                     <div class="Tags">
                         
+                        <a class="tag" href="/Tags/#github,指令" title="github,指令">github,指令</a>
+                        
                     </div>
-                    <h1>Markdown 语法文章示例</h1>
+                    <h1>Github代码提交常用指令</h1>
                     
                     <span class="meta">Posted by Myranda on March 3, 2016</span>
                 </div>
@@ -122,44 +124,38 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-container">
 
-                <h1 id="markdown-">Markdown 语法文章示例</h1>
+                <p><strong>首次使用 （意思就是这个文件夹中的代码你还没有向GITHUB提交过代码）</strong></p>
 
-<h2 id="section">目录</h2>
-<ul>
-  <li><a href="#partI">第一部分</a></li>
-  <li><a href="#partII">第二部分</a></li>
-  <li><a href="#partIII">第三部分</a></li>
-</ul>
+<p><code>cd /home/test</code>(假如 test就是你的用户名)/githubtest(这是个文件夹,你可以提前先建立好,这个文件夹也可以是你要提交代码的项目文件夹)</p>
 
-<hr />
+<p><code>git init</code> //这是初始化在这个文件夹中建立一个空库</p>
 
-<h2 id="p-idpartip">第一部分 &lt;p id="partI"&gt;&lt;/p&gt;</h2>
-<p>这里是第一部分的内容</p>
+<p><code>git add</code>  //这个命令 你可以直接  git add . 这是把当前文件夹中的所有文件都加入到上传的列表中(注意要有空格),你还可以添加具体的文件 git add 你要添加的文件(test/test/test.txt)</p>
 
-<hr />
+<p><code>git commit -m</code> “说明”   //这个 说明 以你自己随意(注意要加 双引号),还要注意 这个条命令最好这样写,网上的有文章说 只用 git commit 这样不是不可以 这样是可以   这样的命令 系统会自动用一个 默认的应用程序打开一个文件让你输入  说明   ,但如果系统没有默认打开的话那就不能继续往下执行了,反正都是要写 说明  ,本来也没几个字,建议大家 直接 把命令写全,省的给自己找麻烦</p>
 
-<h2 id="p-idpartiip">第二部分 &lt;p id="partII"&gt;&lt;/p&gt;</h2>
-<p>这里是第二部分的内容</p>
+<p><code>git remote add origin https://github.com/test/testt.git</code>  //这里说两处地方  origin 这个相当于是个别名  你可以自己随便写也可以写成当前文件夹的名 , 后面的地址是你在GITHUB 刚刚新建的 库 地址, 你建了哪几个库,你到GITHUB找到 你 建的库点进去 就能看到相应的地址.</p>
 
-<hr />
+<p><code>git push -u origin master</code>    //开始上传了  ,然后 会提示你 输入 你在 GITHUB上注册的用户名跟密码 输入正确后就等着上传吧</p>
 
-<h2 id="p-idpartiiip">第三部分 &lt;p id="partIII"&gt;&lt;/p&gt;</h2>
-<p>这里是第三部分的内容</p>
+<p><strong>更新代码</strong></p>
 
-<p>03 Mar 2016</p>
+<p><code>cd /home/test</code>(假如 test就是你的用户名)/githubtest(这个文件夹是你要提交代码的项目文件夹,前提是你已经用过第一种方法了)</p>
+
+<p><code>git add .</code>     或者添加具体的文件 git add 你要添加的文件(test/test/test.txt)</p>
+
+<p><code>git commit -m</code> “说明”</p>
+
+<p><code>git push -u origin master</code>     //还记的这个别名吗origin 这个别名就是你用第一种方法首次向 GITHUB提交代码你用的别名</p>
 
 
                 <hr>
 
                 <ul class="pager">
                     
-                    <li class="previous">
-                        <a href="/2016/03/03/github_command/" data-toggle="tooltip" data-placement="top" title="Github代码提交常用指令">&larr; Previous Post</a>
-                    </li>
-                    
                     
                     <li class="next">
-                        <a href="/2016/03/03/my_second_article/" data-toggle="tooltip" data-placement="top" title="非Markdown 语法文章">Next Post &rarr;</a>
+                        <a href="/2016/03/03/my_first_article/" data-toggle="tooltip" data-placement="top" title="Markdown 语法文章示例">Next Post &rarr;</a>
                     </li>
                     
                 </ul>
@@ -178,21 +174,12 @@
                 </style>
 
                 <div class="ds-share"
-                    data-thread-key="/2016/03/03/my_first_article" data-title="Markdown 语法文章示例"
+                    data-thread-key="/2016/03/03/github_command" data-title="Github代码提交常用指令"
                     data-images="http://Myranda/img/facebook.jpg"
-                    data-content="Markdown 语法文章示例
+                    data-content="首次使用 （意思就是这个文件夹中的代码你还没有向GITHUB提交过代码）
 
-目录
-
-  第一部分
-  第二部分
-  第三部分
-
-
-
-
-第一部分 &lt;p id="partI"&gt;&lt;/p... | Microdust:Azeril's blog"
-                    data-url="http://Myranda/2016/03/03/my_first_article/">
+cd /home/test(假如 test就是你的用户名)/githubtes... | Microdust:Azeril's blog"
+                    data-url="http://Myranda/2016/03/03/github_command/">
                     <div class="ds-share-inline">
                       <ul  class="ds-share-icons-16">
 
@@ -211,7 +198,7 @@
 
                 <!-- 多说评论框 start -->
                 <div class="comment">
-                    <div class="ds-thread" data-thread-key="/2016/03/03/my_first_article" data-title="Markdown 语法文章示例" data-url="http://Myranda/2016/03/03/my_first_article/"></div>
+                    <div class="ds-thread" data-thread-key="/2016/03/03/github_command" data-title="Github代码提交常用指令" data-url="http://Myranda/2016/03/03/github_command/"></div>
                 </div>
                 <!-- 多说评论框 end -->
             </div>
