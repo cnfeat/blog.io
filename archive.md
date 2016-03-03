@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Archive"
-description: "米阑儿的博客"
+title: "博客"
+description: "王美兰的个人博客"
 header-img: "img/orange.jpg"
 ---
 

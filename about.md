@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "About"
-description: "米阑儿的博客 "
+title: "关于我"
+description: "王美兰的个人博客 "
 header-img: "img/green.jpg"
 ---
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img style='width:100px' src="https://avatars0.githubusercontent.com/u/13732553?v=3&s=460" align="center"></p>
 </center>
 
 我是王美兰，女程序媛一枚，关注前端技术，专注用户体验。
@@ -16,7 +16,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img style='width:200px' src="http://ceqef.img47.wal8.com/img47/538205_20160303162908/145699415256.png" align="center"></p>
 </center>
 
 

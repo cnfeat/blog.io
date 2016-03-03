@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>王美兰的个人博客</title>
+    <description>王美兰|个人博客</description>
+    <link>http://Myranda/</link>
+    <atom:link href="http://Myranda/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 03 Mar 2016 18:04:00 +0800</pubDate>
+    <lastBuildDate>Thu, 03 Mar 2016 18:04:00 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>非Markdown 语法文章</title>
+        <description>&lt;html&gt;
+	&lt;head&gt;
+		&lt;title&gt;非Markdown 语法文章&lt;/title&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+		非Markdown 语法文章测试
+		&lt;span style=&#39;color:#f00&#39;&gt;红色&lt;/span&gt;
+	&lt;/body&gt;
+&lt;/html&gt;
+ 
+ </description>
+        <pubDate>Thu, 03 Mar 2016 00:00:00 +0800</pubDate>
+        <link>http://Myranda/2016/03/03/my_second_article/</link>
+        <guid isPermaLink="true">http://Myranda/2016/03/03/my_second_article/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Markdown 语法文章示例</title>
+        <description>&lt;h1 id=&quot;markdown-&quot;&gt;Markdown 语法文章示例&lt;/h1&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;目录&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#partI&quot;&gt;第一部分&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#partII&quot;&gt;第二部分&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#partIII&quot;&gt;第三部分&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;p-idpartip&quot;&gt;第一部分 &amp;lt;p id=&quot;partI&quot;&amp;gt;&amp;lt;/p&amp;gt;&lt;/h2&gt;
+&lt;p&gt;这里是第一部分的内容&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;p-idpartiip&quot;&gt;第二部分 &amp;lt;p id=&quot;partII&quot;&amp;gt;&amp;lt;/p&amp;gt;&lt;/h2&gt;
+&lt;p&gt;这里是第二部分的内容&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;p-idpartiiip&quot;&gt;第三部分 &amp;lt;p id=&quot;partIII&quot;&amp;gt;&amp;lt;/p&amp;gt;&lt;/h2&gt;
+&lt;p&gt;这里是第三部分的内容&lt;/p&gt;
+
+&lt;p&gt;03 Mar 2016&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Mar 2016 00:00:00 +0800</pubDate>
+        <link>http://Myranda/2016/03/03/my_first_article/</link>
+        <guid isPermaLink="true">http://Myranda/2016/03/03/my_first_article/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

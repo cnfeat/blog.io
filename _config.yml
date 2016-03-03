@@ -1,16 +1,16 @@
 # Site settings
-title: 米阑儿技术博客
+title: 王美兰的个人博客
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "王美兰|技术博客"  
+description: "王美兰|个人博客"  
 baseurl: ""
 url: "http://Myranda"  
 
 # About/contact
 owner: 
-  name: " Myranda"
-  email:"gzwangmeilan@163.com"
-  bio: "技术博客"
+  # name: " Myranda"
+  # email:"gzwangmeilan@163.com"
+  # bio: "技术博客"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -31,10 +31,11 @@ highlighter: pygments
 permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-relative_permalinks: true
+relative_permalinks: false
+gems: [jekyll-paginate]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Guangzhou
 
 # Defaults for posts
 defaults:
