@@ -1,0 +1,440 @@
+.no-padding {
+    padding: 0!important
+}
+
+.no-padding-bottom {
+    padding-bottom: 0!important
+}
+
+.no-padding-top {
+    padding-top: 0!important
+}
+
+.no-padding-left {
+    padding-left: 0!important
+}
+
+.no-padding-right {
+    padding-right: 0!important
+}
+
+.no-margin {
+    margin: 0!important
+}
+
+.no-margin-bottom {
+    margin-bottom: 0!important
+}
+
+.no-margin-top {
+    margin-top: 0!important
+}
+
+.no-margin-left {
+    margin-left: 0!important
+}
+
+.no-margin-right {
+    margin-right: 0!important
+}
+
+.no-border {
+    border: 0
+}
+
+.no-border-bottom {
+    border-bottom: 0
+}
+
+.no-border-top {
+    border-top: 0
+}
+
+.no-border-left {
+    border-left: none
+}
+
+.no-border-right {
+    border-right: 0
+}
+
+
+// Text colors
+.text-red {
+  color: @red !important;
+}
+.text-yellow {
+  color: @yellow !important;
+}
+.text-aqua {
+  color: @aqua !important;
+}
+.text-blue {
+  color: @blue !important;
+}
+.text-black {
+  color: @black!important;
+}
+.text-light-blue {
+  color: @light-blue !important;
+}
+.text-green {
+  color: @green !important;
+}
+.text-gray {
+  color: @gray !important;
+}
+.text-navy {
+  color: @navy !important;
+}
+.text-teal {
+  color: @teal !important;
+}
+.text-olive {
+  color: @olive !important;
+}
+.text-lime {
+  color: @lime !important;
+}
+.text-orange {
+  color: @orange !important;
+}
+.text-fuchsia {
+  color: @fuchsia !important;
+}
+.text-purple {
+  color: @purple !important;
+}
+.text-maroon {
+  color: @maroon !important;
+}
+.link-muted {
+  color: darken(@gray, 30%);
+  &:hover,
+    &:focus {
+    color: darken(@gray, 40%);
+  }
+}
+.link-black {
+  color: #666;
+  &:hover,
+    &:focus {
+    color: #999;
+  }
+}
+
+
+// Background colors
+.bg-red,
+.bg-yellow,
+.bg-aqua,
+.bg-blue,
+.bg-light-blue,
+.bg-green,
+.bg-navy,
+.bg-teal,
+.bg-olive,
+.bg-lime,
+.bg-orange ,
+.bg-fuchsia,
+.bg-purple,
+.bg-maroon,
+.bg-black,
+.bg-red-active,
+.bg-yellow-active,
+.bg-aqua-active,
+.bg-blue-active,
+.bg-light-blue-active,
+.bg-green-active,
+.bg-navy-active,
+.bg-teal-active,
+.bg-olive-active,
+.bg-lime-active,
+.bg-orange-active,
+.bg-fuchsia-active,
+.bg-purple-active,
+.bg-maroon-active,
+.bg-black-active {
+  color: #fff !important;
+}
+.bg-gray {
+  color: #000;
+  background-color: @gray!important;
+}
+.bg-gray-light {
+  background-color: #f7f7f7;
+}
+.bg-black {
+  background-color: @black!important;
+}
+.bg-red {
+  background-color: @red !important;
+}
+.bg-yellow {
+  background-color: @yellow !important;
+}
+.bg-aqua {
+  background-color: @aqua !important;
+}
+.bg-blue {
+  background-color: @blue !important;
+}
+.bg-light-blue {
+  background-color: @light-blue !important;
+}
+.bg-green {
+  background-color: @green !important;
+}
+.bg-navy {
+  background-color: @navy !important;
+}
+.bg-teal {
+  background-color: @teal !important;
+}
+.bg-olive {
+  background-color: @olive !important;
+}
+.bg-lime {
+  background-color: @lime !important;
+}
+.bg-orange {
+  background-color: @orange !important;
+}
+.bg-fuchsia {
+  background-color: @fuchsia !important;
+}
+.bg-purple {
+  background-color: @purple !important;
+}
+.bg-maroon {
+  background-color: @maroon !important;
+}
+
+//Set of Active Background Colors
+.bg-gray-active {
+  color: #000;
+  background-color: darken(@gray,10%)!important;
+}
+.bg-black-active {
+  background-color: darken(@black, 10%)!important;
+}
+.bg-red-active {
+  background-color: darken(@red , 6%)!important;
+}
+.bg-yellow-active {
+  background-color: darken(@yellow , 6%)!important;
+}
+.bg-aqua-active {
+  background-color: darken(@aqua , 6%)!important;
+}
+.bg-blue-active {
+  background-color: darken(@blue , 10%)!important;
+}
+.bg-light-blue-active {
+  background-color: darken(@light-blue , 6%)!important;
+}
+.bg-green-active {
+  background-color: darken(@green , 5%)!important;
+}
+.bg-navy-active {
+  background-color: darken(@navy , 2%)!important;
+}
+.bg-teal-active {
+  background-color: darken(@teal , 5%)!important;
+}
+.bg-olive-active {
+  background-color: darken(@olive , 5%)!important;
+}
+.bg-lime-active {
+  background-color: darken(@lime , 5%)!important;
+}
+.bg-orange-active {
+  background-color: darken(@orange , 5%)!important;
+}
+.bg-fuchsia-active {
+  background-color: darken(@fuchsia , 5%)!important;
+}
+.bg-purple-active {
+  background-color: darken(@purple , 5%)!important;
+}
+.bg-maroon-active {
+  background-color: darken(@maroon , 3%)!important;
+}
+
+// Gradient Background colors
+.bg-teal-gradient {
+  .gradient(@teal; @teal; lighten(@teal, 16%))!important;
+  color: #fff;
+}
+.bg-light-blue-gradient {
+  .gradient(@light-blue; @light-blue; lighten(@light-blue, 12%))!important;
+  color: #fff;
+}
+.bg-blue-gradient {
+  .gradient(@blue; @blue; lighten(@blue, 7%))!important;
+  color: #fff;
+}
+.bg-aqua-gradient {
+  .gradient(@aqua; @aqua; lighten(@aqua, 7%))!important;
+  color: #fff;
+}
+.bg-yellow-gradient {
+  .gradient(@yellow; @yellow; lighten(@yellow, 16%))!important;
+  color: #fff;
+}
+.bg-purple-gradient {
+  .gradient(@purple; @purple; lighten(@purple, 16%))!important;
+  color: #fff;
+}
+.bg-green-gradient {
+  .gradient(@green; @green; lighten(@green, 7%))!important;
+  color: #fff;
+}
+.bg-red-gradient {
+  .gradient(@red; @red; lighten(@red, 10%))!important;
+  color: #fff;
+}
+.bg-black-gradient {
+  .gradient(@black; @black; lighten(@black, 10%))!important;
+  color: #fff;
+}
+.bg-maroon-gradient {
+  .gradient(@maroon; @maroon; lighten(@maroon, 10%))!important;
+  color: #fff;
+}
+
+/* 
+*******font-size
+ */
+
+.bigger-110 {
+    font-size: 110%
+}
+
+.bigger-120 {
+    font-size: 120%
+}
+
+.bigger-130 {
+    font-size: 130%
+}
+
+.bigger-140 {
+    font-size: 140%
+}
+
+.bigger-150 {
+    font-size: 150%
+}
+
+.bigger-160 {
+    font-size: 160%
+}
+
+.bigger-170 {
+    font-size: 170%
+}
+
+.bigger-180 {
+    font-size: 180%
+}
+
+.bigger-190 {
+    font-size: 190%
+}
+
+.bigger-200 {
+    font-size: 200%
+}
+
+.bigger-210 {
+    font-size: 210%
+}
+
+.bigger-220 {
+    font-size: 220%
+}
+
+.bigger-230 {
+    font-size: 230%
+}
+
+.bigger-240 {
+    font-size: 240%
+}
+
+.bigger-250 {
+    font-size: 250%
+}
+
+.bigger-260 {
+    font-size: 260%
+}
+
+.bigger-270 {
+    font-size: 270%
+}
+
+.bigger-280 {
+    font-size: 280%
+}
+
+.bigger-290 {
+    font-size: 290%
+}
+
+.bigger-300 {
+    font-size: 300%
+}
+
+.bigger-125 {
+    font-size: 125%
+}
+
+.bigger-175 {
+    font-size: 175%
+}
+
+.bigger-225 {
+    font-size: 225%
+}
+
+.bigger-275 {
+    font-size: 275%
+}
+
+.smaller-90 {
+    font-size: 90%
+}
+
+.smaller-80 {
+    font-size: 80%
+}
+
+.smaller-70 {
+    font-size: 70%
+}
+
+.smaller-60 {
+    font-size: 60%
+}
+
+.smaller-50 {
+    font-size: 50%
+}
+
+.smaller-40 {
+    font-size: 40%
+}
+
+.smaller-30 {
+    font-size: 30%
+}
+
+.smaller-20 {
+    font-size: 20%
+}
+
+.smaller-75 {
+    font-size: 75%
+}

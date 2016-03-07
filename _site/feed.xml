@@ -5,74 +5,106 @@
     <description>王美兰|个人博客</description>
     <link>http://Myranda/</link>
     <atom:link href="http://Myranda/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 03 Mar 2016 18:41:25 +0800</pubDate>
-    <lastBuildDate>Thu, 03 Mar 2016 18:41:25 +0800</lastBuildDate>
+    <pubDate>Mon, 07 Mar 2016 14:25:02 +0800</pubDate>
+    <lastBuildDate>Mon, 07 Mar 2016 14:25:02 +0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
-        <title>非Markdown 语法文章</title>
-        <description>&lt;html&gt;
-	&lt;head&gt;
-		&lt;title&gt;非Markdown 语法文章&lt;/title&gt;
-	&lt;/head&gt;
-	&lt;body&gt;
-		非Markdown 语法文章测试
-		&lt;span style=&#39;color:#f00&#39;&gt;红色&lt;/span&gt;
-	&lt;/body&gt;
-&lt;/html&gt;
- 
- </description>
-        <pubDate>Thu, 03 Mar 2016 00:00:00 +0800</pubDate>
-        <link>http://Myranda/2016/03/03/my_second_article/</link>
-        <guid isPermaLink="true">http://Myranda/2016/03/03/my_second_article/</guid>
+        <title>获取url后面的参数（多种方式）</title>
+        <description>&lt;p&gt;方法一：采用正则表达式获取地址栏参数：（ 强烈推荐，既实用又方便！）&lt;/p&gt;
+
+&lt;pre&gt;
+  &lt;code class=&quot;javascript&quot;&gt;
+function GetQueryString(name)
+{
+     var reg = new RegExp(&quot;(^|&amp;amp;)&quot;+ name +&quot;=([^&amp;amp;]*)(&amp;amp;|$)&quot;);
+     var r = window.location.search.substr(1).match(reg);
+     if(r!=null)return  unescape(r[2]); return null;
+}
+// 调用方法
+alert(GetQueryString(&quot;参数名1&quot;));
+alert(GetQueryString(&quot;参数名2&quot;));
+alert(GetQueryString(&quot;参数名3&quot;));
+&lt;/code&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;方法二：传统方法&lt;/p&gt;
+&lt;pre&gt;
+  &lt;code class=&quot;javascript&quot;&gt;
+function UrlSearch() 
+{
+   var name,value; 
+   var str=location.href; //取得整个地址栏
+   var num=str.indexOf(&quot;?&quot;) 
+   str=str.substr(num+1); //取得所有参数   stringvar.substr(start [, length ]
+   var arr=str.split(&quot;&amp;amp;&quot;); //各个参数放到数组里
+   for(var i=0;i &amp;lt; arr.length;i++){ 
+    num=arr[i].indexOf(&quot;=&quot;); 
+    if(num&amp;gt;0){ 
+     name=arr[i].substring(0,num);
+     value=arr[i].substr(num+1);
+     this[name]=value;
+     } 
+    } 
+} 
+var Request=new UrlSearch(); //实例化
+alert(Request.id);
+&lt;/code&gt;
+&lt;/pre&gt;
+
+</description>
+        <pubDate>Fri, 04 Mar 2016 00:00:00 +0800</pubDate>
+        <link>http://Myranda/2016/03/04/url_parm/</link>
+        <guid isPermaLink="true">http://Myranda/2016/03/04/url_parm/</guid>
+        
+        <category>正则，参数</category>
         
         
       </item>
     
       <item>
-        <title>Markdown 语法文章示例</title>
-        <description>&lt;h1 id=&quot;markdown-&quot;&gt;Markdown 语法文章示例&lt;/h1&gt;
+        <title>Jekyll在github上构建免费的个人博客</title>
+        <description>&lt;p&gt;&lt;strong&gt;jekyll介绍&lt;/strong&gt;
+Jekyll是一个静态站点生成器，它会根据网页源码生成静态文件。它提供了模板、变量、插件等功能，可以用来生成整个网站。&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;目录&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#partI&quot;&gt;第一部分&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#partII&quot;&gt;第二部分&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#partIII&quot;&gt;第三部分&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Jekyll生成的站点，可以直接发布到github上面，这样我们就有了一个免费的，无限流量的，有人维护的属于我们的自己的web网站。  &lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;安装jekyll&lt;/strong&gt;
+window环境下比较快捷的方法是到 http://www.madhur.co.in/blog/2013/07/20/buildportablejekyll.html 直接下载并解压到任意路径即可。在管理员CMD下进入解压的portable Jekyll所对应的路径运行setpath.cmd即可。喜欢一步一步折腾安装的同学，可参考： http://www.madhur.co.in/blog/2011/09/01/runningjekyllwindows.html &lt;/p&gt;
 
-&lt;h2 id=&quot;p-idpartip&quot;&gt;第一部分 &amp;lt;p id=&quot;partI&quot;&amp;gt;&amp;lt;/p&amp;gt;&lt;/h2&gt;
-&lt;p&gt;这里是第一部分的内容&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;搭建github个人博客&lt;/strong&gt;
+一个快速的方式是直接到我的github库将博客模版fork下来：
+https://github.com/Myranda/Myranda.github.io，在setting里把myranda改成你想要的名字，并点击“Launch  automatic page generator”按钮，选择模版。然后clone项目到你自己的机器上来，想要在本地查看效果&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;pre&gt;&lt;code&gt;   cd USERNAME.github.com
+   jekyll serve
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;h2 id=&quot;p-idpartiip&quot;&gt;第二部分 &amp;lt;p id=&quot;partII&quot;&amp;gt;&amp;lt;/p&amp;gt;&lt;/h2&gt;
-&lt;p&gt;这里是第二部分的内容&lt;/p&gt;
+&lt;p&gt;这样你就可以在本地修改并查看效果了。
+另外，博客文章存放在_posts文件夹里，命名规则为(年-月-日-文章标题.md),md格式文件其实是markdown格式的文档，若不想记markdown语法的童鞋可使用markdown编辑器，如小书匠&lt;a&gt;http://markdown.xiaoshujiang.com/&lt;/a&gt;编辑好文章后再复制粘帖进项目。&lt;/p&gt;
 
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;p-idpartiiip&quot;&gt;第三部分 &amp;lt;p id=&quot;partIII&quot;&amp;gt;&amp;lt;/p&amp;gt;&lt;/h2&gt;
-&lt;p&gt;这里是第三部分的内容&lt;/p&gt;
-
-&lt;p&gt;03 Mar 2016&lt;/p&gt;
+&lt;p&gt;修改完成后提交代码，提交代码指令请看&lt;a&gt;http://myranda.github.io/2016/03/03/github_command/&lt;/a&gt;
+提交完成后访问
+http://username.github.com/就可以看到Blog已经生成了（将username换成你的用户名）。&lt;/p&gt;
 </description>
-        <pubDate>Thu, 03 Mar 2016 00:00:00 +0800</pubDate>
-        <link>http://Myranda/2016/03/03/my_first_article/</link>
-        <guid isPermaLink="true">http://Myranda/2016/03/03/my_first_article/</guid>
+        <pubDate>Fri, 04 Mar 2016 00:00:00 +0800</pubDate>
+        <link>http://Myranda/2016/03/04/jekyll_githubPage/</link>
+        <guid isPermaLink="true">http://Myranda/2016/03/04/jekyll_githubPage/</guid>
+        
+        <category>github,jekyll</category>
         
         
       </item>
     
       <item>
         <title>Github代码提交常用指令</title>
-        <description>&lt;p&gt;&lt;strong&gt;首次使用 （意思就是这个文件夹中的代码你还没有向GITHUB提交过代码）&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;首次使用 （意思就是这个文件夹中的代码你还没有向GITHUB提交过代码）&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;cd /home/test&lt;/code&gt;(假如 test就是你的用户名)/githubtest(这是个文件夹,你可以提前先建立好,这个文件夹也可以是你要提交代码的项目文件夹)&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;git init&lt;/code&gt; //这是初始化在这个文件夹中建立一个空库&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;git add&lt;/code&gt;  //这个命令 你可以直接  git add . 这是把当前文件夹中的所有文件都加入到上传的列表中(注意要有空格),你还可以添加具体的文件 git add 你要添加的文件(test/test/test.txt)&lt;/p&gt;
+&lt;p&gt;git add  //这个命令 你可以直接  git add . 这是把当前文件夹中的所有文件都加入到上传的列表中(注意要有空格),你还可以添加具体的文件 git add 你要添加的文件(test/test/test.txt)&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;git commit -m&lt;/code&gt; “说明”   //这个 说明 以你自己随意(注意要加 双引号),还要注意 这个条命令最好这样写,网上的有文章说 只用 git commit 这样不是不可以 这样是可以   这样的命令 系统会自动用一个 默认的应用程序打开一个文件让你输入  说明   ,但如果系统没有默认打开的话那就不能继续往下执行了,反正都是要写 说明  ,本来也没几个字,建议大家 直接 把命令写全,省的给自己找麻烦&lt;/p&gt;
 
@@ -88,13 +120,216 @@
 
 &lt;p&gt;&lt;code&gt;git commit -m&lt;/code&gt; “说明”&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;git push -u origin master&lt;/code&gt;     //还记的这个别名吗origin 这个别名就是你用第一种方法首次向 GITHUB提交代码你用的别名&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git push -u origin master&lt;/code&gt;     //还记的这个别名吗  origin  这个别名就是你用第一种方法首次 向 GITHUB提交代码 你用的 别名&lt;/p&gt;
 </description>
         <pubDate>Thu, 03 Mar 2016 00:00:00 +0800</pubDate>
         <link>http://Myranda/2016/03/03/github_command/</link>
         <guid isPermaLink="true">http://Myranda/2016/03/03/github_command/</guid>
         
-        <category>github,指令</category>
+        <category>正则，参数</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>用firebug调试ie</title>
+        <description>&lt;p&gt;做网页的人都喜欢用firefox，因为firefox有个firebug调试工具，非常符合前端人员的口味。但是为了页面兼容，在IE6+系列调试时就非常让人头疼，在不知道IE也可以使用firebug之前，都是使用IE Developer Toolbar来调试，调试起来让人一头雾水。后来发现IE也可以使用firebug，感觉还不错，总结给大家分享一下：
+1、桌面点击右键，新建个文本文档，把下面这段代码粘贴在文档中，把文档重命名为firebug.htm，用ie浏览器打开此htm文件，在链接firebug-to-ie处点击右键，添加到收藏夹。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;a href=&quot;javascript:(
+function(){
+var d=document, 
+s=d.getElementById(&#39;firebug-lite&#39;);
+if(s!=null)  return;
+s=d.createElement(&#39;script&#39;);
+s.type=&#39;text/javascript&#39;;
+s.src=&#39;https://getfirebug.com/firebug-lite.js&#39;;d.body.appendChild(s);})();void(0);&quot;&amp;gt;firebug-to-ie&amp;lt;/a&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;打开想调试的页面，打开收藏夹，点击firebug-to-ie，等一会在网页的右下角就会出现firebug的图标（如果没有出现图片，点击F12可以直接调用），点击图标，就可以用firebug调试网页了。
+2、对于自己制作的网页可以在调试时，先在head部分加入下面的代码，调试成功后再删除。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;script type=&quot;text/javascript&quot; src=&quot;https://getfirebug.com/firebug-lite.js&quot;&amp;gt;&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 +0800</pubDate>
+        <link>http://Myranda/2016/03/02/firebug_ie/</link>
+        <guid isPermaLink="true">http://Myranda/2016/03/02/firebug_ie/</guid>
+        
+        <category>firebug,</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>javascript屏蔽Ctrl+s，F1，F3各浏览器兼容写法</title>
+        <description>&lt;p&gt;近来项目需要用到ctrl+S，F1，F3等快捷键，无奈各浏览器对这几个键都有默认事件，且屏蔽方式不尽相同，现对其作一整理总结。注意：该文是针对原生javascript写法，jquery已对相当一部分做了兼容处理，并不需要如此复杂。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;键盘事件&lt;/strong&gt;
+        一般处理键盘按键事件我们采用这样的方式&lt;/p&gt;
+&lt;pre&gt;
+  &lt;code class=&quot;javascript&quot;&gt;
+ document.onkeydown=function (event) { 
+     //检测按下哪个键，作相应处理
+ };
+ &lt;/code&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;其中event为键盘事件，对于chrome，firefox，IE（Edge），IE10，IE9均能支持function自带的e，而ie8以下只能识别windows.event，所以一般兼容写法为：event=event||window.event。获取按键码一般是event.keyCode,这个对各大浏览器都是兼容的。&lt;/p&gt;
+&lt;pre&gt;
+  &lt;code class=&quot;javascript&quot;&gt;
+document.onkeydown=function (event) { 
+     event=event||window.event;
+     var key=event.keyCode;
+     //检测按下哪个键，作相应处理
+     if(key==...){
+   } 
+ }; 
+  &lt;/code&gt;
+&lt;/pre&gt;
+&lt;p&gt;屏蔽浏览器默认事件的方法大致有三种：
+1）event.preventDefault()
+2）event.returnValue=false;
+3）return false; 
+&lt;strong&gt;下面将逐一分析Ctrl+S，F1，F3键各浏览器对这三个方法的兼容性&lt;/strong&gt;
+      ctrl+S
+          这对组合键我们经常用来做保存，各浏览器的默认事件也是保存当前网页。&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Chrome&lt;/th&gt;
+      &lt;th&gt;Firefox&lt;/th&gt;
+      &lt;th&gt;IE（Edge）&lt;/th&gt;
+      &lt;th&gt;IE10， IE9&lt;/th&gt;
+      &lt;th&gt;IE8以下&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;event.preventDefault()&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;特殊方式支持&lt;/td&gt;
+      &lt;td&gt;不支持&lt;/td&gt;
+      &lt;td&gt;不支持&lt;/td&gt;
+      &lt;td&gt;不支持&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;event.returnValue=false;&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;不支持&lt;/td&gt;
+      &lt;td&gt;不支持&lt;/td&gt;
+      &lt;td&gt;特殊方式支持&lt;/td&gt;
+      &lt;td&gt;特殊方式支持&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;return false;&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;特殊方式支持&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;firefox的特殊方式支持是指，firefox这里一个比较坑爹的地方是，firefox需增加一个延迟才能生效，不然仍然会跳出浏览器的保存当前页面窗口，如下：&lt;/p&gt;
+&lt;pre&gt;
+  &lt;code class=&quot;javascript&quot;&gt;
+document.onkeydown=function (event) {
+            //判断按键  
+             var key=event.keyCode; 
+            if(key== 83 &amp;amp;&amp;amp; e.ctrlKey){
+                 /*延迟，兼容FF浏览器  */
+                 setTimeout(function(){
+                    alert(&#39;ctrl+s&#39;); 
+                  },1); 
+                   event.preventDefault();//或者是 return false;    
+              } 
+    &lt;/code&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;而IE10，IE9，IE8以下对于&lt;code&gt;event.returnValue=false&lt;/code&gt;的特殊方式支持是指键盘事件event必须为window.event时ctrl+s的默认事件才能屏蔽，在&lt;code&gt;event=event||window.event&lt;/code&gt;的兼容写法中，IE8及以下的形参event是空，所以会取值为window.event,而IE10，IE9的function形参event是有效的，所以取值直接为event，因此IE10，IE9在写法为&lt;code&gt;event=event||window.event&lt;/code&gt;时会屏蔽ctrl+s失效。&lt;/p&gt;
+
+&lt;p&gt;假如要让所有IE版本能够屏蔽Ctrl+S，event取值只能是window.event了。由于window.event没有方法preventDefautl，所以屏蔽默认事件方法只能用return false;
+     兼容IE、firefox、chrome，屏蔽Ctrl+s的写法为&lt;/p&gt;
+&lt;pre&gt;
+  &lt;code class=&quot;javascript&quot;&gt;
+      document.onkeydown=function (e) { 
+           e=window.event||e;
+             if(key== 83 &amp;amp;&amp;amp; e.ctrlKey){
+                 /*延迟，兼容FF浏览器  */
+                  setTimeout(function(){
+                  alert(&#39;ctrl+s&#39;); 
+                 },1); 
+                    return false;      
+              }    
+           };
+   &lt;/code&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;F1
+   F1的浏览器默认事件是打开帮助页，它的屏蔽方式相对简单，以下三种方式均可屏蔽firefox、chrome的F1事件
+1）event.preventDefault()
+2）event.returnValue=false;
+3）return false; 
+特殊的是IE，只需添加一句： &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;window.onhelp = function () { return false };
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;即可屏蔽IE的F1事件&lt;/p&gt;
+
+&lt;p&gt;F3
+  F3的浏览器默认事件是查找，它的各屏蔽方法兼容性为：&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Chrome&lt;/th&gt;
+      &lt;th&gt;Firefox&lt;/th&gt;
+      &lt;th&gt;IE（Edge）&lt;/th&gt;
+      &lt;th&gt;IE10， IE9&lt;/th&gt;
+      &lt;th&gt;IE8以下&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;event.preventDefault()&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;不支持&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;event.returnValue=false;&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;不支持&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;return false;&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+      &lt;td&gt;支持&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;其实，使用return false基本能兼容所有浏览器的默认键盘事件，不过听说return false还会屏蔽冒泡事件，这个暂时还没验证。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Mar 2016 00:00:00 +0800</pubDate>
+        <link>http://Myranda/2016/03/01/javsscript_keycode/</link>
+        <guid isPermaLink="true">http://Myranda/2016/03/01/javsscript_keycode/</guid>
+        
+        <category>键盘事件、兼容性</category>
         
         
       </item>

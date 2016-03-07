@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="/css/bootstrap.min.css">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/clean-blog.css">
+    <link rel="stylesheet" href="/css/Myranda_blog.css">
 
     <!-- Pygments Github CSS -->
     <link rel="stylesheet" href="/css/syntax.css">
@@ -35,7 +35,14 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
+    
+<!-- jQuery -->
+<script src="/js/jquery.min.js "></script>
+<link rel="stylesheet" href="http://yandex.st/highlightjs/8.0/styles/solarized_dark.min.css">
+<script src="http://yandex.st/highlightjs/8.0/highlight.min.js"></script>
+<script>
+   hljs.initHighlightingOnLoad();
+</script>
 </head>
 
 
@@ -93,7 +100,7 @@
     <!-- Post Header -->
 <style type="text/css">
     header.intro-header{
-        background-image: url('/img/facebook.jpg')
+        background-image: url('/img/bg1.jpg')
     }
 </style>
 <header class="intro-header" >
@@ -103,7 +110,7 @@
                 <div class="post-heading">
                     <div class="Tags">
                         
-                        <a class="tag" href="/Tags/#github,指令" title="github,指令">github,指令</a>
+                        <a class="tag" href="/Tags/#正则，参数" title="正则，参数">正则，参数</a>
                         
                     </div>
                     <h1>Github代码提交常用指令</h1>
@@ -124,13 +131,13 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-container">
 
-                <p><strong>首次使用 （意思就是这个文件夹中的代码你还没有向GITHUB提交过代码）</strong></p>
+                <p>首次使用 （意思就是这个文件夹中的代码你还没有向GITHUB提交过代码）</p>
 
 <p><code>cd /home/test</code>(假如 test就是你的用户名)/githubtest(这是个文件夹,你可以提前先建立好,这个文件夹也可以是你要提交代码的项目文件夹)</p>
 
 <p><code>git init</code> //这是初始化在这个文件夹中建立一个空库</p>
 
-<p><code>git add</code>  //这个命令 你可以直接  git add . 这是把当前文件夹中的所有文件都加入到上传的列表中(注意要有空格),你还可以添加具体的文件 git add 你要添加的文件(test/test/test.txt)</p>
+<p>git add  //这个命令 你可以直接  git add . 这是把当前文件夹中的所有文件都加入到上传的列表中(注意要有空格),你还可以添加具体的文件 git add 你要添加的文件(test/test/test.txt)</p>
 
 <p><code>git commit -m</code> “说明”   //这个 说明 以你自己随意(注意要加 双引号),还要注意 这个条命令最好这样写,网上的有文章说 只用 git commit 这样不是不可以 这样是可以   这样的命令 系统会自动用一个 默认的应用程序打开一个文件让你输入  说明   ,但如果系统没有默认打开的话那就不能继续往下执行了,反正都是要写 说明  ,本来也没几个字,建议大家 直接 把命令写全,省的给自己找麻烦</p>
 
@@ -146,16 +153,20 @@
 
 <p><code>git commit -m</code> “说明”</p>
 
-<p><code>git push -u origin master</code>     //还记的这个别名吗origin 这个别名就是你用第一种方法首次向 GITHUB提交代码你用的别名</p>
+<p><code>git push -u origin master</code>     //还记的这个别名吗  origin  这个别名就是你用第一种方法首次 向 GITHUB提交代码 你用的 别名</p>
 
 
                 <hr>
 
                 <ul class="pager">
                     
+                    <li class="previous">
+                        <a href="/2016/03/02/firebug_ie/" data-toggle="tooltip" data-placement="top" title="用firebug调试ie">&larr; Previous Post</a>
+                    </li>
+                    
                     
                     <li class="next">
-                        <a href="/2016/03/03/my_first_article/" data-toggle="tooltip" data-placement="top" title="Markdown 语法文章示例">Next Post &rarr;</a>
+                        <a href="/2016/03/04/jekyll_githubPage/" data-toggle="tooltip" data-placement="top" title="Jekyll在github上构建免费的个人博客">Next Post &rarr;</a>
                     </li>
                     
                 </ul>
@@ -175,7 +186,7 @@
 
                 <div class="ds-share"
                     data-thread-key="/2016/03/03/github_command" data-title="Github代码提交常用指令"
-                    data-images="http://Myranda/img/facebook.jpg"
+                    data-images="http://Myranda/img/bg1.jpg"
                     data-content="首次使用 （意思就是这个文件夹中的代码你还没有向GITHUB提交过代码）
 
 cd /home/test(假如 test就是你的用户名)/githubtes... | Microdust:Azeril's blog"
@@ -326,8 +337,6 @@ var duoshuoQuery = {short_name:"cnfeat"};
     </div>
 </footer>
 
-<!-- jQuery -->
-<script src="/js/jquery.min.js "></script>
 
 <!-- Bootstrap Core JavaScript -->
 <script src="/js/bootstrap.min.js "></script>
@@ -338,13 +347,22 @@ var duoshuoQuery = {short_name:"cnfeat"};
 
 
 <!-- Highlight.js -->
-<script>
+<!--<script>
     async("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js",function(){
         hljs.initHighlightingOnLoad();
     })
-</script>
-<link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet">
+</script> -->
 
+<link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet">
+<!-- <link rel="stylesheet" href="/css/prettify.css">
+<script src="/js/prettify.js "></script>
+<script type="text/javascript">
+  jQuery(function(){
+    jQuery("pre").addClass("prettyprint linenums");
+    prettyPrint();
+  });
+</script> -->
+ 
 
 </body>
 

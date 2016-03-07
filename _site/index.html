@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="/css/bootstrap.min.css">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/clean-blog.css">
+    <link rel="stylesheet" href="/css/Myranda_blog.css">
 
     <!-- Pygments Github CSS -->
     <link rel="stylesheet" href="/css/syntax.css">
@@ -35,7 +35,14 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
+    
+<!-- jQuery -->
+<script src="/js/jquery.min.js "></script>
+<link rel="stylesheet" href="http://yandex.st/highlightjs/8.0/styles/solarized_dark.min.css">
+<script src="http://yandex.st/highlightjs/8.0/highlight.min.js"></script>
+<script>
+   hljs.initHighlightingOnLoad();
+</script>
 </head>
 
 
@@ -118,62 +125,43 @@
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 			
 <div class="post-preview">
-    <a href="/2016/03/03/my_second_article/">
+    <a href="/2016/03/04/url_parm/">
         <h2 class="post-title">            
-            非Markdown 语法文章
+            获取url后面的参数（多种方式）
         </h2>
         
         <div class="post-content-preview">
-            
-	
-		非Markdown 语法文章
-	
-	
-		非Markdown 语法文章测试
-		红色
-	
+            方法一：采用正则表达式获取地址栏参数：（ 强烈推荐，既实用又方便！）
 
- 
- 
+
+  
+function GetQueryString(name)
+{
+     var reg = new RegExp("(^|&amp;)"+ name +"=([^&amp;]*)(&amp;|$)");
+    ...
         </div>
     </a>
-    <p class="post-meta">Posted by Myranda on March 3, 2016</p>
+    <p class="post-meta">Posted by Myranda on March 4, 2016</p>
 </div>
 
 <hr>
 
 <div class="post-preview">
-    <a href="/2016/03/03/my_first_article/">
+    <a href="/2016/03/04/jekyll_githubPage/">
         <h2 class="post-title">            
-            Markdown 语法文章示例
+            Jekyll在github上构建免费的个人博客
         </h2>
         
         <div class="post-content-preview">
-            Markdown 语法文章示例
+            jekyll介绍
+Jekyll是一个静态站点生成器，它会根据网页源码生成静态文件。它提供了模板、变量、插件等功能，可以用来生成整个网站。
 
-目录
+Jekyll生成的站点，可以直接发布到github上面，这样我们就有了一个免费的，无限流量的，有人维护的属于我们的自己的web网站。  
 
-  第一部分
-  第二部分
-  第三部分
-
-
-
-
-第一部分 &lt;p id="partI"&gt;&lt;/p&gt;
-这里是第一部分的内容
-
-
-
-第二部分 &lt;p id="partII"&gt;&lt;/p&gt;
-这里是第二部分的内容
-
-
-
-...
+安装jekyl...
         </div>
     </a>
-    <p class="post-meta">Posted by Myranda on March 3, 2016</p>
+    <p class="post-meta">Posted by Myranda on March 4, 2016</p>
 </div>
 
 <hr>
@@ -197,10 +185,43 @@ git init //这是初始化在这个文件夹中建立一个...
 
 <hr>
 
+<div class="post-preview">
+    <a href="/2016/03/02/firebug_ie/">
+        <h2 class="post-title">            
+            用firebug调试ie
+        </h2>
+        
+        <div class="post-content-preview">
+            做网页的人都喜欢用firefox，因为firefox有个firebug调试工具，非常符合前端人员的口味。但是为了页面兼容，在IE6+系列调试时就非常让人头疼，在不知道IE也可以使用firebug之前，都是使用IE Developer Toolbar来调试，调试起来让人一头雾水。后来发现IE也可...
+        </div>
+    </a>
+    <p class="post-meta">Posted by Myranda on March 2, 2016</p>
+</div>
+
+<hr>
+
+<div class="post-preview">
+    <a href="/2016/03/01/javsscript_keycode/">
+        <h2 class="post-title">            
+            javascript屏蔽Ctrl+s，F1，F3各浏览器兼容写法
+        </h2>
+        
+        <div class="post-content-preview">
+            近来项目需要用到ctrl+S，F1，F3等快捷键，无奈各浏览器对这几个键都有默认事件，且屏蔽方式不尽相同，现对其作一整理总结。注意：该文是针对原生javascript写法，jquery已对相当一部分做了兼容处理，并不需要如此复杂。
+
+键盘事件
+        一般处理键盘按键事件我们采用这样的...
+        </div>
+    </a>
+    <p class="post-meta">Posted by Myranda on March 1, 2016</p>
+</div>
+
+<hr>
+
 
 <!-- Pager -->
 
-
+ 
 		</div>
 	</div>
 </div>
@@ -276,8 +297,6 @@ git init //这是初始化在这个文件夹中建立一个...
     </div>
 </footer>
 
-<!-- jQuery -->
-<script src="/js/jquery.min.js "></script>
 
 <!-- Bootstrap Core JavaScript -->
 <script src="/js/bootstrap.min.js "></script>
@@ -288,13 +307,22 @@ git init //这是初始化在这个文件夹中建立一个...
 
 
 <!-- Highlight.js -->
-<script>
+<!--<script>
     async("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js",function(){
         hljs.initHighlightingOnLoad();
     })
-</script>
-<link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet">
+</script> -->
 
+<link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet">
+<!-- <link rel="stylesheet" href="/css/prettify.css">
+<script src="/js/prettify.js "></script>
+<script type="text/javascript">
+  jQuery(function(){
+    jQuery("pre").addClass("prettyprint linenums");
+    prettyPrint();
+  });
+</script> -->
+ 
 
 </body>
 

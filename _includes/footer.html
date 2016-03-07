@@ -93,8 +93,6 @@
     </div>
 </footer>
 
-<!-- jQuery -->
-<script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
 
 <!-- Bootstrap Core JavaScript -->
 <script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
@@ -105,9 +103,19 @@
 
 
 <!-- Highlight.js -->
-<script>
+<!--<script>
     async("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js",function(){
         hljs.initHighlightingOnLoad();
     })
-</script>
+</script> -->
+
 <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet">
+<!-- <link rel="stylesheet" href="{{ "/css/prettify.css" | prepend: site.baseurl }}">
+<script src="{{ "/js/prettify.js " | prepend: site.baseurl }}"></script>
+<script type="text/javascript">
+  jQuery(function(){
+    jQuery("pre").addClass("prettyprint linenums");
+    prettyPrint();
+  });
+</script> -->
+ 

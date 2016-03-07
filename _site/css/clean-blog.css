@@ -1,12 +1,20 @@
+/*!
+ * Clean Blog v1.0.0 (http://startbootstrap.com)
+ * Copyright 2016 Start Bootstrap
+ * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
 body {
-  font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
-  line-height: 1.7;
-  font-size: 16px;
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-size: 20px;
   color: #404040;
-  overflow-x: hidden;
 }
 p {
+  line-height: 1.5;
   margin: 30px 0;
+}
+p a {
+  text-decoration: underline;
 }
 h1,
 h2,
@@ -14,16 +22,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
-
-  line-height: 1.1;
-  font-weight: 800;
-}
-h1 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-h4 {
-  font-size: 18px;
+  font-weight: 800;
 }
 a {
   color: #404040;
@@ -36,73 +36,15 @@ a img:hover,
 a img:focus {
   cursor: zoom-in;
 }
-article {
-  overflow-x: hidden;
-}
 blockquote {
   color: #808080;
   font-style: italic;
-  font-size: 0.95em;
-  margin: 20px 0 20px;
-}
-blockquote p {
-  margin: 0;
-}
-@media screen and (max-width: 768px) {
-  select {
-    -webkit-appearance: none;
-    margin-top: 15px;
-    color: #44bff2;
-    border-color: #44bff2;
-    padding: 0em 0.4em;
-    background: white;
-  }
-}
-.table th,
-.table td {
-  border: 1px solid #eee !important;
 }
 hr.small {
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
   border-color: white;
-}
-@media screen and (max-width: 500px) {
-  pre code {
-    display: block;
-    width: 500px;
-  }
-}
-.post-container a {
-  color: #2B4180;
-}
-.post-container a:hover,
-.post-container a:focus {
-  color: #6bb4bf;
-}
-.post-container ul,
-.post-container ol {
-  margin-bottom: 40px;
-}
-.post-container ol ol,
-.post-container ol ul,
-.post-container ul ol,
-.post-container ul ul {
-  margin-bottom: 5px;
-}
-.post-container li p {
-  margin: 0;
-  margin-bottom: 5px;
-}
-.post-container li h1,
-.post-container li h2,
-.post-container li h3,
-.post-container li h4,
-.post-container li h5,
-.post-container li h6 {
-  line-height: 2;
-  margin-top: 20px;
 }
 .navbar-custom {
   background: white;
@@ -111,8 +53,7 @@ hr.small {
   left: 0;
   width: 100%;
   z-index: 3;
-  font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
-  line-height: 1.7;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
@@ -127,9 +68,6 @@ hr.small {
   .navbar-custom {
     background: transparent;
     border-bottom: 1px solid transparent;
-  }
-  .navbar-custom body {
-    font-size: 20px;
   }
   .navbar-custom .navbar-brand {
     color: white;
@@ -203,14 +141,7 @@ hr.small {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 0px;
-  /* 0 on mobile, changed the setting*/
-}
-@media only screen and (min-width: 768px) {
-  .intro-header {
-    margin-bottom: 20px;
-    /* response on desktop */
-  }
+  margin-bottom: 50px;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
@@ -236,22 +167,21 @@ hr.small {
 }
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
-  font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
-  line-height: 1.7;
-  font-size: 20px;
-  line-height: 1.1;
-  display: block;
+  font-size: 24px;
+  line-height: 1.1,
+			display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
-    font-size: 65px;
+    font-size: 80px;
   }
 }
 .intro-header .post-heading h1 {
-  font-size: 27px;
+  font-size: 35px;
 }
 .intro-header .post-heading .subheading,
 .intro-header .post-heading .meta {
@@ -259,31 +189,26 @@ hr.small {
   display: block;
 }
 .intro-header .post-heading .subheading {
-  font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
-  line-height: 1.7;
-  font-size: 17px;
-  font-weight: normal;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 24px;
   margin: 10px 0 30px;
-  margin-top: -5px;
+  font-weight: 600;
 }
 .intro-header .post-heading .meta {
   font-family: 'Lora', 'Times New Roman', serif;
   font-style: italic;
   font-weight: 300;
-  font-size: 17px;
+  font-size: 20px;
 }
 .intro-header .post-heading .meta a {
   color: white;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
-    font-size: 50px;
+    font-size: 55px;
   }
   .intro-header .post-heading .subheading {
     font-size: 30px;
-  }
-  .intro-header .post-heading .meta {
-    font-size: 20px;
   }
 }
 .post-preview > a {
@@ -292,24 +217,21 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #0666C5;
+  color: #0085a1;
 }
 .post-preview > a > .post-title {
-  font-size: 21px;
-  line-height: 1.3;
+  font-size: 30px;
   margin-top: 30px;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 .post-preview > a > .post-subtitle {
-  font-size: 15px;
   margin: 0;
   font-weight: 300;
   margin-bottom: 10px;
 }
 .post-preview > .post-meta {
-  font-family: 'Lora', 'Times New Roman', serif;
   color: #808080;
-  font-size: 16px;
+  font-size: 18px;
   font-style: italic;
   margin-top: 0;
 }
@@ -319,33 +241,12 @@ hr.small {
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #2B4180;
+  color: #0085a1;
   text-decoration: underline;
 }
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
-    font-size: 26px;
-    line-height: 1.3;
-    margin-bottom: 10px;
-  }
-  .post-preview > a > .post-subtitle {
-    font-size: 16px;
-  }
-  .post-preview .post-meta {
-    font-size: 18px;
-  }
-}
-.post-content-preview {
-  font-size: 13px;
-  font-style: normal;
-  color: #a3a3a3;
-}
-.post-content-preview:hover {
-  color: #46A5ED;
-}
-@media only screen and (min-width: 768px) {
-  .post-content-preview {
-    font-size: 14px;
+    font-size: 36px;
   }
 }
 .section-heading {
@@ -364,7 +265,6 @@ hr.small {
   border-bottom-left-radius: 5px;
 }
 footer {
-  font-size: 20px;
   padding: 50px 0 65px;
 }
 footer .list-inline {
@@ -375,13 +275,6 @@ footer .copyright {
   font-size: 14px;
   text-align: center;
   margin-bottom: 0;
-}
-footer .copyright a {
-  color: #93e1de;
-}
-footer .copyright a:hover,
-footer .copyright a:focus {
-  color: #44bff2;
 }
 .floating-label-form-group {
   font-size: 14px;
@@ -428,14 +321,13 @@ footer .copyright a:focus {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #2B4180;
+  color: #0085a1;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
 }
 .btn {
-  font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
-  line-height: 1.7;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -458,8 +350,7 @@ form .row:first-child .floating-label-form-group {
 }
 .pager li > a,
 .pager li > span {
-  font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
-  line-height: 1.7;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -475,14 +366,11 @@ form .row:first-child .floating-label-form-group {
     padding: 15px 25px;
   }
 }
-.pager li > a {
-  color: #404040;
-}c
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
-  background-color: #00c9d7;
-  border: 1px solid #00c9d7;
+  background-color: #0085a1;
+  border: 1px solid #0085a1;
 }
 .pager .disabled > a,
 .pager .disabled > a:hover,
@@ -495,12 +383,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #00c9d7;
+  background: #0085a1;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #00c9d7;
+  background: #0085a1;
 }
 img::selection {
   color: white;
@@ -511,16 +399,5 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #00c9d7;
+  webkit-tap-highlight-color: #0085a1;
 }
-
-
-/* Optimize UserExperience */
-.navbar-default .navbar-toggle:focus,
-.navbar-default .navbar-toggle:hover {
-  background-color: inherit;
-}
-.navbar-default .navbar-toggle:active {
-  background-color: #ddd;
-}
-

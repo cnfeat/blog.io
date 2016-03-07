@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="/css/bootstrap.min.css">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/clean-blog.css">
+    <link rel="stylesheet" href="/css/Myranda_blog.css">
 
     <!-- Pygments Github CSS -->
     <link rel="stylesheet" href="/css/syntax.css">
@@ -35,7 +35,14 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
+    
+<!-- jQuery -->
+<script src="/js/jquery.min.js "></script>
+<link rel="stylesheet" href="http://yandex.st/highlightjs/8.0/styles/solarized_dark.min.css">
+<script src="http://yandex.st/highlightjs/8.0/highlight.min.js"></script>
+<script>
+   hljs.initHighlightingOnLoad();
+</script>
 </head>
 
 
@@ -129,17 +136,52 @@
 
 <div id="tag_cloud">
 
-<a href="#github,指令" title="github,指令" rel="1">github,指令</a>
+<a href="#键盘事件、兼容性" title="键盘事件、兼容性" rel="1">键盘事件、兼容性</a>
+
+<a href="#firebug," title="firebug," rel="1">firebug,</a>
+
+<a href="#正则，参数" title="正则，参数" rel="2">正则，参数</a>
+
+<a href="#github,jekyll" title="github,jekyll" rel="1">github,jekyll</a>
 
 </div>
 
 <ul class="listing">
 
-  <li class="listing-seperator" id="github,指令">github,指令</li>
+  <li class="listing-seperator" id="键盘事件、兼容性">键盘事件、兼容性</li>
+
+  <li class="listing-item">
+  <time datetime="2016-03-01">2016-03-01</time>
+  <a href="/2016/03/01/javsscript_keycode/" title="javascript屏蔽Ctrl+s，F1，F3各浏览器兼容写法">javascript屏蔽Ctrl+s，F1，F3各浏览器兼容写法</a>
+  </li>
+
+
+  <li class="listing-seperator" id="firebug,">firebug,</li>
+
+  <li class="listing-item">
+  <time datetime="2016-03-02">2016-03-02</time>
+  <a href="/2016/03/02/firebug_ie/" title="用firebug调试ie">用firebug调试ie</a>
+  </li>
+
+
+  <li class="listing-seperator" id="正则，参数">正则，参数</li>
+
+  <li class="listing-item">
+  <time datetime="2016-03-04">2016-03-04</time>
+  <a href="/2016/03/04/url_parm/" title="获取url后面的参数（多种方式）">获取url后面的参数（多种方式）</a>
+  </li>
 
   <li class="listing-item">
   <time datetime="2016-03-03">2016-03-03</time>
   <a href="/2016/03/03/github_command/" title="Github代码提交常用指令">Github代码提交常用指令</a>
+  </li>
+
+
+  <li class="listing-seperator" id="github,jekyll">github,jekyll</li>
+
+  <li class="listing-item">
+  <time datetime="2016-03-04">2016-03-04</time>
+  <a href="/2016/03/04/jekyll_githubPage/" title="Jekyll在github上构建免费的个人博客">Jekyll在github上构建免费的个人博客</a>
   </li>
 
 
@@ -234,8 +276,6 @@ $(function () {
     </div>
 </footer>
 
-<!-- jQuery -->
-<script src="/js/jquery.min.js "></script>
 
 <!-- Bootstrap Core JavaScript -->
 <script src="/js/bootstrap.min.js "></script>
@@ -246,13 +286,22 @@ $(function () {
 
 
 <!-- Highlight.js -->
-<script>
+<!--<script>
     async("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js",function(){
         hljs.initHighlightingOnLoad();
     })
-</script>
-<link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet">
+</script> -->
 
+<link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet">
+<!-- <link rel="stylesheet" href="/css/prettify.css">
+<script src="/js/prettify.js "></script>
+<script type="text/javascript">
+  jQuery(function(){
+    jQuery("pre").addClass("prettyprint linenums");
+    prettyPrint();
+  });
+</script> -->
+ 
 
 </body>
 
