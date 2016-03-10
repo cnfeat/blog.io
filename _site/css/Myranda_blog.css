@@ -1088,3 +1088,58 @@ a.cd-read-more:hover {
     animation: cd-bounce-2-inverse 0.6s;
   }
 }
+center {
+  margin: 30px 0 60px;
+}
+center small {
+  font-size: 14px;
+  color: #999;
+}
+.picText {
+  display: table;
+}
+.picText .pic {
+  width: 20%;
+  display: table-cell;
+  vertical-align: middle;
+}
+.picText .text {
+  display: table-cell;
+}
+.projectBox {
+  display: table;
+  border-bottom: 2px dashed #ddd;
+  padding: 15px;
+}
+.projectBox .proIntro {
+  width: 100%;
+}
+.projectBox .proIntro .proTitle h4 {
+  float: left;
+}
+.projectBox .proIntro .proTitle p {
+  font-size: 14px;
+  margin: 10px 0;
+  float: right;
+}
+.projectBox .proIntro .proTitle:before,
+.projectBox .proIntro .proTitle:after {
+  content: " ";
+  display: table;
+}
+.projectBox .proIntro .proTitle:after {
+  clear: both;
+}
+.projectBox .proIntro .proTime {
+  font-size: 12px;
+  color: #888;
+}
+.projectBox .proIntro p {
+  margin: 10px 0;
+}
+.projectBox .proImg {
+  width: 320px;
+  padding: 0 0 0 40px;
+  display: table-cell;
+  vertical-align: middle;
+}

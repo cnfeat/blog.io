@@ -2,7 +2,7 @@
 layout: page
 title: "作品"
 description: "王美兰的个人博客 "
-header-img: "img/zhihu.jpg"
+header-img: "img/bg4.jpg"
 ---
 
 
