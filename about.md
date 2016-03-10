@@ -5,7 +5,7 @@ description: "王美兰的个人简历 "
 header-img: "img/bg2.jpg"
 ---
 
-<div style='margin:0 -34%' class='row'> 
+<div class='content_row clearfix'> 
 <center>
     <p><img style='width:120px' src="http://ceqef.img47.wal8.com/img47/538205_20160303162908/145724830383.png" align="center"></p>
     <span>我是王美兰，女程序媛一枚，关注前端技术，专注用户体验。</span>
@@ -44,7 +44,7 @@ header-img: "img/bg2.jpg"
             </div>
         </div> 
  </div>
- <hr>
+ 
  <div class='col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 clearfix'>
  	<center><h2>教育背景</h2></center> 
  	<div class='picText'>
@@ -65,9 +65,9 @@ header-img: "img/bg2.jpg"
  	</div>
  </div>
  </div>
- <hr>
-<div class='col-lg-12 col-md-12' style='background-color:#e9f0f5'>
-	<div class='col-lg-10 col-lg-offset-1'>
+ 
+ 
+	<div class='col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1'>
 	<center><h2>工作经历</h2></center> 
 	<section id="cd-timeline" class="cd-container">
 	<div class="cd-timeline-block">
@@ -96,8 +96,8 @@ header-img: "img/bg2.jpg"
 </section>
 	
 </div>
-</div>
-<div class='col-lg-10 col-lg-offset-1 col-md-11 col-md-offset-1'>
+ 
+<div class='col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1'>
 	<center><h2>丰富的项目经验</h2><small>业余项目与公司项目相互促进</small></center>
 	<div class='projectBox'>
 		 <div class='proIntro'>

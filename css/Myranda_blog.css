@@ -1,9 +1,3 @@
-/*!
- * Myranda_blog v1.0.0 (http://startbootstrap.com)
- * Copyright 2016 Myranda
- * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
- */
-
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
@@ -961,7 +955,7 @@ Main components
   background: white;
   border-radius: 0.25em;
   padding: 1em;
-  box-shadow: 0 3px 0 #d7e4ed;
+  border: 2px solid #3AAADC;
 }
 .cd-timeline-content:after {
   content: "";
@@ -1012,7 +1006,7 @@ a.cd-read-more:hover {
   height: 0;
   width: 0;
   border: 7px solid transparent;
-  border-right: 7px solid white;
+  border-right: 7px solid #3AAADC;
 }
 @media only screen and (min-width: 768px) {
   .cd-timeline-content h2 {
@@ -1039,7 +1033,7 @@ a.cd-read-more:hover {
     top: 24px;
     left: 100%;
     border-color: transparent;
-    border-left-color: white;
+    border-left-color: #3AAADC;
   }
   .cd-timeline-content .cd-read-more {
     float: left;
@@ -1060,7 +1054,7 @@ a.cd-read-more:hover {
     left: auto;
     right: 100%;
     border-color: transparent;
-    border-right-color: white;
+    border-right-color: #3AAADC;
   }
   .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more {
     float: right;
@@ -1088,6 +1082,19 @@ a.cd-read-more:hover {
     animation: cd-bounce-2-inverse 0.6s;
   }
 }
+.content_row {
+  min-width: 720px;
+}
+@media (min-width: 992px) {
+  .content_row {
+    margin: 0 -20%;
+  }
+}
+@media (min-width: 1200px) {
+  .content_row {
+    margin: 0 -34%;
+  }
+}
 center {
   margin: 30px 0 60px;
 }
@@ -1099,9 +1106,10 @@ center small {
   display: table;
 }
 .picText .pic {
-  width: 20%;
+  width: 25%;
   display: table-cell;
   vertical-align: middle;
+  padding: 0 20px;
 }
 .picText .text {
   display: table-cell;
@@ -1109,7 +1117,7 @@ center small {
 .projectBox {
   display: table;
   border-bottom: 2px dashed #ddd;
-  padding: 15px;
+  padding: 30px 15px;
 }
 .projectBox .proIntro {
   width: 100%;
