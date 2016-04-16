@@ -4,7 +4,7 @@ title: 时空矩人
 # 1.头部背景图片
 header-img: "img/gray.jpg"
 tagline: "cn"  
-description: “时空矩人|读而立·写而生"  
+description: "HOME"  
 baseurl: ""
 url: "http://cnfeat"  
 
@@ -19,7 +19,7 @@ gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/Tacker.jpg
 
 douban_username:  
-twitter_username: “HOME”
+twitter_username: "时空矩人"
 github_username: "Tacker-A"
 facebook_username: 
 weibo_username: "傲霜之灵"
