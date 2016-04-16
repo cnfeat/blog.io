@@ -4,7 +4,7 @@ title: 时空矩人
 # 1.头部背景图片
 header-img: "img/gray.jpg"
 tagline: "cn"  
-description: "HOME"  
+description: "HOME|”  
 baseurl: "http://tacker-a.github.io"
 url: "http://tacker-a.github.io"  
 
@@ -45,7 +45,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "Tacker"
       header-img: "img/gray.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
