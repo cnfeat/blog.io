@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "CnFeat"
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/gray.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
