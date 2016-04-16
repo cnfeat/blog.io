@@ -6,9 +6,9 @@ header-img: "img/zhihu.jpg"
 ---
 
 
-<center>
+<!--<center>
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
-</center>
+</center>-->
 
 
 ###代表作：
