@@ -2,14 +2,14 @@
 title: 时空矩人
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: “好啊好啊|读而立·写而生"  
+description: “时空矩人|读而立·写而生"  
 baseurl: ""
 url: "http://cnfeat"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
+  name: " Tacker "
+  email: 3261836868@qq.com
   bio: "写就是写的报酬"
 
 # Data
@@ -18,7 +18,7 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: 
+github_username: 时空矩人
 facebook_username: 
 weibo_username: 
 zhihu_username: 
