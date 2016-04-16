@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="img/Tacker.jpg"></p>
+    <p><img src="https://github.com/Tacker-A/Tacker-A.github.io/blob/master/img/Tacker.jpg"></p>
 </center>
 
 我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
