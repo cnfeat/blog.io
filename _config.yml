@@ -1,6 +1,7 @@
 # Site settings
 title: 时空矩人
-# 头部背景图片
+
+# 1.头部背景图片
 header-img: "img/gray.jpg"
 tagline: "cn"  
 description: “时空矩人|读而立·写而生"  
@@ -15,7 +16,7 @@ owner:
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
+favicon: img/Tacker.jpg
 
 douban_username:  
 twitter_username: “HOME”
