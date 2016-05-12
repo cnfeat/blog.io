@@ -4,13 +4,13 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "Easy description"  
 baseurl: ""
-# url: "http://cnfeat"  
+url: "http://dyx0818.github.io"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " veblen"
+  email: 1210955086@qq.com
+  bio: "Coding Life"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -33,7 +33,7 @@ paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Harbin
 
 # Defaults for posts
 defaults:
