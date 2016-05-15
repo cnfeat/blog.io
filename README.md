@@ -7,7 +7,7 @@
 
 ##读立写生
 
-我是ZhenLiang，博客：[nofinder.com](nofinder.com)
+我是ZhenLiang，博客：[nullfinder.com](nullfinder.com)
 
 
 ##坚信
