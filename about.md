@@ -14,7 +14,7 @@ header-img: "img/green.jpg"
 
 现在研习 **有形(Tangible)交互设计** 。
 
-###坚信
+### 坚信
 
 - 走过必留下痕迹
 
@@ -32,7 +32,6 @@ header-img: "img/green.jpg"
 ### Publications：
 
 - [GaussMarbles: Spherical Magnetic Tangibles for Interacting with Portable Physical Constraints](http://dl.acm.org/citation.cfm?id=2858559&CFID=790246963&CFTOKEN=33371935)
-
 - [FlexiBend: Enabling Interactivity of Multi-Part, Deformable Fabrications Using Single Shape-Sensing Strip](http://dl.acm.org/citation.cfm?id=2807456&CFID=790246963&CFTOKEN=33371935)
 
 
@@ -42,9 +41,7 @@ header-img: "img/green.jpg"
 ### 联系
 
 - [博客@安林](https://andln.com)
-
 - [Facebook@andln](https://www.facebook.com/idfei)
-
 - [知乎@林灰](https://www.zhihu.com/people/andln)
 
 
