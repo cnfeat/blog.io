@@ -20,7 +20,7 @@ header-img: "img/green.jpg"
 
 
 
-###关注：
+### 关注：
 
 - [梁容豪博士](http://www.cmlab.csie.ntu.edu.tw/~howieliang/)
 - [麻神理工媒体实验室](www.media.mit.edu/)
@@ -29,7 +29,7 @@ header-img: "img/green.jpg"
 
 
 
-###Publications：
+### Publications：
 
 - [GaussMarbles: Spherical Magnetic Tangibles for Interacting with Portable Physical Constraints](http://dl.acm.org/citation.cfm?id=2858559&CFID=790246963&CFTOKEN=33371935)
 
@@ -39,19 +39,14 @@ header-img: "img/green.jpg"
 
 
 
-###联系
+### 联系
 
-- [博客：www.andln.com](www.andln.com)
+- [博客@安林](https://andln.com)
 
 - [Facebook@andln](https://www.facebook.com/idfei)
 
 - [知乎@林灰](https://www.zhihu.com/people/andln)
 
-
-
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
 
 
 
