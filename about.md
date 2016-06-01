@@ -10,57 +10,43 @@ header-img: "img/green.jpg"
 </center> -->
 ![img01](img/andln.jpg)
 
-我是林龙飞，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+我是林龙飞
 
-现在研习 **认知写作学** 。
+现在研习 **有形(Tangible)交互设计** 。
 
 ###坚信
 
+- 走过必留下痕迹
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
 
 
 ###关注：
 
-
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
+- [梁容豪博士](http://www.cmlab.csie.ntu.edu.tw/~howieliang/)
+- [麻神理工媒体实验室](www.media.mit.edu/)
+- [迪士尼研究所](https://www.disneyresearch.com/projects/)
 
 
 
 
-###代表作：
+###Publications：
 
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
+- [GaussMarbles: Spherical Magnetic Tangibles for Interacting with Portable Physical Constraints](http://dl.acm.org/citation.cfm?id=2858559&CFID=790246963&CFTOKEN=33371935)
 
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
-
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
+- [FlexiBend: Enabling Interactivity of Multi-Part, Deformable Fabrications Using Single Shape-Sensing Strip](http://dl.acm.org/citation.cfm?id=2807456&CFID=790246963&CFTOKEN=33371935)
 
 
-###我的朋友们
 
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
+
 
 ###联系
 
 - [博客：www.andln.com](www.andln.com)
 
-- [微博@CnFeat](http://weibo.com/207775270)
+- [Facebook@andln](https://www.facebook.com/idfei)
 
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
+- [知乎@林灰](https://www.zhihu.com/people/andln)
 
-
-- 公众号：cnfeat
 
 
 <center>
