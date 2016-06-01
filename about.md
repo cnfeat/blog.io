@@ -5,9 +5,10 @@ header-img: "img/green.jpg"
 ---
 
 
-<center>
-    <p><img src="https://github.com/Andln/andln.github.io/blob/master/img/andln.jpg" align="center"></p>
-</center>
+<!-- <center>
+    <p><img src="https://raw.githubusercontent.com/Andln/andln.github.io/master/img/andln.jpg" align="center"></p>
+</center> -->
+![img01](img/andln.jpg)
 
 我是林龙飞，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
 
@@ -52,13 +53,12 @@ header-img: "img/green.jpg"
 
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
+- [博客：www.andln.com](www.andln.com)
 
 - [微博@CnFeat](http://weibo.com/207775270)
 
 - [知乎@陈素封](http://www.zhihu.com/people/Feat)
 
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
 
 - 公众号：cnfeat
 
