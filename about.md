@@ -5,11 +5,8 @@ header-img: "img/green.jpg"
 ---
 
 
-<!-- <center>
-    <p><img src="https://raw.githubusercontent.com/Andln/andln.github.io/master/img/andln.jpg" align="center"></p>
-</center> -->
 <center>
-![img01](https://raw.githubusercontent.com/Andln/andln.github.io/master/img/andln.jpg)
+    <p><img src="https://raw.githubusercontent.com/Andln/andln.github.io/master/img/andln.jpg" align="center"></p>
 </center>
 
 我是林龙飞
