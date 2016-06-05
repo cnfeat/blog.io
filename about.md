@@ -39,7 +39,7 @@ header-img: "img/green.jpg"
 
 ### 联系
 
-- [博客@安林](https://andln.com)
+- [博客@安林](andln.com)
 - [Facebook@andln](https://www.facebook.com/idfei)
 - [知乎@林灰](https://www.zhihu.com/people/andln)
 
