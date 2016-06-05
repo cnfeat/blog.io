@@ -34,7 +34,7 @@ description: 希望总结做设计中的小技巧
 好的例子：
 ![goodExp](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_goodExp.png)
 坏的例子:
->存在渐变，互相覆盖的关系，而且背景很复杂，会影响临摹的效果
+*存在渐变，互相覆盖的关系，而且背景很复杂，会影响临摹的效果*
 ![badExp](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_badExp.png)
 
 ### 开启illustrator
@@ -71,7 +71,7 @@ adobe的illustrator是一款[矢量](https://en.wikipedia.org/wiki/Vector_graphi
 
 
 ### 作品展示：
-[color](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_color.jpg)
+![final](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_final.png)
 
 ### 总结
 当时发现illustrator有图像描摹的时候，内心真的是无比激动，可以瞬间得到标识的路径信息，否则你就需要拿钢笔工具慢慢临摹。所以也希望大家能通过这个便捷的功能，得到你满意的标识。
