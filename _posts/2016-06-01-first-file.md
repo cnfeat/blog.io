@@ -34,6 +34,7 @@ description: 希望总结做设计中的小技巧
 好的例子：
 ![goodExp](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_goodExp.png)
 坏的例子:
+
 *存在渐变，互相覆盖的关系，而且背景很复杂，会影响临摹的效果*
 ![badExp](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_badExp.png)
 
