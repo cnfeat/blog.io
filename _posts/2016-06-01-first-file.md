@@ -34,7 +34,7 @@ description: 希望总结做设计中的小技巧
 好的例子：
 ![goodExp](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_goodExp.png)
 坏的例子:
->存在渐变，互相覆盖的关系，而且背景很复杂，会影响临摹的效果
+> 存在渐变，互相覆盖的关系，而且背景很复杂，会影响临摹的效果
 ![badExp](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_badExp.png)
 
 ### 开启illustrator
@@ -46,10 +46,6 @@ adobe的illustrator是一款[矢量](https://en.wikipedia.org/wiki/Vector_graphi
 - 一个面板---颜色面板
 
 1. 新建一个a4纸大小的文档,文件->新建,
-![paraSet](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_paraSetting1.png)
-参数如下：
-![paraSet](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_paraSetting2.png)
-
 2. 导入标识：文件->打开
 3. 临摹标识（一个功能）：选中标识图片，点击图像描摹，在点击扩张得到路径文件
 当你看到你的标识周围都是点的时候，你就已经成功地把一个jpg/png图片转化为可编辑的工程文件，这时候的标识形状颜色就随你改变了。
