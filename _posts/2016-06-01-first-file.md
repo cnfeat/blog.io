@@ -59,7 +59,7 @@ adobe的illustrator是一款[矢量](https://en.wikipedia.org/wiki/Vector_graphi
 黑心的箭头就是选择工具，他可以对整个路径进行移动
 白心的箭头是直接选择工具，它可以对路径的锚点和手柄进行调整
 通过这两个工具的使用，使临摹出来的标识，更加平整和光滑
-[smooth](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_smooth.jpg)
+[smooth](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_smooth.jpg?imageView2/0/w/480/h/480/interlace/0/q/100)
 
 5. 改变颜色：选择你要更改标识的部分，对颜色进行改变
 [color](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_color.jpg)
@@ -72,7 +72,7 @@ adobe的illustrator是一款[矢量](https://en.wikipedia.org/wiki/Vector_graphi
 
 
 ### 作品展示：
-![final](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_final.png?imageView2/0/w/480/h/480/interlace/0/q/100)
+![final](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_final.png)
 
 ### 总结
 当时发现illustrator有图像描摹的时候，内心真的是无比激动，可以瞬间得到标识的路径信息，否则你就需要拿钢笔工具慢慢临摹。所以也希望大家能通过这个便捷的功能，得到你满意的标识。
