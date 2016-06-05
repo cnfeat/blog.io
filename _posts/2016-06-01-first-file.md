@@ -37,7 +37,7 @@ description: 希望总结做设计中的小技巧
 
 *存在渐变，互相覆盖的关系，而且背景很复杂，会影响临摹的效果*
 ![badExp](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_badExp.png?	
-imageView2/1/w/480/interlace/0/q/100)
+imageView2/0/w/480/h/480/interlace/0/q/100)
 
 ### 开启illustrator
 
