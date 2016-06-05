@@ -50,7 +50,7 @@ adobe的illustrator是一款[矢量](https://en.wikipedia.org/wiki/Vector_graphi
 2. 导入标识：文件->打开
 3. 临摹标识（一个功能）：选中标识图片，点击图像描摹，在点击扩张得到路径文件
 当你看到你的标识周围都是点的时候，你就已经成功地把一个jpg/png图片转化为可编辑的工程文件，这时候的标识形状颜色就随你改变了。
-![path](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_path.png)
+![path](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_path.png?imageView2/0/w/480/h/480/interlace/0/q/100)
 贴士：有些图片由于自身质量原因，临摹的结果可能会不好，这里你点选图像描摹右边的三角形，多试试几种方法，不同的方法可能得到的结果会不一样，选择你最满意的结果。
 ![style](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_styles.jpg)
 
@@ -59,7 +59,7 @@ adobe的illustrator是一款[矢量](https://en.wikipedia.org/wiki/Vector_graphi
 黑心的箭头就是选择工具，他可以对整个路径进行移动
 白心的箭头是直接选择工具，它可以对路径的锚点和手柄进行调整
 通过这两个工具的使用，使临摹出来的标识，更加平整和光滑
-[smooth](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_smooth.jpg?imageView2/0/w/480/h/480/interlace/0/q/100)
+[smooth](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_smooth.jpg)
 
 5. 改变颜色：选择你要更改标识的部分，对颜色进行改变
 [color](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_color.jpg)
