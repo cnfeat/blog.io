@@ -52,6 +52,7 @@ imageView2/0/w/480/h/480/interlace/0/q/100)
 分辨率，画册的分辨率一般为300
 ### 新建画册@illustrator新建画板
 从画板中可以看出，Illustator相比于Photoshop更适合做画册，这里对其参数进行讲解：
+
 - 配置文件：相当于模板，提供几种预设情景，这里可以选择打印模式；
 - 画板数量：一个画板可以理解为一张纸，当然如果画册页数多的情况下，建议分章节进行排版。
 - 出血：Illustrator的出血值可以单独调整，一般上下左右都设为3mm；
@@ -66,6 +67,7 @@ imageView2/0/w/480/h/480/interlace/0/q/100)
 字体，字号，行距，段前段后尺寸。如果是标题的话，需要有背景图，划线，边框等的设计
 ![title](http://7xuywf.com1.z0.glb.clouddn.com/brochureDesign_title.png)
 在字体的选择上，有以下三点需要注意：
+
 1. 不要使用系统自带的字体
 Windows用户不要使用系统自带的字体，比如隶书、宋体、黑体等，但是微软雅黑是一个值得推荐的字体，至于Mac用户，不要使用诸如beijing、song、FangSong、Hei、Kai等字体；
 2. 使用常用厂商的字体
@@ -78,6 +80,7 @@ Windows用户不要使用系统自带的字体，比如隶书、宋体、黑体�
 直接文件>另存为即可，有的时候图片数量较多，可以在窗口->动作中录制输出脚本，来批量化输出文件。
 
 ### 图片文件的导出@illustrator
+
 1. Illustrator的图片为，文件->导出；
 2. 选取格式，一般为jpg格式，勾选画板，否则Illustrator会自动根据画板中的图片大小进行导出
 ![export1](http://7xuywf.com1.z0.glb.clouddn.com/brochureDesign_ai_export.png)
