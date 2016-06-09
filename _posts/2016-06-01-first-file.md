@@ -3,7 +3,7 @@ layout: post
 title: 使用Illustrator描摹标识
 date: 2014-05-21
 categories: blog
-tags: [设计,logo,illustrator]
+tags: [design,logo,illustrator]
 description: 希望总结做设计中的小技巧
 
 ---
