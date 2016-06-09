@@ -4,7 +4,7 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "林龙飞|媒体技术与艺术君"  
 baseurl: ""
-url: "http://andln.com"  
+url: "andln.com"  
 
 # About/contact
 owner: 
@@ -14,7 +14,7 @@ owner:
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
+favicon: img/favicon.ico
 
 douban_username:  
 twitter_username: 
