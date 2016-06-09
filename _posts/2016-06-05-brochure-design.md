@@ -45,7 +45,7 @@ imageView2/0/w/480/h/480/interlace/0/q/100)
 
 ### 新建画册@photoShop新建
 需要注意的包括长度，宽度、分辨率与颜色模式；
-![ps_new](http://7xuywf.com1.z0.glb.clouddn.com/brochureDesign_ps_new.png)
+![ps_new](http://7xuywf.com1.z0.glb.clouddn.com/brochureDesign_ps_new.jpg)
 长度与宽度,预留[出血位](https://en.wikipedia.org/wiki/Bleed_(printing))
 在做图的过程中尽量摊开的两面放在一张图里设计，中间拉一条参考线。因为在日常生活中，画册的观看是两页同时展现的，这样有助于两个页面之间的排版与搭配。
 ![ps_refer](http://7xuywf.com1.z0.glb.clouddn.com/brochureDesign_ps_refer.png)
@@ -78,11 +78,11 @@ imageView2/0/w/480/h/480/interlace/0/q/100)
 直接文件>另存为即可，有的时候图片数量较多，可以在窗口->动作中录制输出脚本，来批量化输出文件。
 
 ### 图片文件的导出@illustrator
-	1. Illustrator的图片为，文件->导出；
-	2. 选取格式，一般为jpg格式，勾选画板，否则Illustrator会自动根据画板中的图片大小进行导出
-	![export1](http://7xuywf.com1.z0.glb.clouddn.com/brochureDesign_ai_export.png)
-	3. 最后确定颜色模型为[CMYK](https://en.wikipedia.org/wiki/CMYK_color_model)，品质一般我设为8，其他如图，确定即可。
-	![export2](http://7xuywf.com1.z0.glb.clouddn.com/brochureDesign_ai_export2.png)
+1. Illustrator的图片为，文件->导出；
+2. 选取格式，一般为jpg格式，勾选画板，否则Illustrator会自动根据画板中的图片大小进行导出
+![export1](http://7xuywf.com1.z0.glb.clouddn.com/brochureDesign_ai_export.png)
+3. 最后确定颜色模型为[CMYK](https://en.wikipedia.org/wiki/CMYK_color_model)，品质一般我设为8，其他如图，确定即可。
+![export2](http://7xuywf.com1.z0.glb.clouddn.com/brochureDesign_ai_export2.png)
 
 
 
