@@ -52,6 +52,7 @@ imageView2/0/w/480/h/480/interlace/0/q/100)
 在做图的过程中尽量摊开的两面放在一张图里设计，中间拉一条参考线。因为在日常生活中，画册的观看是两页同时展现的，这样有助于两个页面之间的排版与搭配。
 ![ps_refer](http://7xuywf.com1.z0.glb.clouddn.com/brochureDesign_ps_refer.png)
 分辨率，画册的分辨率一般为300
+
 ## 新建画册@illustrator新建画板
 从画板中可以看出，Illustator相比于Photoshop更适合做画册，这里对其参数进行讲解：
 
@@ -63,11 +64,11 @@ imageView2/0/w/480/h/480/interlace/0/q/100)
 ## 设定样式
 画册是多个页面的集合，在画册的设计过程中，务必保证页面之间的风格的统一，所以需要提早进行画册样式的设定。一般来说画册样式的设计包括个方面：
 
-**页眉页脚**
+**页眉页脚：**
 页眉页脚文字，背景图，当画册模板设计好以后，可以先存为一个工程文件模板.ai，作为外部文件直接链接到Illustrator，这样当版式需要调整的时候，可以直接修改文件模板.ai，然后在画册工程文件中更新即可修改所有模板。
 ![header](http://7xuywf.com1.z0.glb.clouddn.com/brochureDesign_header.png)
 
-**字体设置**
+**字体设置：**
 字体，字号，行距，段前段后尺寸。如果是标题的话，需要有背景图，划线，边框等的设计
 ![title](http://7xuywf.com1.z0.glb.clouddn.com/brochureDesign_title.png)
 在字体的选择上，有以下三点需要注意：
