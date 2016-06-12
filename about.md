@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About"
+description: "这是，关于我的一些"
 header-img: "img/green.jpg"
 ---
 
