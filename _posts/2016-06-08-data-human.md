@@ -12,6 +12,7 @@ description: TED观后感，让数据更人性化
 Jer Thorp  是[The Office for Creative Reasearch](http://o-c-r.org/)的联合创始人纽约大学[ITP项目](http://itp.nyu.edu/itp/)的兼职教授并就职于[New York Times R&D Group](http://nytlabs.com/)，擅长于将人们身边的数据，转化为可视化的意义与故事，从而能更好地了解与掌控自己的数据。
 
 # 演讲概要
+
 如果说该演讲仅仅围绕数据可视化，那我觉得不够精确概括，在一遍又一遍地看完视频后，我倾向于将作者的作品理解为数据人性化。许多人对数字，对公式，对数学不敏感，甚至于排斥，这就给了数据可视化一个生存的空间，亦或者给艺术家一个创造的天地。
 
 
