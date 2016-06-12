@@ -5,15 +5,19 @@ date: 2015-01-23
 categories: blog
 tags: [design,ted,visualization]
 description: TED观后感，让数据更人性化
-
 ---
 
 # 关于作者
+
 Jer Thorp  是[The Office for Creative Reasearch](http://o-c-r.org/)的联合创始人纽约大学[ITP项目](http://itp.nyu.edu/itp/)的兼职教授并就职于[New York Times R&D Group](http://nytlabs.com/)，擅长于将人们身边的数据，转化为可视化的意义与故事，从而能更好地了解与掌控自己的数据。
 
 # 演讲概要
 如果说该演讲仅仅围绕数据可视化，那我觉得不够精确概括，在一遍又一遍地看完视频后，我倾向于将作者的作品理解为数据人性化。许多人对数字，对公式，对数学不敏感，甚至于排斥，这就给了数据可视化一个生存的空间，亦或者给艺术家一个创造的天地。
+
+
 但很多时候数据可视化仅仅是为了将数据转化为图标，图形，用各式各样的方法，将数据变得「好看」起来，而忘记了原来的目的，即传达信息。本文主要展示Jer Thorp在TED中讲解的几个案例，从而更好地理解如何更好地将传达数据的信息，甚至传达其中的感情。
+
+
 一开始觉得讲者的项目介绍没什么规律，写着写着发现，原来是从纽约出发，然后通过社交网络到全球，后来通过NASA跑到了外星系，讲者的野心相当大。
 
 **[TED视频链接](http://www.ted.com/talks/jer_thorp_make_data_more_human)**
@@ -76,7 +80,8 @@ Cascade 是用以分析社交网络信息传播途径结构的模型，也叫Cas
 那我们开始更重视技术背后的意义，甚至我们了解到它们设计的隐私问题。
 因为数据并不是数字，它与我们现实的生活相互连接。
 正如讲者所说：
-	They carry weight  .
+
+> They carry weight  .
 
 
 
