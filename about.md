@@ -11,7 +11,7 @@ header-img: "img/green.jpg"
 
 ###联系
 
-- [博客：fenghao.me](fenghao.me)
+- [博客：fenghao.me](http://fenghao.me)
 
 - [微博@夏木木的哆啦A梦兼私人保镖](http://weibo.com/u/3313856825)
 
