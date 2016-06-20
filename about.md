@@ -8,6 +8,7 @@ header-img: "img/green.jpg"
 
 <center>
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="green.jpg" align="center"></p>
 </center>
 
 我是冯皓，本科学习地球物理，研究生考入软件工程专业，在这里记录我的代码生活。
