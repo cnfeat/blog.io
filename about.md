@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "但行好事，莫问前程 "
-header-img: "img/damotouicon.ico"
+header-img: "img/green.jpg"
 ---
 
 
