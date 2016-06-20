@@ -9,7 +9,7 @@ header-img: "img/green.jpg"
 我是冯皓，本科学习地球物理，研究生考入软件工程专业，在这里记录我的代码生活。
 
 
-###联系
+##联系
 
 - [博客：fenghao.me](fenghao.me)
 
