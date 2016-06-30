@@ -82,15 +82,13 @@ imageView2/0/w/480/h/480/interlace/0/q/100)
 
 
 ## [9/11纪念碑](http://blog.blprnt.com/blog/blprnt/all-the-names)
-![Just Land](http://7xuywf.com1.z0.glb.clouddn.com/dataHuman_Just-Landed.gif?	
-imageView2/0/w/480/h/480/interlace/0/q/100)
+![911](http://7xuywf.com1.z0.glb.clouddn.com/dataHuman_Memorial.gif?imageView2/0/w/480/h/480/interlace/0/q/100)
 该项目是为了纪念911逝者，其与众不同之处在于刻在纪念碑上的人名不是以一种机械的方式排列，比如字母顺序，笔画顺序或者被限制在表格中。而是从人这个个体开始，挖掘他们之间的人际关系，同事，家人，朋友，根据这些关系，来决定名字的排列顺序，用以缅怀逝者。那么如何找出这些关系，也就是如下这个工具的功能。
 目前该工具就2900个名字，从中找出了1400个相关关系。讲者简单介绍了该工具：首先是自动产生并罗列出所有的关系，然后根据挑选出一些关系配合所需要叙述的故事来设计纪念碑。
 
 
 ## [Open Path](http://blog.blprnt.com/blog/blprnt/your-device-your-data-how-to-save-your-iphone-location-data-and-help-researchers-make-the-world-a-better-place)
-![Just Land](http://7xuywf.com1.z0.glb.clouddn.com/dataHuman_Just-Landed.gif?	
-imageView2/0/w/480/h/480/interlace/0/q/100)
+![OpenPath](http://7xuywf.com1.z0.glb.clouddn.com/dataHuman_Local-Data.gif?imageView2/0/w/480/h/480/interlace/0/q/100)
 在此，讲者把视角转入了手机的地理位置记录数据上。Open Path通过接受手机的地理位置数据，让手机用户自身可以知道自己之前的行走路径。讲者介绍了自己曾经的参加，曾经的约会，以宣传一个概念，就是让用户自身能知道自己的小历史「所在，所做，所见」。这样就将这些碎片信息拼接成了自己的历史，而这正是数据人文化的一种体现吧。
 
 设备中储存的数据，经过加工与处理，就可以体现人文关怀，甚至记录了我们自己曾经的历史
