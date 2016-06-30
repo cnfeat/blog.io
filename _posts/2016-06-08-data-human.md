@@ -28,7 +28,8 @@ Jer Thorp  是[The Office for Creative Reasearch](http://o-c-r.org/)的联合创
 
 ## [Simulated Economy](http://blog.blprnt.com/blog/blprnt/the-colour-economy-the-gap-between-the-rich-and-the-poor)
 
-![Pixel](http://7xuywf.com1.z0.glb.clouddn.com/dataHuman_pixel.gif)
+![Pixel](http://7xuywf.com1.z0.glb.clouddn.com/dataHuman_pixel.gif?	
+imageView2/0/w/480/h/480/interlace/0/q/100)
 这是第一个案例，这是作者一个实验性的作品，图中的像素可以看为个体，他们之间互相进行「交易」，互相聚集也相互分离。至于颜色聚集的原理作者并没有细讲。
 
 ## [Communism&Terrorism](http://blog.blprnt.com/blog/blprnt/multi-faceted-searching-with-the-nytimes-apis)
