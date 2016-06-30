@@ -33,7 +33,9 @@ Jer Thorp  是[The Office for Creative Reasearch](http://o-c-r.org/)的联合创
 
 ## [Communism&Terrorism](http://blog.blprnt.com/blog/blprnt/multi-faceted-searching-with-the-nytimes-apis)
 
-![comm&terr](http://7xuywf.com1.z0.glb.clouddn.com/dataHuman_1.jpg)
+![comm&terr](http://7xuywf.com1.z0.glb.clouddn.com/dataHuman_1.jpg
+![badExp](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_badExp.png?	
+imageView2/0/w/480/h/480/interlace/0/q/100)
 接下来是作者对New York Times中词汇的提取与加工，基本上都是引入了词汇使用数量与时间之间的关系。
 首先是Communism&Terrorism（共产主义&恐怖主义）
 上方是Communism，下方是Terrorism，图中统计词汇自1981年以来在NY Times的使用频率，浅黄色表示出现在头版的数量，而暗黄色表示。。。。
@@ -41,7 +43,10 @@ Jer Thorp  是[The Office for Creative Reasearch](http://o-c-r.org/)的联合创
 
 
 ## Timepiece graph
-![time](http://7xuywf.com1.z0.glb.clouddn.com/dataHuman_2.png)
+![time](http://7xuywf.com1.z0.glb.clouddn.com/dataHuman_2.png?	
+imageView2/0/w/480/h/480/interlace/0/q/100)
+<!-- ![badExp](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_badExp.png?	
+imageView2/0/w/480/h/480/interlace/0/q/100) -->
 接下来的可视化形式是Timepiece graph，顺时针表示一天之内的时间，而颜色代表种类，条形的长度代表数量，这样就可以很直观的看出在哪个时间段，A的数量与B数量的增减情况。其中灰色的表示Despair（绝望）而白色表示（希望），可以看出大概有3次绝望的情绪是超过希望的
 
 ## [NYTimes : 365/360](http://blog.blprnt.com/blog/blprnt/7-days-of-source-day-2-nytimes-36536)
