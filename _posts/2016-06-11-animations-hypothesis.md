@@ -42,15 +42,24 @@ Janet Lwasa 目前是犹他大学生物化学系的研究助理教授，主要�
 
 
 有大量的实验证据标明，同样的信号通路即介导了细胞的坏死也介导了细胞的凋亡。以下这个动画描绘了信号通路引导细胞的过程。
-![MolecularAnimation1](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_MolecularAnimation1.gif?	imageView2/0/w/480/h/480/interlace/0/q/100)
+![Necroptosis1](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_Necroptosis1.gif?imageView2/0/w/480/h/480/interlace/0/q/100)
 
 
 ## 艾滋病生命周期
 
+![hiv_lifecycle1](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_hiv_lifecycle1.jpg?imageView2/0/w/480/h/480/interlace/0/q/100)
+
 该项目与[CHEETAH财团](http://cheetah.biochem.utah.edu/)和[NIGMS艾滋病病毒/艾滋病相关的结构生物学专业中心](https://www.nigms.nih.gov/research/specificareas/AIDSStructuralBiology/pages/HIVspecializedcenters.aspx)合作，目的是探求目前在分子机制下，艾滋病病毒如何进入与存在于宿主细胞内。
 
 
-如图3-1 描绘了艾滋病病毒的整个生命周期，与之相对的是3张动图，目前动画图的过程依然还在研究当中，在未来会进行更新、扩充或重新定义。
+如图下图 描绘了艾滋病病毒的整个生命周期，与之相对的是3张动图，目前动画图的过程依然还在研究当中，在未来会进行更新、扩充或重新定义。
+
+
+![HIV-entry](http://7xuywf.com1.z0.glb.clouddn.com/HIV-entry.gif?imageView2/0/w/480/h/480/interlace/0/q/100)
+
+![Blocking-infection](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_Blocking-infection.gif?imageView2/0/w/480/h/480/interlace/0/q/100)
+
+![HIV-maturation](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_HIV-maturation.gif?imageView2/0/w/480/h/480/interlace/0/q/100)
 
 
 # 关于软件
@@ -59,13 +68,15 @@ Janet Lwasa 目前是犹他大学生物化学系的研究助理教授，主要�
 
 
 这个软件目前支持Windows与Mac平台，是免费开源，设计目的是让一个研究人员在15分钟内上手，软件非常成功，也基本上达到目的。
-
+![Tool2](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_Tool2.gif?imageView2/0/w/480/h/480/interlace/0/q/100)
 
 Molecular Flipbook是绿色的，无需安装，笔者也下载了该软件简单地体验了下，一个三维动画的制作过程可以简单分为3步，建模，动画，渲染。
 
 
 - 第一步是建模，该软件支持从[PDB](http://www.pdb.org/)导入蛋白质模型，也支持简单蛋白质设置。
 - 第二步是动画，软件支持对模型的平移，旋转，颜色改变等操作，简单且恰到好处。在动画部分将关键帧的概念用幻灯片的形式表达，而每个幻灯片之间的时间默认为2秒，这点十分好，大大减少研究人员的理解难度。
+
+![Tool](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_Tool.gif?imageView2/0/w/480/h/480/interlace/0/q/100)
 - 第三步是渲染，渲染的设置项也很简介，视频格式，视频大小，视频名字，还有草稿渲染选项，很贴心，经过测试，一个6秒的视频一分钟内就渲染完毕。
 
 又是一个精彩的TED演讲，讲者为自己的行业行业创造了一种叙述语言，也为这个语言发明了一个工具，而这个工具将来也会很好地帮助研究人员发现新的研究课题。
