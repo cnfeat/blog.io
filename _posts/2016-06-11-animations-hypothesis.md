@@ -55,7 +55,7 @@ Janet Lwasa 目前是犹他大学生物化学系的研究助理教授，主要�
 如图下图 描绘了艾滋病病毒的整个生命周期，与之相对的是3张动图，目前动画图的过程依然还在研究当中，在未来会进行更新、扩充或重新定义。
 
 
-![HIV-entry](http://7xuywf.com1.z0.glb.clouddn.com/HIV-entry.gif?imageView2/0/w/480/h/480/interlace/0/q/100)
+![HIV-entry](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_HIV-entry.gif?imageView2/0/w/480/h/480/interlace/0/q/100)
 
 ![Blocking-infection](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_Blocking-infection.gif?imageView2/0/w/480/h/480/interlace/0/q/100)
 
