@@ -8,7 +8,7 @@ description: TED观后感，让数据更人性化
 ---
 
 # 关于作者
-
+![author](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_author.jpg?imageView2/0/w/480/h/480/interlace/0/q/100)
 Janet Lwasa 目前是犹他大学生物化学系的研究助理教授，主要研究方向就是分子过程的可视化。
 
 
@@ -16,6 +16,7 @@ Janet Lwasa 目前是犹他大学生物化学系的研究助理教授，主要�
 
 # 演讲概要
 
+![cover](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_cover.jpg?imageView2/0/w/480/h/480/interlace/0/q/100)
 传统图表对于复杂的分子运动刻画非常有局限性，二维的、静止的无法直观地表现这样的运动。而Janet Iwasa's 则通过自学3维动画制作，结合自身的专业知识向我们呈现了一个五彩缤纷的分子世界。但由于3维动画软件学习曲线较高，授之以鱼不如授之以渔，Janet Iwasa在2014年上线了一款全新开源的动画软件 -- Molecular Flipbook。
 
 ** [TED视频链接](http://www.ted.com/speakers/janet_iwasa) **
@@ -24,23 +25,24 @@ Janet Lwasa 目前是犹他大学生物化学系的研究助理教授，主要�
 
 ## 网格蛋白介导的内吞
 
+
 细胞的内噬作用过程是细胞通过形成囊泡来「消化」自身的膜和外在的物质，膜出芽形成囊泡通常是由一层蛋白质介导的。目前研究标明，网格蛋白被证明在受体介导的内吞过程中产生作用。
 
-
-如图【】描绘了网格蛋白介导的内吞过程，那个三条腿的分子就是网格蛋白，蛋白通过受体与外部细胞膜结合，相反在内也与受体结合，并触发形成一个由转铁蛋白包围的网格笼。这时，从图中可以看到网格笼可以慢慢「吸」入细胞膜囊泡，紫色的蛋白分子切断囊泡与细胞膜之间的连接，在这之后，网格笼基本完成它的使命，黄色和橙色的辅助蛋白-HSC70开始帮助拆卸网格蛋白。
-
+![lathrin-mediated Endocytosis](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_Clathrin-mediated Endocytosis.png?	imageView2/0/w/480/h/480/interlace/0/q/100)
+如上图描绘了网格蛋白介导的内吞过程，那个三条腿的分子就是网格蛋白，蛋白通过受体与外部细胞膜结合，相反在内也与受体结合，并触发形成一个由转铁蛋白包围的网格笼。这时，从图中可以看到网格笼可以慢慢「吸」入细胞膜囊泡，紫色的蛋白分子切断囊泡与细胞膜之间的连接，在这之后，网格笼基本完成它的使命，黄色和橙色的辅助蛋白-HSC70开始帮助拆卸网格蛋白。
+![MolecularAnimation1](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_MolecularAnimation1.gif?	imageView2/0/w/480/h/480/interlace/0/q/100)
 
 
 ## 细胞坏死过程
 
 相对于细胞凋亡，即细胞的程序性死亡，细胞坏死一直以来被认为是表示细胞因为损伤而非正常死亡的过程。但是最近的研究表明一些细胞坏死的形成在使用分子信号通路的过程中常与细胞凋亡的调控网络交织在一起。这个过程被成为凋亡。
-
+![Necroptosis2](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_Necroptosis2.gif?imageView2/0/w/480/h/480/interlace/0/q/100)
 
 这个项目的目的就是对比细胞凋亡与细胞坏死的表型分析。在细胞坏死过程中，与凋亡最重要的区别是这个过程中细胞会膨胀且更透明，其原因是因为液体的进入，和质膜穿孔导致的细胞物质外漏。此外，细胞核，囊泡还有溶酶体在这个过程中也会变大。相反，细胞凋亡过程中，细胞则是缩小，伴随着大量气泡的质膜和线粒体的肿胀。
 
 
-有大量的实验证据标明，同样的信号通路即介导了细胞的坏死也介导了细胞的凋亡。以下这个动画描绘了信号通路引导细胞的过程
-
+有大量的实验证据标明，同样的信号通路即介导了细胞的坏死也介导了细胞的凋亡。以下这个动画描绘了信号通路引导细胞的过程。
+![MolecularAnimation1](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_MolecularAnimation1.gif?	imageView2/0/w/480/h/480/interlace/0/q/100)
 
 
 ## 艾滋病生命周期
