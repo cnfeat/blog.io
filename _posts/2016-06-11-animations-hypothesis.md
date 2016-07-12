@@ -16,7 +16,7 @@ Janet Lwasa 目前是犹他大学生物化学系的研究助理教授，主要�
 
 # 演讲概要
 
-![cover](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_cover.jpg?imageView2/0/w/480/h/480/interlace/0/q/100)
+![cover](http://7xuywf.com1.z0.glb.clouddn.com/molecularm_Cover.jpg?imageView2/0/w/480/h/480/interlace/0/q/100)
 传统图表对于复杂的分子运动刻画非常有局限性，二维的、静止的无法直观地表现这样的运动。而Janet Iwasa's 则通过自学3维动画制作，结合自身的专业知识向我们呈现了一个五彩缤纷的分子世界。但由于3维动画软件学习曲线较高，授之以鱼不如授之以渔，Janet Iwasa在2014年上线了一款全新开源的动画软件 -- Molecular Flipbook。
 
 ** [TED视频链接](http://www.ted.com/speakers/janet_iwasa) **
@@ -24,7 +24,6 @@ Janet Lwasa 目前是犹他大学生物化学系的研究助理教授，主要�
 # 演讲内容
 
 ## 网格蛋白介导的内吞
-
 
 细胞的内噬作用过程是细胞通过形成囊泡来「消化」自身的膜和外在的物质，膜出芽形成囊泡通常是由一层蛋白质介导的。目前研究标明，网格蛋白被证明在受体介导的内吞过程中产生作用。
 
