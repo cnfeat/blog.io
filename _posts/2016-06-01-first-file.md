@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 使用Illustrator描摹标识
+subtitle: Design logo by Illustrator
 date: 2014-05-21
 categories: blog
 tags: [design,logo,illustrator]
