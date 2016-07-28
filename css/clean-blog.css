@@ -692,3 +692,40 @@ form .row:first-child .floating-label-form-group {
 }
 
 
+.comment {
+  margin-top: 20px;
+}
+.comment #ds-thread #ds-reset a.ds-like-thread-button {
+  border: 1px solid #ddd;
+  border-radius: 0px;
+  background: white;
+  box-shadow: none;
+  text-shadow: none;
+}
+.comment #ds-thread #ds-reset li.ds-tab a.ds-current {
+  border: 1px solid #ddd;
+  border-radius: 0px;
+  background: white;
+  box-shadow: none;
+  text-shadow: none;
+}
+.comment #ds-thread #ds-reset .ds-textarea-wrapper {
+  background: none;
+}
+.comment #ds-thread #ds-reset .ds-gradient-bg {
+  background: none;
+}
+.comment #ds-thread #ds-reset .ds-post-options {
+  border-bottom: 1px solid #ccc;
+}
+.comment #ds-thread #ds-reset .ds-post-button {
+  border-bottom: 1px solid #ccc;
+}
+.comment #ds-thread #ds-reset .ds-post-button {
+  background: white;
+  box-shadow: none;
+}
+.comment #ds-thread #ds-reset .ds-post-button:hover {
+  background: #eeeeee;
+}
+
