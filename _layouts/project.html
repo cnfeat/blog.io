@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<!-- Project Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if project.header-img %}{{ project.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading">
+                    <h1>{% if project.title %}{{ project.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    <hr class="small">
+                    <span class="subheading">{{ project.description }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<link rel="stylesheet" href="/css/backtop.css">  <!-- Back Top -->
+<script type="text/javascript" src="/js/backtop.js"></script>  <!-- Back Top -->
+
+<div id="back-top">
+  <a href="#top" title="回到顶部"></a>
+</div>
+
+<!-- Main Content -->
+<div class="container">
+	<div class="row">
+		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+			{{ content }}
+		</div>
+	</div>
+</div>
+
+<hr>
