@@ -6,6 +6,7 @@ date: 2014-05-21
 categories: blog
 tags: [design,logo,illustrator]
 description: 希望总结做设计中的小技巧
+catalog: true
 
 ---
 
