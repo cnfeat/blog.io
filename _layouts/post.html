@@ -33,88 +33,145 @@ layout: default
 
 
 <!-- Post Content -->
+<!-- Post Content -->
 <article>
     <div class="container">
         <div class="row">
 
-            <!-- Post Container-->
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-container">
+    <!-- Post Container -->
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                post-container">
 
                 {{ content }}
 
                 <hr>
-                
-                <!-- Pager  Start -->
+
+                {% if site.duoshuo_share && site.duoshuo_username %}
+                <!-- 多说 Share start -->
+                </style>
+                <div class="ds-share"
+                    style="text-align: right"
+                    data-thread-key="{{page.id}}"
+                    data-title="{{page.title}}"
+                    data-url="{{site.url}}{{site.baseurl}}{{page.url}}"
+                    data-images="{{ site.url }}{{site.baseurl}}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}"
+                    data-content="{{ content | strip_html | truncate:80 }} | {{ site.SEOTitle }} " >
+                    <div class="ds-share-inline">
+                      <ul  class="ds-share-icons-16">
+                        <li data-toggle="ds-share-icons-more"><a class="ds-more" href="#">分享到：</a></li>
+                        <li><a class="ds-wechat flat" href="javascript:void(0);" data-service="wechat">微信</a></li>
+                        <li><a class="ds-weibo flat" href="javascript:void(0);" data-service="weibo">微博</a></li>
+                        <li><a class="ds-douban flat" href="javascript:void(0);" data-service="douban">豆瓣</a></li>
+                      </ul>
+                      <div class="ds-share-icons-more">
+                      </div>
+                    </div>
+                <hr>
+                </div>
+                <!-- 多说 Share end-->
+                {% endif %}
+
+
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
-                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">
+                        Previous<br>
+                        <span>{{page.previous.title}}</span>
+                        </a>
                     </li>
                     {% endif %}
                     {% if page.next.url %}
                     <li class="next">
-                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">
+                        Next<br>
+                        <span>{{page.next.title}}</span>
+                        </a>
                     </li>
                     {% endif %}
                 </ul>
-                <!-- Pager  End -->
 
-                <!-- Duoshuo Share Start -->
-                <style>
-                    .ds-share{
-                        text-align: right;
-                    }
-                    
-                    @media only screen and (max-width: 700px) {
-                        .ds-share {
 
-                        }
-                    }
-                </style>               
-                <div class="ds-share"
-                    data-thread-key="{{page.id}}" data-title="{{page.title}}"
-                    data-images="{{ site.url }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}"
-                    data-content="{{ content | strip_html | truncate:80 }} | Microdust:Azeril's blog"
-                    data-url="{{site.url}}{{page.url}}">
-                    <div class="ds-share-inline">
-                        <ul  class="ds-share-icons-16">
-                            <li data-toggle="ds-share-icons-more"><a class="ds-more" href="#">分享到：</a></li>
-                            <li><a class="ds-wechat flat" href="javascript:void(0);" data-service="wechat">微信</a></li>
-                            <li><a class="ds-weibo flat" href="javascript:void(0);" data-service="weibo">微博</a></li>
-                            <li><a class="ds-douban flat" href="javascript:void(0);" data-service="douban">豆瓣</a></li>
-                        </ul>
-                        <div class="ds-share-icons-more">
-                        </div>
-                    </div> 
-                    <hr>
+                {% if site.duoshuo_username %}
+                <!-- 多说评论框 start -->
+                <div class="comment">
+                    <div class="ds-thread"
+                        data-thread-key="{{page.id}}"
+                        data-title="{{page.title}}"
+                        data-url="{{site.url}}{{site.baseurl}}{{page.url}}" >
+                    </div>
                 </div>
-                 <!--Duoshuo Share End-->
+                <!-- 多说评论框 end -->
+                {% endif %}
 
-        <!-- Side Catalog Container -->
+                {% if site.disqus_username %}
+                <!-- disqus 评论框 start -->
+                <div class="comment">
+                    <div id="disqus_thread" class="disqus-thread"></div>
+                </div>
+                <!-- disqus 评论框 end -->
+                {% endif %}
+            </div>  
+
+    <!-- Side Catalog Container -->
         {% if page.catalog %}
-        <div class="
-            col-lg-2 col-lg-offset-0
-            visible-lg-block
-            sidebar-container
-            catalog-container">
-            <div class="side-catalog">
-                <hr class="hidden-sm hidden-xs">
-                <h5>
-                    <a class="catalog-toggle" href="#">CATALOG</a>
-                </h5>
-                <ul class="catalog-body"></ul>
+            <div class="
+                col-lg-2 col-lg-offset-0
+                visible-lg-block
+                sidebar-container
+                catalog-container">
+                <div class="side-catalog">
+                    <hr class="hidden-sm hidden-xs">
+                    <h5>
+                        <a class="catalog-toggle" href="#">CATALOG</a>
+                    </h5>
+                    <ul class="catalog-body"></ul>
+                </div>
             </div>
-        </div>
         {% endif %}
 
+            <!-- Sidebar Container -->
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                sidebar-container">
 
-        
+                <!-- Featured Tags -->
+                {% if site.featured-tags %}
+                <section>
+                    <hr class="hidden-sm hidden-xs">
+                    <h5><a href="/tags/">FEATURED TAGS</a></h5>
+                    <div class="tags">
+                        {% for tag in site.tags %}
+                            {% if tag[1].size > {{site.featured-condition-size}} %}
+                                <a href="/tags/#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">
+                                    {{ tag[0] }}
+                                </a>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                </section>
+                {% endif %}
+
+                <!-- Friends Blog -->
+                {% if site.friends %}
+                <hr>
+                <h5>FRIENDS</h5>
+                <ul class="list-inline">
+                    {% for friend in site.friends %}
+                        <li><a href="{{friend.href}}">{{friend.title}}</a></li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+            </div>
         </div>
     </div>
 </article>
 
 <!-- 多说评论框 start -->
-<div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}{{page.url}}"></div>
+<!-- <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}{{page.url}}"></div> -->
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
