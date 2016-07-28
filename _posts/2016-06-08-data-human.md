@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Make data more human
+title: 数据人性化
+subtitle: Make data more human
 date: 2015-01-23
 categories: blog
 tags: [design,ted,visualization]

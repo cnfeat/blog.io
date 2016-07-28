@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 画册制作流程
+subtitle: Brochure design workflow
 date: 2014-05-24
 categories: blog
 tags: [design,brochure,photoshop,illustrator]

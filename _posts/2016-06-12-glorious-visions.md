@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 隐藏于自然世界下的奇观
+subtitle: Glorious visions in animation and performance
 date: 2015-02-13
 categories: blog
 tags: [design,ted,visualization]

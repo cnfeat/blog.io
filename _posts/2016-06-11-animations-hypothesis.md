@@ -1,6 +1,7 @@
 ---
 layout: post
-title: How animations can help scientists test a hypothesis
+title: 用动画可视化为科学家测试假说
+subtitle: How animations can help scientists test a hypothesis
 date: 2015-02-13
 categories: blog
 tags: [design,ted,visualization]
