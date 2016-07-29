@@ -7,18 +7,42 @@ header-img: "img/orange.jpg"
 ---
 
 
-<ul class="listing">
+<!-- <ul class="listing">
 {% for post in site.posts %}
 {% if post.type == "project" %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
-  {% if year != y %}
-    {% assign year = y %}
-    <li class="listing-seperator">{{ y }}</li>
-  {% endif %}
+
   <li class="listing-item">
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endif %}
 {% endfor %}
-</ul>
+</ul> -->
+
+{% for post in site.posts %}
+{% if post.type == "project" %}
+<div class = "main">
+	<ul class= "cbp_tmtimeline">
+		<li>
+			<div class = "cbp_tmlabel">
+				<h2 id = "boxoffice">{{post.title}}</h2>
+				<time>post.date</time>
+				<img src="{{post.imgsrc}}">
+				<ul>
+					<li>
+						{{post.description}}
+					</li>
+					<li class = "skill">
+						<span><b>JS</b></span>
+						<span class = "link">
+							<a target="_blank" href="{{post.url}}">查看</a>
+						</span>
+					</li>
+				</ul>
+			</div>
+	</ul>
+</div>
+
+{% endif %}
+{% endfor %}
