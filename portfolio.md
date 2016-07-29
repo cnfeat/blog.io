@@ -27,14 +27,16 @@ header-img: "img/orange.jpg"
 		<li>
 			<div class = "cbp_tmlabel">
 				<h2 id = "boxoffice">{{post.title}}</h2>
-				<time>post.date</time>
+				<time>{{post.date}}</time>
 				<img src="{{post.imgsrc}}">
 				<ul>
 					<li>
 						{{post.description}}
 					</li>
 					<li class = "skill">
-						<span><b>JS</b></span>
+						{% for skill in page.skills %}
+						<span><b>{{skill}}</b></span>
+						{% endfor%}
 						<span class = "link">
 							<a target="_blank" href="{{post.url}}">查看</a>
 						</span>
