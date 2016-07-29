@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<!-- Project Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if project.header-img %}{{ project.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -12,9 +12,9 @@ layout: default
                     <div align="center">
                         <img width="190" height="190" src="https://raw.githubusercontent.com/Andln/andln.github.io/master/img/andln.jpg"> 
                     </div>
-                    <h1>{% if project.title %}{{ project.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
                     <hr class="small">
-                    <span class="subheading">{{ project.description }}</span>
+                    <span class="subheading">{{ page.description }}</span>
                 </div>
             </div>
         </div>
