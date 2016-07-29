@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 type: project
 title: DynaFrame
 subtitle: 这个项目是DynaFrame
@@ -7,12 +7,11 @@ place: NTU-cmLab
 placeurl: https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php
 date: 2014-05-21
 categories: blog
-tags: [design,logo,illustrator]
+tags: [Arduino,Processing,TUI]
 skills: [Ar,Pr]
 catalog: false
 imgsrc: http://7xuywf.com1.z0.glb.clouddn.com/dynaFrame_dynaFrame.jpg
 description: 希望总结做设计中的小技巧
-
 
 ---
 
