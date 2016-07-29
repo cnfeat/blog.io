@@ -7,6 +7,7 @@ categories: blog
 tags: [design,brochure,photoshop,illustrator]
 description: 从设计师的角度来看，画册设计规范以及注意事项
 catalog: true
+type: article
 
 ---
 ![teaser](http://7xuywf.com1.z0.glb.clouddn.com/brochureDesign_teaser.png?	

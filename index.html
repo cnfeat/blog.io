@@ -4,6 +4,7 @@ description: "林龙飞"
 ---
 
 {% for post in paginator.posts %}
+{% if post.type == "article" %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            
@@ -22,6 +23,7 @@ description: "林龙飞"
 </div>
 
 <hr>
+{% endif %}
 {% endfor %}
 
 <!-- Pager -->

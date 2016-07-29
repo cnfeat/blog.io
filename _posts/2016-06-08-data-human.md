@@ -7,6 +7,7 @@ categories: blog
 tags: [design,ted,visualization]
 description: TED观后感，让数据更人性化
 catalog: true
+type: article
 ---
 
 # 关于作者
