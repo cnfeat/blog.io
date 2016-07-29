@@ -34,7 +34,7 @@ header-img: "img/orange.jpg"
 						{{post.description}}
 					</li>
 					<li class = "skill">
-						{% for skill in page.skills %}
+						{% for skill in post.skills %}
 						<span><b>{{skill}}</b></span>
 						{% endfor%}
 						<span class = "link">
@@ -43,6 +43,7 @@ header-img: "img/orange.jpg"
 					</li>
 				</ul>
 			</div>
+		</li>	
 	</ul>
 </div>
 
