@@ -531,10 +531,11 @@ pre code {
     padding: 150px 0;
   }
 }
-/*.intro-header .site-heading,
+.intro-header .site-heading,
 .intro-header .page-heading {
   text-align: center;
-}*/
+  vertical-align: center;
+}
 .intro-header .site-heading h1,
 .intro-header .page-heading h1 {
   margin-top: 0;
