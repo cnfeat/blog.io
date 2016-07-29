@@ -35,7 +35,7 @@
                     </li>
                     {% endif %}
                     
-                    <!--
+                    
                     {% if site.douban_username %}
                     <li>
                         <a href="http://www.douban.com/people/{{ site.douban_username }}">
@@ -46,9 +46,9 @@
                         </a>
                     </li>
                     {% endif %}
-                    -->
+                    
 
-                    <!--
+                    
                     {% if site.facebook_username %}
                     <li>
                         <a href="https://www.facebook.com/{{ site.facebook_username }}">
@@ -59,11 +59,22 @@
                         </a>
                     </li>
                     {% endif %}
-                    -->
+                    
 
                     {% if site.zhihu_username %}
                     <li>
                         <a target="_blank" href="https://www.zhihu.com/people/{{ site.zhihu_username }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa  fa-stack-1x fa-inverse">知</i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
+
+                    {% if site.github_username %}
+                    <li>
+                        <a target="_blank" href="https://github.com/{{ site.github_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa  fa-stack-1x fa-inverse">知</i>
@@ -82,15 +93,15 @@
                         </a>
                     </li>
                     {% endif %}
-                    -->
+                -->
 
-                </ul>
-                <p class="copyright text-muted">
+            </ul>
+            <p class="copyright text-muted">
                 &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} ❖ Powered by Jekyll.
-                </p>
-            </div>
+            </p>
         </div>
     </div>
+</div>
 </footer>
 
 <!-- jQuery -->
@@ -106,12 +117,12 @@
 <script>
     function async(u, c) {
       var d = document, t = 'script',
-          o = d.createElement(t),
-          s = d.getElementsByTagName(t)[0];
+      o = d.createElement(t),
+      s = d.getElementsByTagName(t)[0];
       o.src = u;
       if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
       s.parentNode.insertBefore(o, s);
-    }
+  }
 </script>
 
 
@@ -154,7 +165,7 @@
      * Doc: https://github.com/davist11/jQuery-One-Page-Nav
      * Fork by Andln to support padding
      */
-    async("{{ '/js/jquery.nav.js' | prepend: site.baseurl }}", function () {
+     async("{{ '/js/jquery.nav.js' | prepend: site.baseurl }}", function () {
         $('.catalog-body').onePageNav({
             currentClass: "active",
             changeHash: !1,
@@ -169,12 +180,12 @@
             padding: 80
         });
     });
-</script>
-{% endif %}
+ </script>
+ {% endif %}
 
 
-<!-- jquery.tagcloud.js -->
-<script>
+ <!-- jquery.tagcloud.js -->
+ <script>
     // only load tagcloud.js in tag.html
     if($('#tag_cloud').length !== 0){
         async('{{ "/js/jquery.tagcloud.js" | prepend: site.baseurl }}',function(){
