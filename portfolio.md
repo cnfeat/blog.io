@@ -27,7 +27,7 @@ header-img: "img/orange.jpg"
 		<li>
 			<div class = "cbp_tmlabel">
 				<h2 id = "boxoffice">{{post.title}}</h2>
-				<time>{{post.date | date:"%Y-%m-%d}}</time>
+				<time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
 				<img src="{{post.imgsrc}}">
 				<ul>
 					<li>
