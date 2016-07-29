@@ -6,7 +6,7 @@ subtitle: 这个项目是DynaFrame
 place: NTU-cmLab
 placeurl: https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php
 date: 2014-05-21
-categories: blog
+categories: project
 tags: [Arduino,Processing,TUI]
 skills: [Ar,Pr]
 catalog: false
