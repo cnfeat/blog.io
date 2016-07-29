@@ -1,15 +1,18 @@
 ---
 layout: page
+type: project
 title: DynaFrame
-subtitle: 这是测试
+subtitle: 这个项目是DynaFrame
+place: NTU-cmLab
+placeurl: https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php
 date: 2014-05-21
 categories: blog
 tags: [design,logo,illustrator]
 skills: [Ar,Pr]
-description: 希望总结做设计中的小技巧
-catalog: true
-type: project
+catalog: false
 imgsrc: http://7xuywf.com1.z0.glb.clouddn.com/dynaFrame_dynaFrame.jpg
+description: 希望总结做设计中的小技巧
+
 
 ---
 

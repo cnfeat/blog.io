@@ -26,7 +26,12 @@ header-img: "img/orange.jpg"
 	<ul class= "cbp_tmtimeline">
 		<li>
 			<div class = "cbp_tmlabel">
-				<h2 id = "boxoffice">{{post.title}}</h2>
+				<h2 id = "boxoffice">
+					{{post.title}}@
+					<a target="_blank" href="{{post.placeurl}}">
+						{{post.place}}
+					</a>
+				</h2>
 				<time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
 				<img src="{{post.imgsrc}}">
 				<ul>
