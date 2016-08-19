@@ -41,10 +41,9 @@ header-img: "img/green.jpg"
 ### 联系
 
 - [博客@安林](andln.com)
-- [Facebook@andln](https://www.facebook.com/idfei)
-- [知乎@林灰](https://www.zhihu.com/people/andln)
-
-
+- [Facebook@andln](https://www.facebook.com/{{ site.facebook_username }})
+- [知乎@林灰](https://www.zhihu.com/people/{{ site.zhihu_username }})
+- [Quora@Andln](https://www.quora.com/profile/{{ site.quora_username }})
 
 
 
