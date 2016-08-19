@@ -1,11 +1,11 @@
 ---
 layout: post
 type: project
-title: DynaFrame
-subtitle: 这个项目是DynaFrame
+title: Stylus Asistant
+subtitle: Designing Dynamic Constraints for Facilitating Stylus Inputs on Portable Displays
 place: NTU-cmLab
 placeurl: https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php
-date: 2014-05-21
+date: 2016-05-24
 categories: portfolio
 tags: [Arduino,Processing,TUI]
 skills: [Ar,Pr,UX]
@@ -14,5 +14,15 @@ imgsrc: http://7xuywf.com1.z0.glb.clouddn.com/dynaFrame_dynaFrame.jpg
 description: 希望总结做设计中的小技巧
 
 ---
+#关于项目
 
-最近一段时间，经常需要设计些标示，在设计过程中，需要大量的设计原材料来进行排列组合，并从中想到一些新点子，对于初学者来说，就是以模仿为主，好的模仿能够很好地提供你标识的设计感，希望这种方法对大家有帮助。
+
+#交互理念
+##物理引导的交互设计
+##DynaFrame 的交互设计
+##DynaBase 的交互设计
+
+#技术细节
+##Dynamixel AX18-A的使用
+##IK(Inverse Kinematic)计算
+
