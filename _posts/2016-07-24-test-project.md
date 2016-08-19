@@ -1,7 +1,7 @@
 ---
 layout: post
 type: project
-title: Stylus Asistant
+title: Stylus Assistant
 subtitle: Designing Dynamic Constraints for Facilitating Stylus Inputs on Portable Displays
 place: NTU-cmLab
 placeurl: https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php
@@ -25,4 +25,6 @@ description: 希望总结做设计中的小技巧
 #技术细节
 ##Dynamixel AX18-A的使用
 ##IK(Inverse Kinematic)计算
+##Processng与Arduino
+
 
