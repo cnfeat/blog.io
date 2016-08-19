@@ -14,17 +14,19 @@ imgsrc: http://7xuywf.com1.z0.glb.clouddn.com/dynaFrame_dynaFrame.jpg
 description: 希望总结做设计中的小技巧
 
 ---
-#关于项目
+# 关于项目
 
 
-#交互理念
-##物理引导的交互设计
-##DynaFrame 的交互设计
-##DynaBase 的交互设计
+# 交互理念
+## 物理引导的交互设计
+## DynaFrame 的交互设计
+## DynaBase 的交互设计
 
-#技术细节
-##Dynamixel AX18-A的使用
-##IK(Inverse Kinematic)计算
-##Processng与Arduino
+# 技术细节
+## Dynamixel AX18-A的使用
+## IK(Inverse Kinematic)计算
+## Processng与Arduino
+
+# 结论
 
 
