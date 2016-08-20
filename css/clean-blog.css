@@ -162,6 +162,10 @@ h6 {
 h4 {
   font-size: 21px;
 }
+
+a{
+  color: #404040;
+}
 a:hover,
 a:focus {
   color: #0085a1;
