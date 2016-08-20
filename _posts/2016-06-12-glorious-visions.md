@@ -57,13 +57,17 @@ type: article
 该演讲信息量极大，以我目前的知识水平只能给大家做极小的解释，也算是抛砖引玉，如果有错误，恳请大家指出。最后引用LS的一句话，who know what awaits to be seen，and what new wonders will transform our lives. 谁知道还有什么等待着我们去发现，会有什么奇迹会改变我们的生活。
 
 
-## Reference
+# Reference
 
 [1]运动控制摄影，广义讲就是一边拍摄一边改变机位，英文叫Motion Timelapse或Motion Control Timelapse。机位的改变可以有好多种方法，比如滑道、滑轨、摇臂、小车、车载、坐船、航拍等
+
 [2]http://standards.smpte.org/content/978-1-61482-070-3/rp-17-1964/SEC1.body.pdf+html?sid=c56258fc-267c-4156-b7bd-7d48f0d02e08
 the SMPTE defined high-speed photography as any set of photographs captured by a camera capable of 128 frames per second or greater, and of at least three consecutive frames.
+
 [3] Koehler C, Liang Z, Gaston Z, et al. 3D reconstruction and analysis of wing deformation in free-flying dragonflies[J]. The Journal of experimental biology, 2012, 215(17): 3018-3027.
+
 [4]http://www3.xitek.com/xuetang/macro/macro-basic.htm  微距摄影的基本概念与方法
+
 [5]Eigler D M, Schweizer E K. Positioning single atoms with a scanning tunnelling microscope[J]. Nature, 1990, 344(6266): 524-526.
 
 

@@ -24,7 +24,7 @@ type: article
 整个设计流程如下：设计前需要浏览大量的参考设计，但是这些设计大部分已经是.jpg或者是.png文件了，这种情况下，他们是不能进行改动的。所以需要用illustrator这款软件，将标识的边缘反向计算，得到边缘[路径](https://helpx.adobe.com/illustrator/how-to/illustrator-understanding-paths.html)，这样就可以从中获取标志的一些“零件”，从而更快地迭代设计，包括颜色的调整，元素的排列组合，曲线的改变等。
 
 
-### 寻找原材料：
+# 寻找原材料：
 
 有许多设计的网站会提供设计参考，比如[dribbble](dribbble.com),[站酷](http://www.zcool.com.cn/)，这类网站很多时候会提供设计源文件以供进一步的设计，但受限于源文件，设计的资源也很有限。这时候可以直接使用搜索引擎，百度，谷歌，[Yandex](www.yandex.com)。在搜索的时候有一些关键字的技巧，比如想做跟志愿者有关的标识，关键词就用爱心+logo，爱心+icon的组合，可以获得更精确的设计原材料：
 
@@ -41,7 +41,7 @@ type: article
 ![badExp](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_badExp.png?	
 imageView2/0/w/480/h/480/interlace/0/q/100)
 
-### 开启illustrator
+# 开启illustrator
 
 adobe的illustrator是一款[矢量](https://en.wikipedia.org/wiki/Vector_graphics)插画的软件，这里仅仅用到这款软件一些很小的部分
 
@@ -68,13 +68,13 @@ adobe的illustrator是一款[矢量](https://en.wikipedia.org/wiki/Vector_graphi
 [color](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_color.jpg)
 
 
-### 再创作
+# 再创作
 
 以上的步骤详细介绍了，如何从图片中萃取所需要的设计元素，接下来是需要加创意再创作的时候。
 通过对原始标识的旋转，放大，分解，重构，最终得到你所想要的标识。至此批量生产标识的过程结束了，通过这个方法，基本上20分钟能设计出一个新标识。
 
 
-### 作品展示：
+# 作品展示：
 ![final](http://7xuywf.com1.z0.glb.clouddn.com/logoDesign_final.png)
 
 ### 总结
