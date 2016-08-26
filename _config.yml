@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 我的技术博客
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "秋日暖阳|我的技术博客"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://azraelgreen.github.io"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " azraelgreen"
+  email: test@gmail.com
+  bio: "技术备忘博客"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
