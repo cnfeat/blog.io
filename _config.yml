@@ -2,7 +2,11 @@
 title: 我的技术博客
 header-img: "img/green.jpg"
 tagline: "cn"  
+<<<<<<< HEAD
 description: "AzraelGreen|我的技术博客"  
+=======
+description: "对生活保持热情的秘诀：时常冒险"  
+>>>>>>> 2c838a6... modify the config.yml
 baseurl: ""
 url: "https://azraelgreen.github.io"  
 
