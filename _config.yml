@@ -2,6 +2,7 @@
 title: 我的技术博客
 header-img: "img/green.jpg"
 tagline: "cn"  
+<<<<<<< HEAD
 description: "秋日暖阳|我的技术博客"  
 baseurl: ""
 url: "http://azraelgreen.github.io"  
@@ -11,6 +12,17 @@ owner:
   name: " azraelgreen"
   email: test@gmail.com
   bio: "技术备忘博客"
+=======
+description: "对生活保持热情的秘诀：时常冒险"  
+baseurl: ""
+url: "https://azraelgreen.github.io"  
+
+# About/contact
+owner: 
+  name: " AzraelGreen"
+  email: azrael.green@gmail.com
+  bio: "对生活保持热情的秘诀：时常冒险"
+>>>>>>> 2c838a6... modify the config.yml
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -43,7 +55,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "AzraelGreen"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
