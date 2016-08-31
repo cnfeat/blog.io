@@ -22,8 +22,12 @@ description: CentOS 修改操作系统语言方法
 
 1、修改为英文
 
-`# echo 'LANG=en_US.UTF-8' >>/etc/profile# source /etc/profile# su -l`
+    # echo 'LANG=en_US.UTF-8' >>/etc/profile
+    # source /etc/profile
+    # su -l
 
 2、修改为中文
 
-`# echo 'LANG=zh_CN.utf8' >>/etc/profile# source /etc/profile# su -l`
+    # echo 'LANG=zh_CN.utf8' >>/etc/profile
+    # source /etc/profile
+    # su -l
