@@ -33,13 +33,17 @@ EPEL提供的软件包大多基于其对应的Fedora软件包，不会与企业�
 
 CentOS/RHEL下的6.x和5.x版本下载页面如下
 
-> http://download.fedoraproject.org/pub/epel/6/i386/repoview/epel-release.htmlhttp://download.fedoraproject.org/pub/epel/5/i386/repoview/epel-release.html
+> [http://download.fedoraproject.org/pub/epel/6/i386/repoview/epel-release.html](http://download.fedoraproject.org/pub/epel/6/i386/repoview/epel-release.html)
+> 
+> [http://download.fedoraproject.org/pub/epel/5/i386/repoview/epel-release.html](http://download.fedoraproject.org/pub/epel/5/i386/repoview/epel-release.html)
 
 以上网址可能会被重定向到特定的镜像站而加快下载速度。这个页面包含可以直接获取到rpm包的下载链接。
 
 直接的下载链接如下：
 
-> http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpmhttp://download.fedoraproject.org/pub/epel/5/i386/epel-release-5-4.noarch.rpm
+> [http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm](http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm)
+> 
+> [http://download.fedoraproject.org/pub/epel/5/i386/epel-release-5-4.noarch.rpm](http://download.fedoraproject.org/pub/epel/5/i386/epel-release-5-4.noarch.rpm)
 
 根据你的CentOS 版本来选择正确的下载地址。
 
