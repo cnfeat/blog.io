@@ -3,7 +3,7 @@ layout: post
 title: 查看 centos 中的用户和用户组
 date: 2016-09-09
 categories: blog
-tags: [centos,nginx]
+tags: [centos]
 description: 查看 centos 中的用户和用户组
 
 ---
