@@ -3,7 +3,7 @@ layout: post
 title: centos 的软件安装方法 rpm 和 yum
 date: 2016-09-10
 categories: blog
-tags: [centos,nginx]
+tags: [centos]
 description: centos 的软件安装方法 rpm 和 yum
 
 ---
