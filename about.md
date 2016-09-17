@@ -21,8 +21,8 @@ header-img: "img/green.jpg"
 
 
 ### Publications：
-- [WAKEY: Assisting Parent-Child Communication for Better Morning Routines]()(*Submitted*)
-- [Stylus Assistant: Designing Dynamic Constraints for Facilitating Stylus Inputs on Portable Displays]()(*Submitted*)
+- [WAKEY: Assisting Parent-Child Communication for Better Morning Routines]()(*Accepted*)
+- [Stylus Assistant: Designing Dynamic Constraints for Facilitating Stylus Inputs on Portable Displays]()(*Accepted*)
 - [GaussMarbles: Spherical Magnetic Tangibles for Interacting with Portable Physical Constraints](http://dl.acm.org/citation.cfm?id=2858559&CFID=790246963&CFTOKEN=33371935)(*Acceptance Rate = 23%*)
 - [FlexiBend: Enabling Interactivity of Multi-Part, Deformable Fabrications Using Single Shape-Sensing Strip](http://dl.acm.org/citation.cfm?id=2807456&CFID=790246963&CFTOKEN=33371935)(*Acceptance Rate = 23%*)
 
