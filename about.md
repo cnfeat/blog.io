@@ -9,7 +9,9 @@ header-img: "img/green.jpg"
 
 > 走出舒适区，深入未知领域，那种要么游起来，要么沉下去的环境总会有种让人兴奋的特质，而这将迫使我们增加、调整和发展自己的技能。毁灭不了你的事，会让你更强大！
 
-<center> ![头像](/img/blog_head.png) </center>
+<center> 
+![头像](/img/blog_head.png) 
+</center>
 
 ### 关于我
 
