@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Centos关闭提示信息"You have new mail in /var/spool/mail/root"
+title: Centos 关闭 mail 提示信息
 date: 2016-09-21
 categories: blog
 tags: [centos]
-description: Centos关闭提示信息"You have new mail in /var/spool/mail/root"
+description: Centos 关闭 mail 提示信息
 
 ---
 
