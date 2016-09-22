@@ -11,6 +11,11 @@ header-img: "img/green.jpg"
 
 ![头像](/img/blog_head.png) 
 
+*Twitter: @azraelgreen*
+
+*E-mail: azrael.green#gmail.com*
+
+
 ### 关于我
 
 
