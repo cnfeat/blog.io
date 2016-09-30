@@ -55,7 +55,7 @@ Ubuntu系统下，添加到DNS配置文件 **/etc/resolv.conf** 中的 DNS 地�
 
 现在此DNS已经生效了，无需重启，当然重启也不会丢失。
 
-### 此外还有一种方法是修改/etc/resolvconf/resolv.conf.d/head
+#### 此外还有一种方法是修改/etc/resolvconf/resolv.conf.d/head
 
 `sudo vim /etc/resolvconf/resolv.conf.d/head`
 
