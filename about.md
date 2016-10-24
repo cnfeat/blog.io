@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "About"
+title: "关于"
 description: "学苟知本，六经皆我注脚 "
 header-img: "img/green.jpg"
 ---
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="http://o7nro8pqf.bkt.clouddn.com/SageTripp.png" align="center"></p>
 </center>
 
 我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
