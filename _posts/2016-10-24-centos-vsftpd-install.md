@@ -3,7 +3,7 @@ layout: post
 title: CentOS 5 系统下 vsftpd 配置，并建立虚拟用户教程
 date: 2016-10-24
 categories: blog
-tags: [centos,vsftpd]
+tags: [centos,ftp]
 description: CentOS 5 系统下 vsftpd 配置，并建立虚拟用户教程
 
 ---
