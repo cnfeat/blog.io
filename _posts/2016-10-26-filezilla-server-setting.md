@@ -3,7 +3,7 @@ layout: post
 title: filezilla server 虚拟目录配置
 date: 2016-10-26
 categories: blog
-tags: [centos,ftp]
+tags: [ftp]
 description: filezilla server 虚拟目录配置
 
 ---
