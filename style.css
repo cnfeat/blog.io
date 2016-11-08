@@ -1,3 +1,136 @@
+/*
+header style
+*/
+
+*{
+  padding:0px;
+  margin:0px;
+}
+nav{
+ position:fixed;
+
+ height: 50px;
+ background: #777;
+ width: 100%;
+ z-index:9999;
+ margin:0px auto;
+}
+nav ul{
+  list-style: none;
+  margin: 0;
+}
+nav ul li.logo{
+  float:left;
+}
+nav ul li{
+  float:right;
+  display:inline-block;
+  line-height: 50px;
+}
+nav ul li a{
+  line-height: inherit;
+  text-decoration: none;
+  display: inline-block;
+  height: inherit;
+  margin-right: 30px
+}
+body,input,button {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.container { 
+  margin: auto; 
+  width: 800px; 
+  text-align: center; 
+}
+
+
+input[type=text],
+input[type=password] {
+  font-size: 13px;
+  min-height: 32px;
+  margin: 0;
+  padding: 7px 8px;
+  outline: none;
+  color: #333;
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-position: right center;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.075);
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  transition: all 0.15s ease-in;
+  -webkit-transition: all 0.15s ease-in 0;
+  vertical-align: middle;
+}
+.button {
+  position: relative;
+  display: inline-block;
+  margin: 0;
+  padding: 8px 15px;
+  font-size: 13px;
+  font-weight: bold;
+  color: #333;
+  text-shadow: 0 1px 0 rgba(255,255,255,0.9);
+  white-space: nowrap;
+  background-color: #eaeaea;
+  background-image: -moz-linear-gradient(#fafafa, #eaeaea);
+  background-image: -webkit-linear-gradient(#fafafa, #eaeaea);
+  background-image: linear-gradient(#fafafa, #eaeaea);
+  background-repeat: repeat-x;
+  border-radius: 3px;
+  border: 1px solid #ddd;
+  border-bottom-color: #c5c5c5;
+  box-shadow: 0 1px 3px rgba(0,0,0,.05);
+  vertical-align: middle;
+  cursor: pointer;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+}
+.button:hover,
+.button:active {
+  background-position: 0 -15px;
+  border-color: #ccc #ccc #b5b5b5;
+}
+.button:active {
+  background-color: #dadada;
+  border-color: #b5b5b5;
+  background-image: none;
+  box-shadow: inset 0 3px 5px rgba(0,0,0,.15);
+}
+.button:focus,
+input[type=text]:focus,
+input[type=password]:focus {
+  outline: none;
+  border-color: #51a7e8;
+  box-shadow: inset 0 1px 2px rgba(0,0,0,.075), 0 0 5px rgba(81,167,232,.5);
+}
+
+label[for=search] {
+  display: block;
+  text-align: left;
+}
+#search label {
+  font-weight: 200;
+  padding: 5px 0;
+}
+#search input[type=text] {
+  font-size: 18px;
+  width: 300px;
+}
+#search .button {
+  padding: 10px;
+  width: 70px;
+}
+
 /* -------------------------------- 
 
 Primary style
@@ -18,6 +151,7 @@ body {
   font-size: 100%;
   color: #7f8c97;
   background-color: #e9f0f5;
+  margin: 0;
 }
 
 
