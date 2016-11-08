@@ -8,7 +8,7 @@ description: Linux下压缩、解压命令大全
 
 ---
 
-## Linux下压缩、解压命令大全
+## Linux下压缩、解压 命令大全
 
 ### .tar
 
