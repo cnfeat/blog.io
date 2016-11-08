@@ -22,7 +22,7 @@ description: vim 语法高亮显示设置
 
 *注：配置vi时，要编辑的文件是用户主目录下的~/.vimrc文件，而不是/etc/vimrc文件。如何编辑了/etc/vimrc，改变的是所有用户的vi配置。*
 
-vi ~/.vimrc
+`vi ~/.vimrc`
 
 添加如下内容：
 
