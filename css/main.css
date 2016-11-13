@@ -1,0 +1,104 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+.header{
+	background:url("../img/bac.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	height: 440px;
+}
+a{
+
+	text-decoration: none;
+	color: #fff;
+	line-height: 60px;
+	display: block;
+	padding: 0px 20px;
+	font-size: 1.1em;
+}
+a:hover{
+	color: #bfbfbf;
+}
+li{
+	list-style:none;
+}
+.left-ul li{
+	margin-left: 15px;
+	float: left;
+	height: 60px;
+
+}
+.right-ul li{
+	margin-right: 15px;
+	float: right;
+	height: 60px;
+
+}
+.search{
+	height: 60px;
+	width: 300px;
+	position: relative;
+	float: right;
+}
+.search-input{
+
+	margin-top: 13px;
+	margin-left: 5px;
+	height: 35px;
+	width: 250px;
+	
+	background: transparent;
+	border:none;
+	color: #fff;
+	font-size: 0.9em;
+}
+.search-input:focus{
+	outline:none;
+}
+.magnifying-glass{
+	margin-top: 3px;
+	font-size: 2em; /* This controls the size. */
+	display: inline-block;
+	width: 0.4em;
+	height: 0.4em;
+	border: 0.08em solid #fff;
+	position: relative;
+	border-radius: 0.35em;
+}
+.magnifying-glass::before{
+	content: "";
+	display: inline-block;
+	position: absolute;
+	right: -0.25em;
+	bottom: -0.1em;
+	border-width: 0;
+	background: #fff;
+	width: 0.35em;
+	height: 0.08em;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+}
+.magnifying-glass:hover{
+
+	border: 0.08em solid #bfbfbf;
+
+}
+.magnifying-glass:hover::before{
+
+	background: #bfbfbf;
+
+}
+
+.line{
+	width:287px;
+	height: 1; 
+	position: absolute;
+	top:48px;
+}
