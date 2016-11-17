@@ -102,4 +102,8 @@ description: linux 定时任务的设置
 
 `crontab -e` 命令将相当于 `vim /var/spool/cron/用户名`
 
-4、  cron服务每分钟不仅要读一次/var/spool/cron内的所有文件，还需要读一次 /etc/crontab,因此我们配置这个文件也能运用cron服务做一些事情。用crontab配置是针对某个用户的，而编辑/etc/crontab是针对系统的任务。
+4、  cron服务每分钟不仅要读一次 **/var/spool/cron** 内的所有文件,还需要读一次 **/etc/crontab** 。因此我们配置这个文件也能运用cron服务做一些事情。
+
+用 crontab 配置是针对某个用户的，
+
+而编辑 /etc/crontab 是针对系统的任务。
