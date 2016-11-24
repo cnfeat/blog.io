@@ -1,6 +1,6 @@
 # Site settings
 title: Azrael的运维备忘录
-header-img: "img/green1.jpg"
+header-img: "img/green.jpg"
 tagline: "cn"  
 description: "Linux系统维护，网络维护，系统管理，服务器运维"  
 baseurl: ""
