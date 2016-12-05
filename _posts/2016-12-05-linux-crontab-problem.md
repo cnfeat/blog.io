@@ -1,10 +1,10 @@
 ---
 layout: post
-title: crontab: command not found 解决办法
+title: crontab command not found 解决办法
 date: 2016-12-05
 categories: blog
 tags: [linux]
-description: crontab: command not found 解决办法
+description: crontab command not found 解决办法
 ---
 
 crontab命令是大多数系统都有的命令，不排除由于有些系统被精简而没有的，此时在命令行中运行crontab会提示：
