@@ -311,23 +311,23 @@ CHANGE MASTER TO 这条命令把数据保存到 master.info 文件中去，在�
 
 (mysql slave)
 
-### (1) 确保从机没有再同步的SQL语句即出现Has read all relay log再关闭从库IO_Threat进程
+#### (1) 确保从机没有再同步的SQL语句即出现Has read all relay log再关闭从库IO_Threat进程
 
     # mysql -uroot -p123456
     > stop slave IO_THREAD
 
-### (2) 关闭从库slave服务然后将其提升为主库
+#### (2) 关闭从库slave服务然后将其提升为主库
 
     > stop slave
     > reset master
 
-### (3) 更换从库IP为故障主库IP(配置方法略)
+#### (3) 更换从库IP为故障主库IP(配置方法略)
 
-### (4) 删除新的主库master.info和relay-log.info,防止下次重启还会按照从库启动
+#### (4) 删除新的主库master.info和relay-log.info,防止下次重启还会按照从库启动
 
     # cd /usr/local/mysql/log
     # rm -rf master.info relay-log.info
 
-### (5) 重新配置从库连接主库的账号同步信息以及在下级从库重新设置偏移量保持与新的主库一致即可。
+#### (5) 重新配置从库连接主库的账号同步信息以及在下级从库重新设置偏移量保持与新的主库一致即可。
 
 最后待主库硬件恢复，将其再设置为从库，并更换为上述从库IP地址, 完成主从切换。
