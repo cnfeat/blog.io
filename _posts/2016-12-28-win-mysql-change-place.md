@@ -9,11 +9,11 @@ description: Windows下更改MySQL数据库的存储位置
 
 在MySQL安装完成后，要修改数据库存储的位置，比如从安装目录下的 `C:\Program Files\MySQL\MySQL Server 5.0\Data` 文件夹转移到 `D:\mySQLData` 文件夹，方法如下：
 
-### 1、在 `D:\` 下新建 mySQLData 文件夹
+#### 1、在 `D:\` 下新建 mySQLData 文件夹
 
-### 2、停止MySQL服务，将 `C:\Program Files\MySQL\MySQL Server 5.0\Data` 下的文件夹和文件一起拷贝到 `D:\mySQLData` 文件夹下
+#### 2、停止MySQL服务，将 `C:\Program Files\MySQL\MySQL Server 5.0\Data` 下的文件夹和文件一起拷贝到 `D:\mySQLData` 文件夹下
 
-### 3、在安装目录下找到 `my.ini` 文件，打开找到：
+#### 3、在安装目录下找到 `my.ini` 文件，打开找到：
 
     #Path to the database root
     datadir="C:/Program Files/MySQL/MySQL Server 5.0/Data/"
