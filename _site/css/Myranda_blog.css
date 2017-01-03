@@ -956,7 +956,6 @@ Main components
   border-radius: 0.25em;
   padding: 1em;
   border: 2px solid #3AAADC;
-  box-shadow: 0 3px 0 #ddd;
 }
 .cd-timeline-content:after {
   content: "";
@@ -1082,6 +1081,9 @@ a.cd-read-more:hover {
     -moz-animation: cd-bounce-2-inverse 0.6s;
     animation: cd-bounce-2-inverse 0.6s;
   }
+}
+.content_row {
+  min-width: 720px;
 }
 @media (min-width: 992px) {
   .content_row {

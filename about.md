@@ -71,6 +71,19 @@ header-img: "img/bg2.jpg"
 	<center><h2>工作经历</h2></center> 
 	<section id="cd-timeline" class="cd-container">
 	<div class="cd-timeline-block">
+    	<div class="cd-timeline-img cd-location">
+    			<img src="../img/logo_yy.png" alt="100com">
+    		</div>
+    		<div class="cd-timeline-content">
+    			<h2>欢聚时代-100教育-前端工程师</h2>
+    			<p>
+    			   1、负责项目的前端页面开发与维护；<br/>
+                   2、优化页面的前端页面性能。
+                 </p>
+    			<span class="cd-date">至今</span>
+    		</div>
+    	</div>
+	<div class="cd-timeline-block">
 		<div class="cd-timeline-img cd-picture">
 			<img src="../img/logo_gzpost.png" alt="gzpost">
 		</div> 
@@ -173,10 +186,10 @@ header-img: "img/bg2.jpg"
 		 </div>
     </div>
 </div>
-<center class='col-lg-12 col-md-12'> 
+<!--<center class='col-lg-12 col-md-12'>
 	 最近在考虑更好的发展机会，求勾搭。邮箱：gzwangmeilan@163.com，电话：13694230622
     <p><img style='width:200px' src="http://ceqef.img47.wal8.com/img47/538205_20160303162908/145699415256.png" align="center"></p>
-</center>
+</center>-->
 
 
 

@@ -5,8 +5,8 @@
     <description>王美兰|个人博客</description>
     <link>http://Myranda/</link>
     <atom:link href="http://Myranda/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 10 Mar 2016 18:22:29 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Mar 2016 18:22:29 +0800</lastBuildDate>
+    <pubDate>Tue, 03 Jan 2017 14:43:47 +0800</pubDate>
+    <lastBuildDate>Tue, 03 Jan 2017 14:43:47 +0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -70,22 +70,22 @@ Jekyll是一个静态站点生成器，它会根据网页源码生成静态文�
 &lt;p&gt;Jekyll生成的站点，可以直接发布到github上面，这样我们就有了一个免费的，无限流量的，有人维护的属于我们的自己的web网站。  &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;安装jekyll&lt;/strong&gt;
-window环境下比较快捷的方法是到 http://www.madhur.co.in/blog/2013/07/20/buildportablejekyll.html 直接下载并解压到任意路径即可。在管理员CMD下进入解压的portable Jekyll所对应的路径运行setpath.cmd即可。喜欢一步一步折腾安装的同学，可参考： http://www.madhur.co.in/blog/2011/09/01/runningjekyllwindows.html &lt;/p&gt;
+window环境下比较快捷的方法是到&lt;a href=&quot;https://github.com/madhur/PortableJekyll&quot; target=&quot;_blank&quot;&gt; https://github.com/madhur/PortableJekyll&lt;/a&gt; 直接下载并解压到任意路径即可。在管理员CMD下进入解压的portable Jekyll所对应的路径运行setpath.cmd即可。喜欢一步一步折腾安装的同学，可参考： http://www.madhur.co.in/blog/2011/09/01/runningjekyllwindows.html&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;搭建github个人博客&lt;/strong&gt;
-一个快速的方式是直接到我的github库将博客模版fork下来：
-https://github.com/Myranda/Myranda.github.io，在setting里把myranda改成你想要的名字，并点击“Launch  automatic page generator”按钮，选择模版。然后clone项目到你自己的机器上来，想要在本地查看效果&lt;/p&gt;
+一个快速的方式是直接到我的github库将博客模版fork下来：&lt;a href=&quot;https://github.com/Myranda/Myranda.github.io&quot; target=&quot;_blank&quot;&gt;https://github.com/Myranda/Myranda.github.io&lt;/a&gt;
+，在setting里把myranda改成你想要的名字，并点击“Launch  automatic page generator”按钮，选择模版。然后clone项目到你自己的机器上来，想要在本地查看效果&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;   cd USERNAME.github.com
+&lt;pre&gt;&lt;code&gt;   cd USERNAME.github.io
    jekyll serve
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;这样你就可以在本地修改并查看效果了。
-另外，博客文章存放在_posts文件夹里，命名规则为(年-月-日-文章标题.md),md格式文件其实是markdown格式的文档，若不想记markdown语法的童鞋可使用markdown编辑器，如小书匠&lt;a&gt;http://markdown.xiaoshujiang.com/&lt;/a&gt;编辑好文章后再复制粘帖进项目。&lt;/p&gt;
+另外，博客文章存放在_posts文件夹里，命名规则为(年-月-日-文章标题.md),md格式文件其实是markdown格式的文档，若不想记markdown语法的童鞋可使用markdown编辑器，如小书匠&lt;a href=&quot;http://markdown.xiaoshujiang.com/&quot; target=&quot;_blank&quot;&gt;http://markdown.xiaoshujiang.com/&lt;/a&gt;编辑好文章后再复制粘帖进项目。&lt;/p&gt;
 
-&lt;p&gt;修改完成后提交代码，提交代码指令请看&lt;a&gt;http://myranda.github.io/2016/03/03/github_command/&lt;/a&gt;
+&lt;p&gt;修改完成后提交代码，提交代码指令请看&lt;a href=&quot;http://myranda.github.io/2016/03/03/github_command/&quot; target=&quot;_blank&quot;&gt;http://myranda.github.io/2016/03/03/github_command/&lt;/a&gt;
 提交完成后访问
-http://username.github.com/就可以看到Blog已经生成了（将username换成你的用户名）。&lt;/p&gt;
+http://username.github.io/就可以看到Blog已经生成了（将username换成你的用户名）。&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Mar 2016 00:00:00 +0800</pubDate>
         <link>http://Myranda/2016/03/04/jekyll_githubPage/</link>
