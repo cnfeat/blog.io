@@ -38,12 +38,33 @@ autoindex 可以放在 **location** 中，只对 **当前location的目录** 起
 
 跟Apache的`Deny from all`类似，nginx有`deny all`指令来实现。
 
-禁止对叫 dirdeny目录 的访问并返回 403 Forbidden，可以使用下面的配置:
+### 禁止对叫 dirdeny目录 的访问并返回 403 Forbidden，可以使用下面的配置:
 
     location /dirdeny {
-          deny all;
-          return 403;
+        deny all;
+        return 403;
     }
+
+### nginx禁止访问path目录
+
+    location ^~ /path {
+        deny all;
+    }
+
+可以把path换成实际需要的目录，
+
+目录path后是否带有"/",
+
+**带"/"，只禁止访问目录，**
+
+**不带"/"，禁止访问目录中的文件**
+
+### nginx禁止访问所有.开头的隐藏文件设置
+
+    location ~* /.* {
+        deny all;
+    }
+
 
 `autoindex_exact_size off;`  //人性化方式显示文件大小否则以byte显示
 
