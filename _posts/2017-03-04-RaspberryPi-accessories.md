@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 树莓派初级教程购买建议
+title: 树莓派购买建议
 date: 2017-03-04
 categories: blog
 tags: [RaspberryPi]
-description: 树莓派初级教程购买建议
+description: 树莓派购买建议
 ---
 
 ### 必备配件（可以保证树莓派正常开机使用）： 
