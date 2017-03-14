@@ -33,7 +33,7 @@ winsshd官方下载：[https://www.bitvise.com/winsshd-download](https://www.bit
 
 ### 拷贝远端linux系统文件到本地win系统的D盘上：
 
-`scp root@192.168.0.243:/root/test1.txt d:`
+`scp root@192.168.0.243:/root/test1.txt /d`
 
 git for win 官方下载：[https://git-scm.com/download/win](https://git-scm.com/download/win)
 
