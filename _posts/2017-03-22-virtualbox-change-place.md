@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 如何将virtualbox的虚拟机目录移动位置
+title: 如何移动virtualbox的虚拟机目录位置
 date: 2017-03-22
 categories: blog
 tags: [virtualbox]
-description: 如何将virtualbox的虚拟机目录移动位置
+description: 如何移动virtualbox的虚拟机目录位置
 ---
 
 ### 起因：
