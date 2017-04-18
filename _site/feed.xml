@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>读立写生</title>
+    <description>陈素封|读而立·写而生</description>
+    <link>http://cnfeat/</link>
+    <atom:link href="http://cnfeat/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 18 Apr 2017 00:48:26 +0800</pubDate>
+    <lastBuildDate>Tue, 18 Apr 2017 00:48:26 +0800</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Blogging Like a Hacker</title>
+        <description>&lt;h1 id=&quot;为什么要写技术文章&quot;&gt;为什么要写技术文章&lt;/h1&gt;
+&lt;p&gt;#阅读与写作&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;开放技术&lt;/li&gt;
+  &lt;li&gt;找到问题&lt;/li&gt;
+  &lt;li&gt;备忘&lt;/li&gt;
+  &lt;li&gt;激励自己更好的学习技术&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;好的技术文章：
+	讲明白一件事，讲清楚问题
+	结构清晰，代码高亮，分段合理&lt;/p&gt;
+
+&lt;p&gt;某种技术存在的意义&lt;/p&gt;
+
+&lt;p&gt;怎么做：&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Apr 2017 00:00:00 +0800</pubDate>
+        <link>http://cnfeat/2017/04/14/test/</link>
+        <guid isPermaLink="true">http://cnfeat/2017/04/14/test/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>写就是写本身的报酬</title>
+        <description>&lt;p&gt;注：此文是2015年6月15日应开智社群邀请而写的讲座稿。&lt;/p&gt;
+
+&lt;p&gt;Ps&lt;/p&gt;
+
+&lt;p&gt;感谢开智的邀请。很荣幸今天有机会回顾我的学习写作之旅，和大家交流如何写作。我今天分享的主题是「写本身就是写的报酬」，将会分成8个部分。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1、为什么写？&lt;/li&gt;
+  &lt;li&gt;2、为什么要写千字文？&lt;/li&gt;
+  &lt;li&gt;3、我怎么写开始千字文？&lt;/li&gt;
+  &lt;li&gt;4、我与简书的故事&lt;/li&gt;
+  &lt;li&gt;5、我与开智的故事&lt;/li&gt;
+  &lt;li&gt;6、写作的进步及变化&lt;/li&gt;
+  &lt;li&gt;7、开智写作班感受分享&lt;/li&gt;
+  &lt;li&gt;8、为什么写？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##1、为什么要写？&lt;/p&gt;
+
+&lt;p&gt;「写本身就是写的报酬」&lt;/p&gt;
+
+&lt;p&gt;在看完2012年柴静《看见》发布会实录之后，我在博客上写下这句话，当时的我还不明晰写对我的意义，我就拿这句话作为了一篇文章的标题来给自己打鸡血。事实上，「写本身就是写的报酬」这句话并不是柴静在发布会上说的，而是2006年在她的博客上说的，原文标题就是《写本身就是写的报酬》。&lt;/p&gt;
+
+&lt;p&gt;这篇文章的全文如下：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;今天下午临时定下要出差。已抵浙江，刚刚安顿。明天一早出发，不便多写。但会在工作之余尽量写。写不是义务，写本身就是写的报酬。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;很多人总喜欢功利性的评价写作这个行为，如果有人问我你现在写这样东西有什么用？我的确很难解释，但柴静2006年忙中抽空写下这句话的时候，她应该没有想到6年之后会出一本书销量过百万的书吧？&lt;/p&gt;
+
+&lt;p&gt;我总喜欢看博客，因为我觉得总能够人日常行动的细节中发现一点什么，我常以为是日常的一点一滴的积累造就了一个人，而不是在颁奖典礼上华丽的讲话。当然，我写东西更源于个人的习惯。以前喜欢乱想东西，但每次都会想完的东西没有记录下来，当下一次再想，又要重新来过，这样感觉做了很多无用功。&lt;/p&gt;
+
+&lt;p&gt;就像你在写一份文档，每次写都没有保存，每次都要重新来过，一次做很多件事不觉得烦，但一件事重复做很多次就会觉得很烦，于是我就想着，以后干脆想到什么就写什么，虽然这样更麻烦一点，但也只能这样了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/32598-b9ab149f1f314228.png&quot; alt=&quot;image-2015-06-17-10-51.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;写对于我就相当在每个人生阶段保存一下，再继续的时候无须重头再来，而且，当每次保存后，我都有一种重生的感觉。写让我感觉到以前走的路子并没有白走，即使是错的，也有错的价值，写下东西，像是节点记录，也像是错题集，总提醒我不要原地踏步。&lt;/p&gt;
+
+&lt;p&gt;所以说，写作对于我，更多是一种提升自我的方法。&lt;/p&gt;
+
+&lt;p&gt;##2、为什么要写千字文？&lt;/p&gt;
+
+&lt;p&gt;真正开始写狠下心来写是在是在2014年新年，那时我刚从一家国企辞职，偶然地在家看到王佩的一篇文章&lt;a href=&quot;http://www.baibanbao.net/2014/is-it-possible-to-write-1000-words-per-day.html&quot;&gt;《每天写一篇千字文靠谱吗？》&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;这篇文章主要说了三点：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;一、千字文的起点可以很低；&lt;/li&gt;
+  &lt;li&gt;二、练习有难度；&lt;/li&gt;
+  &lt;li&gt;三、可以带来职业的发展；&lt;/li&gt;
+  &lt;li&gt;四、塑造性格，磨炼技艺；&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;具体是这样说的&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;千字文的起点可以很低&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;如果你想成为一个优秀的Blogger，可以做一个每天写一千字的训练。找不到话题，没关系，想到哪儿，可以写到哪儿，你甚至可以关掉显示器，通过盲打来实现思绪的自由流动。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;练习有难度&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;在名利的刺激下，每天写千字文是有可能的，因为专栏压力，每天要保持一定高强度的知识输入，才能保证有一定质量的输入，否则就要苦思冥想地搜集素材。王佩举了两个例子：他在2013年写专栏的故事和董桥写散文的经历。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;可以带来职业的发展&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;王佩在文章举了他朋友月小刀的故事，月小刀每天写千字文为他带来职业的机会。当时招月小刀的经理是这样说的：你写的零售业的那些文章，有的也不怎么样，但是一个年轻人，能够一年时间利用业余时间坚持写一篇千字文，这种毅力让人佩服，用这样的人，我放心。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;塑造性格，磨炼技艺&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;我只知道，写作是一门手艺，需要大量的、看似重复实则螺旋式上升的练习。每天写一千字，会磨练一个人的技艺，同时塑造一个人的性格。有一门精湛的手艺，再加上不屈不挠的性格，在江湖上混，至少不需要看人脸色、仰人鼻息吧。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;看完这篇文章后，我忽然觉得自己还没有长时间做过一件事，用现在话说，就是没有growth hacking的态度，既然写千字文有以上的几样好处，自己刚辞职也有空，写上一段时间当挑战自己，或当作自己的简历也可以，于是就开始写上了。&lt;/p&gt;
+
+&lt;h2 id=&quot;2我怎么写开始千字文&quot;&gt;2、我怎么写开始千字文？&lt;/h2&gt;
+
+&lt;p&gt;决定写千字文首先要解决三个问题：一是态度，是否相信自己有能力写千字文；二是持续，能否保证自己输出的频率；三是内容，是否有足够的内容输出。&lt;/p&gt;
+
+&lt;h3 id=&quot;态度&quot;&gt;态度&lt;/h3&gt;
+
+&lt;p&gt;我是知乎的第一批用户，知乎随机给了我一个&lt;a href=&quot;http://zhuanlan.zhihu.com/cnfeat&quot;&gt;专栏&lt;/a&gt;名额，当时我不知道写什么就一直空着。看完王佩写的文章之后，我就觉得要有一个新的起点，于是知乎专栏就成为我第一个练习千字文的地方。&lt;/p&gt;
+
+&lt;p&gt;这是我第一篇千字文：&lt;a href=&quot;http://cnfeat.com/blog/2014/02/10/2014-02-10-qianziwen-start/&quot;&gt;《千字文的开始》&lt;/a&gt;，原文在知乎专栏（知乎专栏翻页太不人性化，不贴原链接了）。当然，这篇文章现在看来相当励志，每当有人不知底细地过来问，我底子那么差，我能练习写作吗？我都会甩这篇文章给他们看……你看，当初我也就这样（其实现在也不怎么样），你就先写下去再说。&lt;/p&gt;
+
+&lt;p&gt;再引用一段李笑来在《人人都能用英语》的话：当有人问李笑来，是不是人人都能用英语？&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;这个问题的答案是「能」。而这仅有一个字的答案非常重要。尽管不是每个人都能做到，但，「能」或起码「有可能」这个事实，会改变一切的，至少可以改变一些人的一切。&lt;/p&gt;
+
+  &lt;p&gt;这就好像总是有一小部分人会真正明白：1和99之间的差别再大，也不如0和1之间的差别大。知道这一个字的答案，很可能就是一些人重生的起点。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;持续&quot;&gt;持续&lt;/h3&gt;
+
+&lt;p&gt;话说，刚开始写千字文还真是难，难到我第一个月写的东西几乎都是扯淡，每天最难的就是哎呀今天要写千字文了题目是什么要怎么才能写够一千字呢？但难归难，事情还是要去做，办法还得要去想。千里之行始于足下，既然要练习千字文，那就先从写好一条朋友圈开始。&lt;/p&gt;
+
+&lt;p&gt;朋友圈是练习写作的好场所，培养的是自己每天写作的习惯，坚持每日写一点点，有主题，有目的，有内容地写，这样持续一周，每天有时间的时候思考一日之所得，积累写作的素材。&lt;/p&gt;
+
+&lt;p&gt;蔡志浩在《&lt;a href=&quot;http://taiwan.chtsai.org/2014/02/22/xiezuo_cong_yibai_zi_kaishi/&quot;&gt;写作，从一百字开始》&lt;/a&gt;：中说到&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;很多人觉得写作很困难。困难的关键不在文笔，而在观点。如果没有观点，文笔再好，文章也不会好。如果你想练习用文字精准表达想法却不知怎么做，我建议从一百字开始。不要小看这上限一百字的文本，它的力量是很大的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;刚开始练习的时候，你一定会经常觉得一百字怎么这么快就用完了。这时要仔细检视，删掉赘字赘词赘词句，找出更浓缩的表达方式。这是一个反复压缩的过程。相信我，当你觉得压缩到不能再压缩的时候，还是可以再压缩的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;如果字数压缩到了极限，想法还是没有全塞进一百字中，这时就要评估沟通效果，压缩想法，忍痛删掉不会影响读者整体理解的内容。有点像电影后制的剪辑，不是绝对必要的内容就不要留着。我知道你会舍不得，但还是要删。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;我写朋友圈的格式，供大家参考一下：【主题】+内容+图片。用简短的文字来描述自己的状态，思考等。同时我也规定自己每天发送不能超过三条，限制发送的条数是让自己保证文字的质量，避免自己的朋友圈变成自己的心情絮语。&lt;/p&gt;
+
+&lt;p&gt;生活琐碎，但仍有值得记录的地方，小事多多，但也值得改进思考。这样，在朋友圈上建立起一条时间线之后，这样当你回望的时候，就可以看到自己的进步。每天一朋友圈看似容易，其实操作起来还有一定难度，需要找人监督，我就邀请一朋友作为监督人，请朋友来见证改变，如果中断一天则做出惩罚。&lt;/p&gt;
+
+&lt;p&gt;当然，监督人也要负责为你提供建议，如果你当天晚上十点仍未发出朋友圈，无内容可写，可向监督人求助，监督人可提供帮助，并可要求相应的物质交换。监督的方法因人制宜，合适就好。我当时找的监督人当然就是我的女朋友，她看到我每天写，也愿意给予我支持，我每天写好之后，就发给她，一是检查错别字，二是检查句子文法。#论有女友朋友的好处#&lt;/p&gt;
+
+&lt;p&gt;毕竟写作者最不喜欢检查的就是自己的东西，一开始还真发现了不少错误，接着，我也努力地写好一点，力图不让她检查出错误。说个题外话，写作对找女朋友还是有帮助的，当初还没在一起的时候，我就说要给她写七封信，结果写到第三封的时候就在一起了，到现在还有两封还没写完……&lt;/p&gt;
+
+&lt;p&gt;以下是我总结的一些内容，可供参考:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;（1）自我感悟或思考；&lt;/li&gt;
+  &lt;li&gt;（2）图文故事；&lt;/li&gt;
+  &lt;li&gt;（3）知识分享；&lt;/li&gt;
+  &lt;li&gt;（4）好文章总结；&lt;/li&gt;
+  &lt;li&gt;（5）书籍和电影推荐，注明推荐理由；&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;当习惯有主题，有目的，有内容地写作之后，就会发觉，朋友圈简短的语句（其实朋友圈可以发长文，但阅读体验不好）无法表达你的所思所想，这样你就可以写一些短文。坚持写有价值的内容，别人才会看你写的东西，你才会进步。&lt;/p&gt;
+
+&lt;h3 id=&quot;内容&quot;&gt;内容&lt;/h3&gt;
+
+&lt;p&gt;每日写千字文最终严重的问题就是写着写着会发觉没有东西可写。就像李笑来在《人人都能用英语》中说，很多人渴求跟外国人聊天，但当他们真有机会和外国人呆在一起的时候，却发现没有什么可以说的，更或者是自己要说的却不知道怎么说出来。&lt;/p&gt;
+
+&lt;p&gt;这跟我当时的情景实在太相似了，硬要写却没有东西写，有东西写却不知道怎么用文字表达出来，有时候憋了半天只能吱吱呀呀地说上几百字。&lt;/p&gt;
+
+&lt;p&gt;开始的时候，我把能写的题目都列出来，例如&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1、回顾一下自己写作的经历&lt;/li&gt;
+  &lt;li&gt;2、写你最看的电影、书籍和音乐&lt;/li&gt;
+  &lt;li&gt;3、写一写你最好的朋友&lt;/li&gt;
+  &lt;li&gt;4、在知乎找一个你感兴趣的话题聊一聊&lt;/li&gt;
+  &lt;li&gt;5、写一写你不同时期的自己&lt;/li&gt;
+  &lt;li&gt;6、描述你最近一件让你开心的小事&lt;/li&gt;
+  &lt;li&gt;7、写一写你最近在学的技能&lt;/li&gt;
+  &lt;li&gt;8、……&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;但这终究不能解决问题，瞎摸一个月后，我渐渐地找到了一个靠谱的方法，这个方法其实也很普通，其实就是《钢之炼金术师》的奥义演化：人没有牺牲的话就什么都得不到，为了得到什么东西，就必须付出同等的代价。输出和输入必须对等才能流通，要想保持稳定的输出，就必须想方设法地保持自己有稳定的信息输入渠道，无论是文字还是亲身经历。&lt;/p&gt;
+
+&lt;p&gt;接下来是分享的第四部分：我和简书的故事&lt;/p&gt;
+
+&lt;h2 id=&quot;4我和简书的故事&quot;&gt;4、我和简书的故事&lt;/h2&gt;
+
+&lt;p&gt;千字文大概练了一个礼拜之后，我重头翻看王佩的那篇文章，发现三个重要的细节。一是找到千字文的源头；二是参考别人的写作经验；三是找到合适的写作工具&lt;/p&gt;
+
+&lt;p&gt;先说源头，千字文的源头在Srinivas Rao的&lt;a href=&quot;https://medium.com/@skooloflife/how-writing-1000-words-a-day-changed-my-life-3895f4d045d2&quot;&gt;《How Writing 1000 Words a Day Changed My Life》&lt;/a&gt;,核心观点是behavior matters more than outcomes，里面提到他在写千字文的六个月期间完成了以下这些事情：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I had to produce one piece a week for a freelance writing client.&lt;/li&gt;
+  &lt;li&gt;I had to produce blog posts for a startup that I held an equity stake in.&lt;/li&gt;
+  &lt;li&gt;I had to write a weekly newsletter for The Unmistakable Creative Podcast, the podcast that I’m the host and founder of.&lt;/li&gt;
+  &lt;li&gt;I had to keep writing for my own blog, and the books I wanted to write.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最后他的结论就是Writing 1000 words a day changed my life. I don’t know how it will change yours. But I’d recommend doing it.&lt;/p&gt;
+
+&lt;p&gt;还有另一篇就是&lt;a href=&quot;http://www.searchenginejournal.com/how-to-consistently-write-1000-words-a-day/&quot;&gt;《How to Consistently Write 1000 Words a Day》&lt;/a&gt;，，&lt;/p&gt;
+
+&lt;p&gt;简叔将这篇文章翻译了出来，标题为&lt;a href=&quot;http://www.jianshu.com/p/53eea6022d58&quot;&gt;《如何坚持每天写一千字》&lt;/a&gt;，里面介绍到高产出的方法：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 无干扰的写作工具&lt;/li&gt;
+  &lt;li&gt;2 障碍最小化&lt;/li&gt;
+  &lt;li&gt;3 即兴写作&lt;/li&gt;
+  &lt;li&gt;4 盲写&lt;/li&gt;
+  &lt;li&gt;5 写作灵感&lt;/li&gt;
+  &lt;li&gt;6 写大纲&lt;/li&gt;
+  &lt;li&gt;7 播种想法&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;第二是简叔已经在实践每天写一千字，并且写出了&lt;a href=&quot;http://www.jianshu.com/p/0280096fd1e4&quot;&gt;《千字练习的正确方式》&lt;/a&gt;，千字文练习更重要的价值并不在于写完。而在于你通过这样的练习明白你要写什么，培养了什么样的写作习惯。而且简书也聚集了一群写作者，上面有一个叫&lt;a href=&quot;http://www.jianshu.com/collection/Df7njb&quot;&gt;《谈写作》&lt;/a&gt;专题专门记录关于文学写作及其他写作的思考。&lt;/p&gt;
+
+&lt;p&gt;第三是写作者们喜欢用Markdown写作。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;纯文本，所以兼容性极强，可以用所有文本编辑器打开。&lt;/li&gt;
+  &lt;li&gt;让你专注于文字而不是排版。&lt;/li&gt;
+  &lt;li&gt;格式转换方便，Markdown 的文本你可以轻松转换为 html、电子书等。&lt;/li&gt;
+  &lt;li&gt;Markdown 的标记语法有极好的可读性。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;随后，我开始学习Markdown语法，同时在简书写作。不得不说，在简书写作得到激励比知乎专栏多得多，因为当时简书集合了一群爱好写作的人，界面友好，书写简单，还能教会一些最基础的写作知识，我也很喜欢当时简书的slogan：找回文字的力量。&lt;/p&gt;
+
+&lt;p&gt;过了两三个月，我发现一个人在练千字文实在太寂寞了，于是在改变自己的公众号上发起一起练习千字文的召集，并建立了两个微信群，和响应召集的人一起练习写作，相互激励，相互促进。&lt;/p&gt;
+
+&lt;p&gt;在这个时候，我发现，大多数进群的人其实只停留在愿望阶段而已，相当缺乏行动的动力，所以，我试着将我写作千字文的的经验总结了出来，写成了一篇文章&lt;a href=&quot;http://www.jianshu.com/p/9cc021ab4f6d&quot;&gt;《经验之谈：我是如何做到每天写一千字的》&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;我在文章中是这样说的：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;「持续的日记该如何写？当天的主要行为，加上一点评论和反思。日记不太适合作为抒情的载体，更合适的功能是真实记录生活的痕迹，用以分析、反思，然后自己才有可能提高。如果按照持续日记的方法去写，生活中的小事都可以提炼出一个主题。我写千字文的目的是想让我更加关注生活中的小事情，不再发泄情绪或者抒情。&lt;/p&gt;
+
+  &lt;p&gt;每天留心身边发生的事情，观察事情的结果。生活、工作和亲密关系，以上这些都给自己带来各种各样的感受，将这些东西写下来。这是记录，是总结，也是反省。&lt;/p&gt;
+
+  &lt;p&gt;将围绕在你身边的东西变成你可信手沾来的素材，积累的东西越多，可以写的东西就越多。&lt;/p&gt;
+
+  &lt;p&gt;建议在手机安装一个印象笔记的app，这样你就可以随时随地记录你心中的想法。我现在这篇文章原本在我手机中只是一句话「如何坚持每天写千字文」，现在就变成了好几篇的千字文。&lt;/p&gt;
+
+  &lt;p&gt;除了记录你的新想法之外，你也可以记录下你一直想写的题目，积攒起来。这样做的好处就是，虽然你不主动在思考，但是你已经在脑中开了一个头，这些想法会在在你脑中后台运行，就像是沙漏的一个口，点滴的构想会满满汇聚，时间一长，灵感突然就会来到，很多以前没有想过的东西就会蜂拥而至。&lt;/p&gt;
+
+  &lt;p&gt;每天一千字是有要求地数量的写作，初期的目标是写，持续地写，有数量持续地写，培养出写作的习惯，然后才是有质量有数量地写。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;在和群友们进行沟通之后，我发现他们的写作平台很不一样，有的用lofter，有的用新浪博客，有的在用印象笔记，十分不方便写作的交流，于是便在简书上建了一个专题&lt;a href=&quot;http://www.jianshu.com/collection/723de9bac3cd&quot;&gt;《每天写1000字》&lt;/a&gt;，接收写作练习者们的投稿。练习者们可以在此专题内找到同好，相互促进，&lt;/p&gt;
+
+&lt;p&gt;其实「每天写1000字」专题的还有一些故事，感兴趣的可以点击这个链接&lt;a href=&quot;http://www.jianshu.com/p/bb2528dbff86&quot;&gt;《「每天写1000字」专题的故事》&lt;/a&gt;，由于这个专题符合当时简书的定位，此专题吸引了不少订阅者，作为专题建立者，我十分意外，觉得我只是做了一件满足写作者需求事情而已，现在这个专题的关注人数已经达到了12.4K，收录的文章有4686篇，有可能是收录文章最多的专题，但这个数据其实没有什么值得骄傲的，因为门槛实在太低，来者不拒。&lt;/p&gt;
+
+&lt;p&gt;也是这个时候，我花了一周时间去琢磨如何建立博客，一步一步按照教程，搭建了自己的独立博客：cnfeat.com，将搭建博客的教程文章汇总整理成一篇&lt;a href=&quot;http://cnfeat.com/2014/05/10/2014-05-11-how-to-build-a-blog/&quot;&gt;《如何搭建一个独立博客——简明Github Pages与Hexo教程》&lt;/a&gt;，虽然是摘录，但这篇东西现在还有人在用，虽不是原创，但整理出知识，还是相当有用的。&lt;/p&gt;
+
+&lt;p&gt;在成立微信群，总结写作经验、建立写作专题和建立博客的过程中，我发现自己仍有太多东西要学，于是不停看书，写笔记，发觉自己水平有限，实在不能带动一百多人的些写作学习，狠下心把微信群给解散了，重新成立一个只有二十人的写作微信群。&lt;/p&gt;
+
+&lt;p&gt;我相信，只有二十人的话，彼此紧密带动，还是能够相互促进的，当时建立了共享印象笔记来分享写作资料，现在还在更新中。不过很快地，随着我进入了开智社群，我也给成员们安利了开智，她们进入了开智，我们也就一起被阳老开光了。&lt;/p&gt;
+
+&lt;h2 id=&quot;5我和开智的故事&quot;&gt;5、我和开智的故事&lt;/h2&gt;
+
+&lt;p&gt;进入开智也算是机缘巧合。&lt;/p&gt;
+
+&lt;p&gt;某天逛豆瓣发现了&lt;a href=&quot;http://www.douban.com/doulist/36847674/&quot;&gt;开智青年故事会的书单&lt;/a&gt;，看到书单下的入群申请格式，第一感觉是这个群貌似好高端，申请要发邮件，范例是博士……心生畏惧，第一次檫肩而过，过了几天，这个链接又出现我眼前，认真一看，是阳志平创办的，头脑中浮现了博客中头像的形象，话说，他的博客好像挺严肃的……过了几天，这个页面第三次出现在我面前，我觉得应该做些什么了，于是认真地写了一封邮件发了过去。为什么要认真？因为里面很多博士，我得跟很多博士站在同一起跑线上……&lt;/p&gt;
+
+&lt;p&gt;现在回想起来，很多人都挺容易被那个博士的申请格式示范吓住，曾经给同学们几次推荐，她们都说入群要求好像挺高的，待我回去修改下简历再发，后来就没有后来了。&lt;/p&gt;
+
+&lt;p&gt;进入开智后，明显感觉进入另一个加速世界，一个人进去太危险了，得赶紧把原来写作群的伙伴给安利过去，到时候一起抱团消化安全一点，随后购买了《追时间的人》，过年回家看开智以往的聊天记录，用了两个月的时间才稍微适应了开智的高压氛围。&lt;/p&gt;
+
+&lt;p&gt;随后，阳老师对每日千字练习写作的方法提出了意见：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;与其持续写低质量的东西，不如储力写高质量的文章，厚积薄发，在适当的时候爆发出来，这样才算是酷的事情，做酷的事情比每天一些小事情所带来的效应会强的得多。所谓生命，是要写出最伟大的作品；所谓时间，是要浪费在最凝聚心力的伟大作品上。&lt;/p&gt;
+
+  &lt;p&gt;争取高水准人群的认同。社交媒体，因为庸众太多，太容易获取认可。而这个廉价的认可，会错失一些好机会。一旦年轻时，在社交媒体上获取点赞太多，比较对象就不是历史上的牛人、大家了，就是那群给你点赞的人了，一定要得到高水准的少数人认可自己，才不会陷入妄人境界，成为民科或者妄人。&lt;/p&gt;
+
+  &lt;p&gt;是先有了高水准的少数人认可你，才接着是更多少数人，最后才是大众。每一步，遵从7%原理。而不是反之，这样根基最踏实，否则成名也快，衰落也快。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;建议写作频率和练习文体&lt;/li&gt;
+  &lt;li&gt;每周原创一到两篇&lt;/li&gt;
+  &lt;li&gt;每周翻译一篇&lt;/li&gt;
+  &lt;li&gt;每周读书笔记一篇&lt;/li&gt;
+  &lt;li&gt;每月精华一篇（三千到六千字）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;具体的细节在&lt;a href=&quot;http://www.jianshu.com/p/2621444b619d&quot;&gt;《如何正确地练习写作》&lt;/a&gt;，感兴趣的可以翻看。&lt;/p&gt;
+
+&lt;p&gt;接下来是分享的第六部分：写作的变化&lt;/p&gt;
+
+&lt;p&gt;##6、写作的变化&lt;/p&gt;
+
+&lt;p&gt;自被阳老开光之后，我的写作频率开始进行调整，先着力写一两篇的精品，专注主题学习，再穿插一些学习见闻和古书。最近一段时间写出了比较满意的文章是&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jianshu.com/p/6f1404e0240d&quot;&gt;《世界并非如你所见——用可供性来发现更大的世界》&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jianshu.com/p/84f41d12d2a6&quot;&gt;《24款最值得推荐的中文字体》&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;第一篇是阅读《追时间的人》关于可供性篇章的读后感，第二篇是读阳老《字体情绪》后的总结。未来我会一直使用这种主题学习的方法进行写作，文章风格向阳老、大妈和oliver ding学习，尽量写出有主题，有质量，可延续，可迭代的文章。&lt;/p&gt;
+
+&lt;p&gt;关于写作方法，我再一个最近的例子。&lt;/p&gt;
+
+&lt;p&gt;大概一个月前，我在萧秋水的博客看到一篇文章&lt;a href=&quot;http://www.xiaoqiushui.com/archives/9708.html&quot;&gt;《我的工作方法：先完成，再反复修改》&lt;/a&gt;，她在这篇文章中说到了写作方法：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;写作，我会先从头到尾写完，有一个草稿，即使中间有些地方不算好，或者写不下去，也不管，略过那部分，总之先完成，然后返回去再做修改，反复修改，直到最终完稿。&lt;/p&gt;
+
+  &lt;p&gt;我之所以那样做，是因为那样会有一个整体观，往往是写到后面，前面的也想通了，读完全书，不懂的也明白了。如果一味地被前面的细节绊住，可能进度就会受影响，甚至可能无法完成。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;她的写作方法跟阳老此前示范过的快速写作法很相似，但阳老和萧秋水的不同在于：萧秋水说的是一种经验，经验是知其然而不知其所以然，而阳老教的是一种方法论，是知其然而知其所以然。阳老师的写作方法是这样：亲身演示玩快速写作，然后说明大脑的工作原理，接着介绍卡片写作法，讲述了他是利用认知和心理学来写作的，让学习者明白为何要如此写作。&lt;/p&gt;
+
+&lt;p&gt;高明的写作者（如博纳科夫）是将写作看做是一种大脑科学的游戏，让认知遵从大脑规律，得出最优的结果，这样就可以让后来者都能按照这种方法去实践。&lt;/p&gt;
+
+&lt;h2 id=&quot;开智写作班感受分享&quot;&gt;开智写作班感受分享&lt;/h2&gt;
+
+&lt;p&gt;最近加入了开智写作班，说说学习心得：&lt;/p&gt;
+
+&lt;h3 id=&quot;老师和同学都很拼&quot;&gt;老师和同学都很拼&lt;/h3&gt;
+
+&lt;p&gt;阳老真的很拼，第一节课的课件是在上课前一天凌晨一点做到凌晨六点做的，整个课件有74页，上课的三个小时，中途无间断，毫无尿点，连个厕所都不敢去；&lt;/p&gt;
+
+&lt;p&gt;同学们也很拼，平时不在群上说话的人其实私底下学习更凶猛，平时打开邮件都看完作业提交的速度和质量深感同侪压力巨大，跟这些人一起学习，晚上睡觉都觉得是浪费时间；&lt;/p&gt;
+
+&lt;h3 id=&quot;课程需要用心修炼&quot;&gt;课程需要用心修炼&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;课程知识相当密集，平时上课都是70%已知信息加上30%未知信息，阳老一上来就90%未知，需要课后查阅资料、组团解读和亲身练习才能体验到效果；单靠课程还不够，还得自个修炼，除了做好课程笔记，我也打算将在写作班的自个的学习过程也记录下来，![《文学的理由&lt;/td&gt;
+      &lt;td&gt;写作训练日志（1）》](http://www.jianshu.com/p/6f31bbed484d)，&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;为什么写&quot;&gt;为什么写？&lt;/h2&gt;
+
+&lt;p&gt;最后，再回到「为什么写」的问题中，为什么写？人总是喜欢从结果评估行为的价值，但我发现，写作给我带来的好处在不停地写的过程中发现的，就像有时候学一切可以学的东西一样，我不知道这些东西现在会给我带来什么，但未来谁知道呢，做事儿不一定非要有「功利」刺激才去做，因为很多惊人的结果需要偶然的机会作为催化剂才可能发生。&lt;/p&gt;
+
+&lt;p&gt;就像现在，在我开始写之前，我是不会知道我会在这里和大家分享，如果我早知道的话，我可能会后悔我开始得太迟。&lt;/p&gt;
+
+&lt;p&gt;所以现在，我就当写是写的报酬。&lt;/p&gt;
+
+&lt;p&gt;—End—&lt;/p&gt;
+
+&lt;p&gt;##迭代&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2015-09-14 01:52:09 再改&lt;/li&gt;
+  &lt;li&gt;2015年6月19日 19:36:49 四稿&lt;/li&gt;
+  &lt;li&gt;2015年6月17日 19:51:24 三稿&lt;/li&gt;
+  &lt;li&gt;2015年6月16日 20:11:01 二稿&lt;/li&gt;
+  &lt;li&gt;2015年6月15日 19:09:17 初稿&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;学苟知本六经皆我注脚&quot;&gt;&lt;strong&gt;【学苟知本，六经皆我注脚】&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;若其心正，其事善，虽不曾识字，亦自有读书之功。其心不正，其事不善，虽多读书，有何所用?用之不善，反增罪恶耳。&lt;/p&gt;
+
+&lt;p&gt;——陆九渊&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://7d9mjz.com1.z0.glb.clouddn.com/20150913-220033.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（题图：saurabh mohnot by Nik FC）&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 15 Sep 2015 00:00:00 +0800</pubDate>
+        <link>http://cnfeat/blog/2015/09/15/what-i-give-is-what-i-get/</link>
+        <guid isPermaLink="true">http://cnfeat/blog/2015/09/15/what-i-give-is-what-i-get/</guid>
+        
+        <category>写作</category>
+        
+        <category>千字文</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>如何正确地练习写作</title>
+        <description>&lt;p&gt;这是一个晴朗的早晨，歌唱声伴着起床豪饮。&lt;/p&gt;
+
+&lt;p&gt;##初心&lt;/p&gt;
+
+&lt;p&gt;2014年2月10日，我开始每天写千字文，到现在（2015年3月3日）已超一年，在这期间，我写了347篇文章，全部放在我的博客（cnfeat.com）和公众号（cnfeat）上。&lt;/p&gt;
+
+&lt;p&gt;起初我练习千字文的目的很简单：锻炼思考、表达、总结和分享的能力，通过写来提升自己。&lt;/p&gt;
+
+&lt;p&gt;写的作用，《重来》这本书说：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;如果准备在一堆人中挑出一个人来做某份工作，那就挑写作能力最好的那个。至于他有没有做过市场、销售、设计、编程或其他什么，倒并不那么重。他们的写作能力迟早会带来好处的。&lt;/p&gt;
+
+  &lt;p&gt;这是因为，一个会写作的人，他厉害之处可不仅仅是会写作而已。文法清晰代表思路明晰。那些会写作的人懂得如何与他人进行沟通。他们使得事情变得更好理解了。他们擅于换位思考。他们懂得抓住重点。这些都是你想在一个应聘者身上看到的特质。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;一年前，我没有写作的习惯，既然要写，就先养成写作的习惯，当时恰好看到王佩的&lt;a href=&quot;http://www.baibanbao.net/2014/02/02/is-it-possible-to-write-1000-words-per-day.html&quot;&gt;《每天写一篇千字文靠谱吗？》&lt;/a&gt;，和简叔的&lt;a href=&quot;http://www.jianshu.com/p/53eea6022d58&quot;&gt;《如何坚持每天写一千字》&lt;/a&gt;，我当时就想，既然他们都说好，那我就开练吧。&lt;/p&gt;
+
+&lt;p&gt;我当时练习千字文还有两个目的：&lt;/p&gt;
+
+&lt;p&gt;一是想锻炼自己持续做一件事的能力&lt;/p&gt;
+
+&lt;p&gt;二是想通过写来逼自己更多地接触外界，接收更多的信息（阅读、观影、外出、社交……）通过持续的信息输出来强制自己进行信息输入。&lt;/p&gt;
+
+&lt;p&gt;这样做带来效果还不错，起码在此期间，千字文的压力迫使我去阅读书籍，写读书笔记，参加社会活动，组建写作社群，认识了各行业的人，这对当时的我都是非常有益的。&lt;/p&gt;
+
+&lt;p&gt;这期间，我自己摸索了一点写作的经验，大家可以去博客看看&lt;a href=&quot;http://cnfeat.com/categories/%E5%8D%83%E5%AD%97%E6%96%87%E4%B8%8E%E5%86%99%E4%BD%9C/&quot;&gt;「千字文与写作」&lt;/a&gt;的分类，虽然比较稚嫩，但是毕竟也是真实的记录，相当有比较意义。&lt;/p&gt;
+
+&lt;p&gt;##问题&lt;/p&gt;
+
+&lt;p&gt;在写千字文的过程中，我渐渐地发现了以下问题：&lt;/p&gt;
+
+&lt;p&gt;###一、形成舒适区&lt;/p&gt;
+
+&lt;p&gt;各种被千字文牵引而成的信息输入行为模式（例如阅读、写笔记、总结等）已经养成，写作也已变成一种日常，也就是说，初始目的已经达成，我现在已经进入了每天写千字文的「舒适区」，每天写1000字这件事情对我而言不再是一件难事，我需要进去另一个「学习区」。&lt;/p&gt;
+
+&lt;p&gt;###二、思考太浅&lt;/p&gt;
+
+&lt;p&gt;每天写千字文，强制信息输出，好容易会将接到是每天写容易将浅度思考的内容分享出去，就好像拿着一个盘去接水，每次接到一点点就泼出去。比如说我最近写的关于实践卡写作法的文章，我在刚接触这个知识点之后就要匆匆忙忙地要将自己的认识和看法写出去，这种短时间得出东西毕竟十分粗浅薄寡。&lt;/p&gt;
+
+&lt;p&gt;虽然说这篇写出来的文章可以后续修改，但事实往往残酷：1.0版的想法放出去后，为了赶每天的千字文，并没有再多的时间和动力去做2.0，3.0版的修改（用大脑认知来讲，文章公开发表之后大脑误以为已经完成了指令，不会再驱动人去完善后续版本）。&lt;/p&gt;
+
+&lt;p&gt;###三、产出质量&lt;/p&gt;
+
+&lt;p&gt;以前的想法是：既然无法每篇都能写出高质量的文章，那么通过数量的堆积，经历试错，我可能可以捉摸到读者的口味，然后写出高质量的文章。但现在的事实是，我已深知自己的浅薄，需要读更多的书，接触更多源头的知识，才能写出更好的东西。&lt;/p&gt;
+
+&lt;p&gt;##改变&lt;/p&gt;
+
+&lt;p&gt;察觉问题不久后，我进入了阳志平发起的开智青年故事会（&lt;a href=&quot;http://t.cn/RwYcbCP&quot;&gt;「开智微信群」入群指南&lt;/a&gt;）,阳志平老师指出每天写千字文的不妥之处。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;隐私的文字、技术类、笔记类的文章可以每天写，但公开的每天进行持续地文字输出，会给创造力进行损伤，文气会被稀释。天天坚持对外输出这种事情，容易将酷的底线变低，同时你的大脑会习惯这种线性操作，日益写不出更好的文章。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;虽然自己已经隐隐意识到以上弊端，但当局者迷，或者复盘的意识和能力还不够，或者人就是愿意停留在「舒适区」，还不愿意正视事实。&lt;/p&gt;
+
+&lt;p&gt;听到这个指正之后，自己猛地惊出一身冷汗，若不是有前辈指点，我岂不是还要原地踏步？&lt;/p&gt;
+
+&lt;p&gt;接下来，阳志平老师还给出写作建议：&lt;/p&gt;
+
+&lt;p&gt;###与其持续写低质量的东西，不如储力写高质量的文章&lt;/p&gt;
+
+&lt;p&gt;厚积薄发，在适当的时候爆发出来，这样才算是酷的事情，做酷的事情比每天一些小事情所带来的效应会强的得多。&lt;/p&gt;
+
+&lt;p&gt;所谓生命，是要写出最伟大的作品；所谓时间，是要浪费在最凝聚心力的伟大作品上。&lt;/p&gt;
+
+&lt;p&gt;###争取高水准人群的认同&lt;/p&gt;
+
+&lt;p&gt;社交媒体，因为庸众太多，太容易获取认可。而这个廉价的认可，会错失一些好机会。一旦年轻时，在社交媒体上获取点赞太多，比较对象就不是历史上的牛人、大家了，就是那群给你点赞的人了，一定要得到高水准的少数人认可自己，才不会陷入妄人境界，成为民科或者妄人。&lt;/p&gt;
+
+&lt;p&gt;是先有了高水准的少数人认可你，才接着是更多少数人，最后才是大众。每一步，遵从7%原理。而不是反之，这样根基最踏实，否则成名也快，衰落也快。&lt;/p&gt;
+
+&lt;p&gt;##方法&lt;/p&gt;
+
+&lt;p&gt;###写作可以练习&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.yangzhiping.com/psy/wenxin.html&quot;&gt;《文心书话》&lt;/a&gt;说到&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;中国文论讲究不要轻易点出文章「机心」，任读者自行领悟，使得中国文学中充斥着大量不可言说的「道」。一旦探讨写作的具体技巧与指导性强的术，往往被讥笑。所以写作的道始终掌握在少数人手中，站在一个云端来俯视与鄙视那些在金线之下挣扎的百姓们。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;由此可见，写作自有方法可循，只不过那些「高人们」遮遮掩掩，故弄玄虚，对别人说「功夫在诗外」「文章本天成」，就像考试时得到一本黄冈秘题，练功时得到一本《葵花宝典》，自己生怕别人学到自己引以为傲的手艺。&lt;/p&gt;
+
+&lt;p&gt;题外话：我有一朋友就深受这种思想的毒害，坚信好文章是靠灵感爆发，随心而成的，结果我等了他好久，他也没有随心出一篇，就算好久随心出一篇，在我看来，那也是无关痛痒的QQ空间式的文章，白白浪费好苗子。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;写作要靠灵感，那么，灵感是否可以习得？在七八年前，刘未鹏就研究过灵感的形成，人一生中占据一个显著比例的&lt;a href=&quot;http://mindhacks.cn/2009/12/20/dark-time/&quot;&gt;「暗时间」&lt;/a&gt;，这段「暗时间」存在于你走路、买菜、洗脸洗手、坐公车、逛街、出游、吃饭、睡觉的过程之中，你可以充分利用这些时间进行思考，反刍和消化平时看和读的东西，让你的认识能够脱离照本宣科的层面。这段时间看起来微不足道，但日积月累将会产生庞大的效应。&lt;a href=&quot;http://blog.csdn.net/pongba/article/details/2270171&quot;&gt;你利用到的「暗时间」越多，灵感的产出率就越高。&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;###刻意练习&lt;/p&gt;
+
+&lt;p&gt;刻意练习不是傻乎乎地，天天坚持做一件事情，而是主动地，有计划地、艰苦地，有创造性去做。&lt;/p&gt;
+
+&lt;p&gt;关于刻意练习，阳志平老师的这篇文章&lt;a href=&quot;http://www.yangzhiping.com/psy/Deliberate-Practice.html&quot;&gt;《心智工具箱（12）：刻意练习》&lt;/a&gt;提到&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;刻意练习的任务难度要适中、能收到反馈、有足够的次数重复练习、学习者能够纠正自己的错误。如此如此，必成大器。 其中，多数不靠谱的成功学在于选择了错误的练习方式，虽说喊的口号是刻意练习但实质不是刻意练习，因为没有激活长时工作记忆能力。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;同人于野在&lt;a href=&quot;http://www.geekonomics10000.com/519&quot;&gt;《练习一万小时成天才》&lt;/a&gt;中提到&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;刻意练习不好玩，它要求练习调动大量的身体和精神资源，全力投入。如果你觉得在享受练习的过程，那就不是刻意练习。 找一本小说一边喝咖啡一边看，在一个空闲的下午打场球，这样的活动都非常令人愉快，但是做再多也不会提高技艺。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;正确的练习方式应该是这样：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;只在「学习区」练习；&lt;/li&gt;
+  &lt;li&gt;把要训练的内容分成有针对性的小块，对每个小块进行重复练习；&lt;/li&gt;
+  &lt;li&gt;在练习的过程中，随时能获得有效的反馈；&lt;/li&gt;
+  &lt;li&gt;练习时注意力必须高度集中。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;对以上四点做一个简短的补充：&lt;/p&gt;
+
+&lt;p&gt;####学习区&lt;/p&gt;
+
+&lt;p&gt;练习写作要界定自己的舒适区和学习区，随着知识和技能的掌握程度，舒适区和学习区都会发生转变，要及时调整学习计划和练习方法。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;有效的练习任务必须在学习区内进行，它具有高度的针对性。训练者必须随时了解自己最需要改进的地方。一旦已经学会了某个东西，就不应该在上面花时间，应该立即转入下一个困难点。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;在舒适区做事，叫生活；在学习区做事，才叫练习。真正的练习不是为了完成一定的量，练习的精髓是要持续地做自己做不好的事情。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;####分块练习&lt;/p&gt;
+
+&lt;p&gt;将要刻意练习的领域分割成各个小块，然后进行有针对的训练。例如哥伦比亚大学的写作课就要包含有描述声音的课程，要说出：那个声音是什么颜色，什么形状，什么质感，给人什么联想，&lt;/p&gt;
+
+&lt;p&gt;####即时反馈&lt;/p&gt;
+
+&lt;p&gt;为什么那多健过身的人都推荐新手去请私教，因为私教可以即时纠正新手的错误，得到最及时有效的反馈，正反馈越多，进步就越大。&lt;/p&gt;
+
+&lt;p&gt;关于即时反馈，大家可以看看哥伦比亚大学写作课程的反馈安排：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;像我这样的曾经的文学青年，如果有鲁迅或王安忆当面批改作品，有舒尔茨每天都在一旁拎着耳朵不断追问「你听到了什么」，最起码我们的文学梦可以做得更长久一些吧。严锋&lt;a href=&quot;http://news.sina.com.cn/c/2009-12-09/112519222865.shtml&quot;&gt;《作家是怎样炼成的》&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;如果要了解写作的「分块练习」和「即时反馈」，还可以看看这篇&lt;a href=&quot;http://www.dfdaily.com/html/150/2013/10/9/1077236.shtml&quot;&gt;《大学写作是怎样炼成的——哥大核心课程之写作课》&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;其中，即时反馈效果最好的环境就是群体学习，阳志平老师的&lt;a href=&quot;http://www.yangzhiping.com/psy/Deliberate-Practice.html&quot;&gt;《心智工具箱（12）：刻意练习》&lt;/a&gt;提到：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;找到学习共同体：因为大量知识存在于学习共同体的实践中，不是书本中，所以有效的学习不是关门苦练，而是找到属于自己的学习小团体。如程序员在类似于github这样的网站练习编程。&lt;/li&gt;
+    &lt;li&gt;隐性知识显性化：隐性知识是使人们有能力利用概念、事实以及程序来解决现实问题的知识。&lt;/li&gt;
+    &lt;li&gt;模仿榜样：榜样可以是现实生活中的导师，也可以是网上的导师；&lt;/li&gt;
+    &lt;li&gt;培养多样性：在多种情境中实践，以此强调学习广阔的应用范围。&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;广告时间：暂时进不了哥伦比亚大学的，可以进开智微信群（&lt;a href=&quot;http://t.cn/RwYcbCP&quot;&gt;「开智微信群」入群指南&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;####高度集中的注意力&lt;/p&gt;
+
+&lt;p&gt;当你做一件事，这件事的难度与你的能力、兴趣以及技术相符（刻意练习就要找这种任务来做），你就会全神贯注，行为和意识高度统一，随之进入一种被称之为「心流」（Flow）的状态。在这种状态中，你会忘我，忘记时间、忘记其他所有不相关的东西，完全沉静在某项事物或情境中，从而找到极致的乐趣，&lt;/p&gt;
+
+&lt;p&gt;虽然说刻意练习不好玩，但当练习达到心流状态，好玩的东西就随之而来，这种状态就像好吃的东西一样，你会念念不忘，想方设法再去进入心流，到这个时候，就无须再使用意志力去学习一种东西，而是靠内驱动力去学习一样东西，这样学习才会持久。&lt;/p&gt;
+
+&lt;p&gt;###写作频率和练习文体&lt;/p&gt;
+
+&lt;p&gt;阳志平老师建议写作的频率为：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;每周原创一到两篇&lt;/li&gt;
+  &lt;li&gt;每周翻译一篇&lt;/li&gt;
+  &lt;li&gt;每周读书笔记一篇&lt;/li&gt;
+  &lt;li&gt;每月精华一篇（三千到六千字）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;####1、原创&lt;/p&gt;
+
+&lt;p&gt;原创就是独立完成的创作，写出自己独有的东西。&lt;/p&gt;
+
+&lt;p&gt;####2、翻译&lt;/p&gt;
+
+&lt;p&gt;翻译是提高写作最快的捷径。&lt;/p&gt;
+
+&lt;p&gt;找名家翻译过名篇，不看翻译，自己先试着翻译，然后对照自己的翻译与名家的翻译，找出区别，最后再翻译一次。&lt;/p&gt;
+
+&lt;p&gt;推荐用书：&lt;a href=&quot;http://book.douban.com/subject/20453368/&quot;&gt;《玩具屋九讲》&lt;/a&gt;，这本书可以用来精磨慢读。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;关于慢读，同人于野在&lt;a href=&quot;http://www.geekonomics10000.com/376&quot;&gt;《用强力研读书》&lt;/a&gt;中提到，读书人的一个秘密就是，读得慢，吸收知识和增长内力的效率会更高。&lt;/p&gt;
+
+  &lt;p&gt;好书应该至少读两遍，第一遍用来理解，第二遍用来强力研读（怎么强力研读？在后面在做读书笔记部分会有介绍）。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;阳志平老师提到的翻译名家有：王佐良、余光中、钱歌川 、思果 、刘宓庆、郭岱宗。&lt;/p&gt;
+
+&lt;p&gt;关于翻译的书单：&lt;a href=&quot;http://www.douban.com/doulist/13967508/&quot;&gt;译道技法&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;在学习写作和翻译的过程中，也可以运用恶魔奶爸的透析法来学习英语。毕竟掌握了英语，你才能接触到信息源头。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;####3、读书笔记&lt;/p&gt;
+
+&lt;p&gt;写一篇好的读书笔记是一件挺费心力的事，同人于野在&lt;a href=&quot;http://www.geekonomics10000.com/376&quot;&gt;《用强力研读书》&lt;/a&gt;提到的强力研读法就是一个不错的方法。&lt;/p&gt;
+
+&lt;p&gt;先选对书，首先，只有为了理解某个我们原来不懂的东西而读书，才值得认真对待。其次，读书应该以自我为主，而不是以书为主。&lt;/p&gt;
+
+&lt;p&gt;强力研读要求读书笔记必须包括四方面的内容&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;清晰地表现每一章的逻辑脉络；&lt;/li&gt;
+  &lt;li&gt;带走书中所有的亮点；&lt;/li&gt;
+  &lt;li&gt;有大量的自己的看法和心得；&lt;/li&gt;
+  &lt;li&gt;发现这本书和以前读书读过的其他书或文章的联系；&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;####4、精华（三千到六千字）&lt;/p&gt;
+
+&lt;p&gt;这篇文章应该凝聚练习者在一个领域内学到的心得、经验和总结等，建议按照写维基的形式来写，文章的架构可以参考一本书的目录，通过树形机构逼自己系统地思考问题。将文章结构搭建完成之后，再完成细枝末节。&lt;/p&gt;
+
+&lt;p&gt;一个月的时间，足以在一个陌生的领域打开一个口子，大可以将此文当作是自己钻研学习的小论文，放出来让市场接受检验，写长文尤其锻炼人，要写就要写出思维密集高的文章，既然花费而来一个月的时间来写这篇文章，就要写得好一点，让读文章人多多受益，从而吸引更多的人来看文章，这样才算赢了。&lt;/p&gt;
+
+&lt;p&gt;###开始基础训练&lt;/p&gt;
+
+&lt;p&gt;大家以前都上过语文课，写过作文，对写进教材的文章十分尊敬，总觉他们这样写是一定有道理的，只不过是自己有问题没搞懂，但事实上，被编进教材的文章其实也有很多问题，例如朱自清的《荷塘月色》就&lt;a href=&quot;http://www.yangzhiping.com/psy/wenxin06.html&quot;&gt;滥用了比喻&lt;/a&gt;，那时候做学生，老师讲什么就听什么，一味地接收，根本不懂得学完之后跳出来返观教材，往往是接收了一点之后就马上去考试，考试一过就忘记了。&lt;/p&gt;
+
+&lt;p&gt;所以，要重新开始写作，就必须需要重新开始学习语文基础知识，同时向大师们学习。&lt;/p&gt;
+
+&lt;p&gt;那么，怎么学习语文？&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;中国写作传统不同于西方，两者美学趣味大相径庭。如果说西方是史诗与叙事诗传统，中国则是抒情诗传统。学习写作，还得在西方与古典中寻。 去古典中体悟最美的抒情；往西方练习简约的叙事之道。其中不二法门就是，看最优秀作家的文章，将自己沉浸在美文体验中。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;按照阳志平老师的观点，学习习作可以向这些人学习。&lt;/p&gt;
+
+&lt;p&gt;西方是蒙田祖师爷=》休谟=》毛姆=》怀特=》奥威尔 =》平克；&lt;/p&gt;
+
+&lt;p&gt;中国则是韩愈=》辛弃疾=》钱钟书=》余光中或王鼎钧。&lt;/p&gt;
+
+&lt;p&gt;###文章推荐&lt;/p&gt;
+
+&lt;p&gt;阳志平&lt;a href=&quot;http://www.yangzhiping.com/psy/wenxin.html&quot;&gt;《文心书话》&lt;/a&gt;，&lt;a href=&quot;http://www.yangzhiping.com/files/pubs/wenxin_01.pdf&quot;&gt;PDF地址&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;王烁：&lt;a href=&quot;http://wangshuo.blog.caixin.com/archives/821&quot;&gt;《有效写作十三篇》&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;###书单推荐：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.douban.com/doulist/37792154/&quot;&gt;《文心书话》第一章推荐阅读书目：&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;http://www.douban.com/doulist/37792154/&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.douban.com/doulist/1269878/&quot;&gt;阳志平：开始写作吧&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;http://www.douban.com/doulist/1269878/&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.xiaoqiushui.com/archives/8900.html&quot;&gt;萧秋水：《作文三书》切实帮助提升写作水平的书 &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;http://www.douban.com/doulist/37792472/&lt;/p&gt;
+
+&lt;p&gt;备注：早期叫《作文三书》，再版后增加一书，改为《作为四书》。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;###&lt;strong&gt;【一期一会】&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;二十一世纪的五大元学科为：1）网络科学；2）认知&amp;amp;神经&amp;amp;心理科学；3）编程；4）数学；5）文艺创作。学习五大元学科，再进入任意一个新领域，容易事倍功倍；任意元学科的交集，容易创新。&lt;/p&gt;
+
+&lt;p&gt;————阳志平&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cnfeat.qiniudn.com/signitrue-2015-03-05.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（题图：write your page by awby）&lt;/p&gt;
+
+&lt;p&gt;回复关键词「开智」获得&lt;/p&gt;
+
+&lt;p&gt;###「开智微信群」入群指南&lt;/p&gt;
+
+&lt;p&gt;http://t.cn/RwYcbCP&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Mar 2015 00:00:00 +0800</pubDate>
+        <link>http://cnfeat/blog/2015/03/02/how-to-write/</link>
+        <guid isPermaLink="true">http://cnfeat/blog/2015/03/02/how-to-write/</guid>
+        
+        <category>总结</category>
+        
+        <category>知识管理</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
