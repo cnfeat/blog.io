@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 选中的磁盘具有MBR分区表，在EFI系统上Windows只能安装到GPT磁盘的解决方法
+title: 在EFI系统上Windows只能安装到GPT磁盘的解决方法
 date: 2017-04-27
 categories: blog
 tags: [operations]
-description: 选中的磁盘具有MBR分区表，在EFI系统上Windows只能安装到GPT磁盘的解决方法
+description: 在EFI系统上Windows只能安装到GPT磁盘的解决方法
 ---
 
 ### 问题：
