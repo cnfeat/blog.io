@@ -3,7 +3,7 @@ layout: post
 title: Windows和Linux下定时删除某天前的文件的脚本
 date: 2017-05-09
 categories: blog
-tags: [linux,win]
+tags: [linux,windows]
 description: Windows和Linux下定时删除某天前的文件的脚本
 ---
 
