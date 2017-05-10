@@ -62,4 +62,8 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
+ analytics:       
+ provider: custom 
+
 # Links to include in footer navigation
+
