@@ -1,73 +1,48 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "这是，关于我的一些"
 header-img: "img/green.jpg"
 ---
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="https://raw.githubusercontent.com/Andln/andln.github.io/master/img/andln.jpg" align="center"></p>
 </center>
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+我是林龙飞，交互设计师&产品设计师，[哈尔滨工业大学](www.hit.edu.cn)·媒体技术与艺术系2014届，[国立台湾大学](www.ntu.edu.tw)·[资讯网络与多媒体研究所](http://www.inm.ntu.edu.tw/main.php)·[CmLab](https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php)·graphics组2016届。
 
-现在研习 **认知写作学** 。
+目前就职于[易视(北京)网络技术有限公司](http://www.epeijing.cn/)，专注于眼镜垂直行业SaaS服务，负责产品设计团队。
 
-###坚信
+研究生阶段师从台大cmlab[陈炳宇](http://graphics.csie.ntu.edu.tw/~robin/)教授与[梁荣豪](http://www.cmlab.csie.ntu.edu.tw/~howieliang/)博士，研习 **有形交互设计(Tangible User Interface)** ，其目的在于将无形虚拟的数字世界信息，用真实有形的物理形式表达。
 
-
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
-
-
-###关注：
-
-
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
+本科阶段师从哈工大媒体系[陈童](http://www.everyinch.net/)，研习关于产品设计与用户体验，将分形图形应用于家装设计图案。
 
 
 
-
-###代表作：
-
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
-
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
-
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
+### Publications：
+- [WAKEY: Assisting Parent-Child Communication for Better Morning Routines]()(*Accepted*)
+- [Stylus Assistant: Designing Dynamic Constraints for Facilitating Stylus Inputs on Portable Displays]()(*Accepted*)
+- [GaussMarbles: Spherical Magnetic Tangibles for Interacting with Portable Physical Constraints](http://dl.acm.org/citation.cfm?id=2858559&CFID=790246963&CFTOKEN=33371935)(*Acceptance Rate = 23%*)
+- [FlexiBend: Enabling Interactivity of Multi-Part, Deformable Fabrications Using Single Shape-Sensing Strip](http://dl.acm.org/citation.cfm?id=2807456&CFID=790246963&CFTOKEN=33371935)(*Acceptance Rate = 23%*)
 
 
-###我的朋友们
+### 坚信
 
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
-
-###联系
-
-- [博客：www.cnfeat.com](www.cnfeat.com)
-
-- [微博@CnFeat](http://weibo.com/207775270)
-
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
-
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
+- 走过必留下痕迹
 
 
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
+### 关注：
 
+- [麻神理工媒体实验室](www.media.mit.edu/)
+- [迪士尼研究所](https://www.disneyresearch.com/projects/)
+
+### 联系
+
+- [博客@安林](andln.com)
+- [Facebook@andln](https://www.facebook.com/{{ site.facebook_username }})
+- [知乎@林灰](https://www.zhihu.com/people/{{ site.zhihu_username }})
+- [Quora@Andln](https://www.quora.com/profile/{{ site.quora_username }})
 
 
 

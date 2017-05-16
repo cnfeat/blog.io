@@ -10,7 +10,8 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- Icons -->
-  <link rel="shortcut icon" href="img/favicon.ico">
+  <!-- <link rel="shortcut icon" href="img/favicon.ico"> -->
+  <link rel="icon" href="https://raw.githubusercontent.com/Andln/andln.github.io/master/img/favicon.ico" type="image/x-icon" />
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
@@ -32,5 +33,6 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+    {% include google-analytics.html %}
 
 </head>
