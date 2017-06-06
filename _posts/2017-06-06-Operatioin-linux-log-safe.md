@@ -1,10 +1,10 @@
 ---
 layout: post
-title: linux查看ssh登录日志跟安全措施防护
+title: linux查看ssh登录日志及常用日志介绍
 date: 2017-06-06
 categories: blog
 tags: [operations,linux]
-description: linux查看ssh登录日志跟安全措施防护
+description: linux查看ssh登录日志及常用日志介绍
 ---
 
 ## linux 查看日志：
