@@ -9,31 +9,31 @@ description: CentOS开机卡在进度条的解决方法
 
 CentOS开机的时候卡在进度条一直进不去
 
-![](http://https://azraelgreen.github.io/img/20170705_01.jpg)
+![](https://azraelgreen.github.io/img/20170705_01.jpg)
 
 这看不出开机启动卡在哪里，只好重启按住"e"键，进入启动菜单：
 
-![](http://https://azraelgreen.github.io/img/20170705_02.jpg)
+![](https://azraelgreen.github.io/img/20170705_02.jpg)
 
 接着按e进入编辑第一项：
 
-![](http://https://azraelgreen.github.io/img/20170705_03.jpg)
+![](https://azraelgreen.github.io/img/20170705_03.jpg)
 
 然后移动到第二项kernel...接着按e进入编辑
 
-![](http://https://azraelgreen.github.io/img/20170705_04.jpg)
+![](https://azraelgreen.github.io/img/20170705_04.jpg)
 
 去掉rhgb quiet字样
 
-![](http://https://azraelgreen.github.io/img/20170705_05.jpg)
+![](https://azraelgreen.github.io/img/20170705_05.jpg)
 
 按回车保存回到选择项
 
-![](http://https://azraelgreen.github.io/img/20170705_06.jpg)
+![](https://azraelgreen.github.io/img/20170705_06.jpg)
 
 按b启动它就能看到启动过程了
 
-![](http://https://azraelgreen.github.io/img/20170705_07.jpg)
+![](https://azraelgreen.github.io/img/20170705_07.jpg)
 
 注意查看启动过程中卡在哪里？可以**按f5键进度条/命令行界面方式切换**，确认卡问题后处理就好。
 
