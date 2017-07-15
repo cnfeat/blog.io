@@ -49,7 +49,7 @@ Nginx 里面设置一个限制
  
 			fastcgi_pass   127.0.0.1:9000;
 			fastcgi_index  index.php;
-	        include    fastcgi_params;
+			include    fastcgi_params;
 	    }    
  
 	}
