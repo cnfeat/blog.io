@@ -44,11 +44,11 @@ Nginx 里面设置一个限制
 	server {
 	    listen   80;
 	    location ~ \.php$ {
- 	               ## 最多 5 个排队， 由于每秒处理 10 个请求 + 5个排队，你一秒最多发送 15 个请求过来，再多就直接返回 503 错误给你了
- 	        limit_req zone=ConnLimitZone burst=5 nodelay;
+			## 最多 5 个排队， 由于每秒处理 10 个请求 + 5个排队，你一秒最多发送 15 个请求过来，再多就直接返回 503 错误给你了
+			limit_req zone=ConnLimitZone burst=5 nodelay;
  
-	        fastcgi_pass   127.0.0.1:9000;
-	        fastcgi_index  index.php;
+			fastcgi_pass   127.0.0.1:9000;
+			fastcgi_index  index.php;
 	        include    fastcgi_params;
 	    }    
  
@@ -93,11 +93,11 @@ Nginx 里面设置一个限制
 取得用户的原始地址
 
 	map $http_x_forwarded_for  $clientRealIp {
-	        ## 没有通过代理，直接用 remote_addr
+			## 没有通过代理，直接用 remote_addr
 	    ""    $remote_addr;  
-	        ## 用正则匹配，从 x_forwarded_for 中取得用户的原始IP
- 	        ## 例如   X-Forwarded-For: 202.123.123.11, 208.22.22.234, 192.168.2.100,...
- 	        ## 这里第一个 202.123.123.11 是用户的真实 IP，后面其它都是经过的 CDN 服务器
+			## 用正则匹配，从 x_forwarded_for 中取得用户的原始IP
+			## 例如   X-Forwarded-For: 202.123.123.11, 208.22.22.234, 192.168.2.100,...
+			## 这里第一个 202.123.123.11 是用户的真实 IP，后面其它都是经过的 CDN 服务器
 	    ~^(?P<firstAddr>[0-9\.]+),?.*$    $firstAddr;
 	}
  
@@ -156,16 +156,15 @@ CDN环境下 Nginx 的安全配置
  
 	## 具体服务器配置
 	server {
-    	listen   80;
-    	location ~ \.php$ {
-     	           ## 最多 5 个排队， 由于每秒处理 10 个请求 + 5个排队，你一秒最多发送 15 个请求过来，再多就直接返回 503 错误给你了
-        	limit_req zone=ConnLimitZone burst=5 nodelay;
+		listen   80;
+		location ~ \.php$ {
+			## 最多 5 个排队， 由于每秒处理 10 个请求 + 5个排队，你一秒最多发送 15 个请求过来，再多就直接返回 503 错误给你了
+			limit_req zone=ConnLimitZone burst=5 nodelay;
  
-        	fastcgi_pass   127.0.0.1:9000;
-        	fastcgi_index  index.php;
-        	include    fastcgi_params;
-    	}    
- 
+			fastcgi_pass   127.0.0.1:9000;
+			fastcgi_index  index.php;
+			include    fastcgi_params;
+		}    
 	}
  
 ## 后记：
