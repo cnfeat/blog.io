@@ -1,3 +1,2 @@
-##说明
-
-Clone from cnfeat/blog.io //
+## 说明
+Clone from cnfeat/blog.io

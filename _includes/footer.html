@@ -5,6 +5,7 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
                     <!-- kill the Facebook and Weibo -->
+                    <!--
                     <li>
                         <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
                             <span class="fa-stack fa-lg">
@@ -23,7 +24,7 @@
                         </a>
                     </li>
                     {% endif %}
-
+                    -->    
                     {% if site.github_username %}
                     <li>
                         <a href="https://github.com/{{ site.github_username }}">
@@ -34,8 +35,6 @@
                         </a>
                     </li>
                     {% endif %}
-                    
-                    <!--
                     {% if site.douban_username %}
                     <li>
                         <a href="http://www.douban.com/people/{{ site.douban_username }}">
@@ -46,8 +45,6 @@
                         </a>
                     </li>
                     {% endif %}
-                    -->
-
                     <!--
                     {% if site.facebook_username %}
                     <li>
@@ -71,7 +68,6 @@
                         </a>
                     </li>
                     {% endif %}
-                    <!--
                     {% if site.weibo_username %}
                     <li>
                         <a target="_blank" href="http://weibo.com/{{ site.weibo_username }}">
@@ -82,8 +78,6 @@
                         </a>
                     </li>
                     {% endif %}
-                    -->
-
                 </ul>
                 <p class="copyright text-muted">
                 &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} ❖ Powered by Jekyll.
