@@ -1,3 +1,13 @@
+---
+layout: post
+title: 面向对象的三大基本特征
+description:
+headline:
+categories: Blog
+tags: -
+coments: ture
+published: ture
+---
 面向对象有三大基本特征：**封装**、**继承**、**多态**
 
 如下图所示：
