@@ -36,7 +36,7 @@ description: nginx服务器绑定域名和设置根目录的方法
 
 `root` 这一项是指定网站的根目录，设置成我们需要的目录即可。
 
-![](https://azraelgreen.github.io/img/201707211.png)
+![](https://azraelgreen.github.io/img/201707211.jpg)
 
 #### 四、如果想绑定多个域名怎么办？或是各种二级域名，比如hao.、tools.这样的二级域名？
 
@@ -50,7 +50,7 @@ description: nginx服务器绑定域名和设置根目录的方法
 
 4、然后在 `nginx.conf` 使用 `include vhost/*.conf` 全部引入。引入相当于所有代码写在nginx.conf中一样，并且不用考虑其他目录的关系，都以nginx.conf为准，这样方便管理。
 
-![](https://azraelgreen.github.io/img/201707212.png)
+![](https://azraelgreen.github.io/img/201707212.jpg)
 
 #### 五、其他规则配置也可以像上面一样建立多个文件的方式统一管理
 
