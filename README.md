@@ -6,7 +6,7 @@
 
 ## 读立写生
 
-我是冯皓，博客：[fenghao.me](fenghao.me)
+我是冯皓，博客：[https://moye.github.io/](https://moye.github.io/)
 
 每天五百字文，践行时间：2016年10月08日至2016年10月15日
 
