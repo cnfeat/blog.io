@@ -1,0 +1,35 @@
+web service 在 tomcat中服务的发布（后面就用ws做简称了）
+1.tomcat的运行环境要统一，不然会报版本的错误 Exception:.....version -52
+ws需要有jax-ws的相关jar包做支撑
+2.jar包名称:jaxb-api-2.2,jaxb-impl-2.1.8,jaxb-xjc-2.1.6,jaxws-api,jaxws-rt-2.1.7,jaxws-tools-2.2.0.1-sources,stax-ex-1.2,streambuffer
+需要 做 sun-jaxws.xml的配置
+<!-- sun-jaxws.xml -->
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoints xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime" version="2.0">
+  <endpoint name="helloworld" implementation="cn.tgb.ws....HelloWebService" url-parttern="/helloworld"/>
+</endpoints>
+<!-- sun-jaxws.xml -->
+<!-- web.xml -->
+添加 的内容
+<listener>
+  <listener-class>com.sun.xml.ws.transport.http.servlet.WSServletContextListener</listener-class>
+</listener>
+<servlet>
+  <servlet-name>helloworld</servlet-name>
+  <servlet-class>com.sun.xml.ws.transport.http.servlet.WSServlet</servlet-class>
+  <load-on-startup>1</load-on-startup>
+</servlet>
+<servlet-mapping>
+  <servlet-name>helloworld</servlet-name>
+  <url-pattern>/helloworld</url-pattern>
+</servlet-mapping>
+<!-- web.xml -->
+3.发布接口
+需要 明确的地方
+@ WebService(endpointInterface="cn.....IHello")首先是注解参数
+public class HelloWebService implements IHello{
+  public String helloworld(@WebParam(name = "name") String name){}还有参数注解和参数
+}
+接口 就只有注解，如下
+@WebService
+public interface IHello{} 
