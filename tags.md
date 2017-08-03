@@ -11,6 +11,7 @@ header-img: "img/semantic.jpg"
 2. 点击它
 3. 相关的文章会「唰」地一声跳到页面顶端
 4. 马上试试？
+5. first edit show
 
 ##基因列表
 
