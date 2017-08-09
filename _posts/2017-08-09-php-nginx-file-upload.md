@@ -31,7 +31,7 @@ description: PHP和Nginx文件上传大小限制问题解决方法
 		client_body_temp_path /home/www/nginx_temp;        #设置临时目录
 	}
 
-### 二、修改php.ini
+### 二、修改 `php.ini`
 
 在 `php.ini` 里面查看如下行：
 
