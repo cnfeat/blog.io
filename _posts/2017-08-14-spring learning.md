@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 面向对象的三大基本特征
+title: spring学习笔记(一)
 description:
 headline:
 categories: Blog
-tags: 面向对象
+tags: spring框架 Java
 coments: ture
 published: ture
 ---
