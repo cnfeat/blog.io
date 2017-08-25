@@ -6,7 +6,7 @@
 
 ##读立写生
 
-我是陈素封，博客：[cnfeat.com](cnfeat.com)
+我是Curvature，博客：[marsbla.com](marsbla.com)
 
 每天千字践行者，践行时间：2014年02月10日至2014年02月23日，感谢这段经历，让我成为了现在的我。
 
