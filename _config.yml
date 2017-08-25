@@ -1,15 +1,15 @@
 # Site settings
-title: 读立写生
+title: 我有一条大笨鱼,咿呀咿呀呦
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "陈素封|读而立·写而生"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://marsbla"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
+  name: " Curvature"
+  email: curvaturedriven@gmail.com
   bio: "写就是写的报酬"
 
 # Data
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "Curvature"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
