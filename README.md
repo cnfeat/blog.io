@@ -1,7 +1,7 @@
 # 凸守的博客！
 
- Fork from：[cnfeat/blog.io](https://github.com/cnfeat/blog.io)
- 配套说用说明：[如何搭建一个独立博客:简明 GitHub Pages与 jekyll 教程](http://www.jianshu.com/p/05289a4bc8b2)
+* Fork from：[cnfeat/blog.io](https://github.com/cnfeat/blog.io)
+* 配套说用说明：[如何搭建一个独立博客:简明 GitHub Pages与 jekyll 教程](http://www.jianshu.com/p/05289a4bc8b2)
 
 ## 博客模板修订清单
 
@@ -15,5 +15,5 @@
 
 ## 模板作者
 
- 陈素封，博客：独立写生：[cnfeat.com](cnfeat.com)
- 联系方式：cnfeat@gmail.com
+* 陈素封，博客：独立写生：[cnfeat.com](cnfeat.com)
+* 联系方式：cnfeat@gmail.com
