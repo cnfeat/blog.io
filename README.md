@@ -1,6 +1,6 @@
 # 凸守的博客！
 Fork from：[cnfeat/blog.io](https://github.com/cnfeat/blog.io)
-配套说用说明：[如何搭建一个独立博客——简明 GitHub Pages与 jekyll 教程](http://www.jianshu.com/p/05289a4bc8b2)
+配套说用说明：[如何搭建一个独立博客:简明 GitHub Pages与 jekyll 教程](http://www.jianshu.com/p/05289a4bc8b2)
 
 ## 博客模板修订清单
 
