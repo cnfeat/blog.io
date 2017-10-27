@@ -5,7 +5,8 @@ description: "代表作"
 header-img: "img/zhihu.jpg"
 ---
 
-这个页面放置你的代表作。
+暂时没有的说。。。
+但是DEKOMORI会继续努力的！
 
 
 
