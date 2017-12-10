@@ -34,4 +34,18 @@ description: 高级搜索指令
 inanchor:指令返回的结果是导入链接锚文字中包含搜索词的页面。（百度不支持）<br>
 比如在谷歌搜索 “inanchor:点击这里”，返回结果页面本身并不一定包含 “点击这里” 这4个字，而是指向这些页面的链接锚文字中出现了“点击这里” 这4个字。<br>
 
-### 
+### intitle:
+语法与inurl中的一致，表示搜索标题中含有关键词的网页
+
+### intext:
+指返回的页面正文中包含关键词的页面。（百度不支持）
+
+### filetype:
+基本查询语法：[关键字1]+ [空格]+[filetype]+[:]+[文件类型标识]<br>
+例如： filetype:pdf C++
+
+### site:
+关键字 site:xxx.com
+
+### 未写入
+allintitle: allintext: allinurl: link: related: domain: 等
