@@ -49,3 +49,5 @@ inanchor:指令返回的结果是导入链接锚文字中包含搜索词的页�
 
 ### 未写入
 allintitle: allintext: allinurl: link: related: domain: 等
+
+	另有其他博客http://blog.jobbole.com/72211/
