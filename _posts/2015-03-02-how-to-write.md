@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java基本类型和引用类型
+title: aJava基本类型和引用类型
 date: 2015-3-02
 categories: blog
 tags: [基本类型、引用类型]
