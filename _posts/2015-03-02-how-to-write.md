@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
-date: 2015-3-02
+title: HeitaoQ的主页
+date: 2017-12-24
 categories: blog
 tags: [标签一,标签二]
 description: 文章金句。
