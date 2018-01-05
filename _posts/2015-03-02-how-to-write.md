@@ -1,6 +1,6 @@
 ---
 layout: post
-title:《欲乐园》-渡边淳一
+title: 《欲乐园》-渡边淳一
 date: 2017-12-14
 categories: blog
 tags: [标签一,标签二]
