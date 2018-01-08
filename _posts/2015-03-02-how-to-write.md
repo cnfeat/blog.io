@@ -7,7 +7,8 @@ tags: [标签一,标签二]
 description: 文章金句。
 ---
 渡边在1982年写下了云的阶梯，在他辞世的同年(2014)底这本书中文版出版了，更名为《欲乐园》
-https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=09c06ff272094b36cf9f13bfc2a517bc/d1160924ab18972bec6a91e7e2cd7b899e510a4e.jpg
+img/cat.jpeg
+
 也被翻拍成了日剧，就叫《云的阶梯》、韩剧《白云阶梯》。
 
 
