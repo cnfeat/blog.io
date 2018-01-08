@@ -13,8 +13,8 @@ owner:
   bio: "你的博客描述" # 填写作者信息：博客描述
 
 # Data
-gavatar: https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1790530814,1414590514&fm=27&gp=0.jpg # 浏览器地址栏小图标，可自定义更改
-favicon: https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1790530814,1414590514&fm=27&gp=0.jpg # 浏览器地址栏小图标，可自定义更改
+gavatar: "img/blue.jpg" # 浏览器地址栏小图标，可自定义更改
+favicon: "img/blue.jpg" # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  不玩豆瓣哈# 你的豆瓣id
 twitter_username: 还么有哈！
