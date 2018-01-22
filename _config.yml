@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            imSQL
 tagline:          'A Jekyll theme'
-description:      '对于个人来说最大的浪费就是时间和经验的浪费。我的时间和经验都沉淀在这里，也希望你可以从中找到一些有营养的东西'
+description:      '我的时间和经验都沉淀在这里，以此挽留我逝去的青春。也希望你可以从中找到一些有营养的东西'
 url:              https://imsql.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
