@@ -8,8 +8,8 @@ url: "http://cnfeat"  # 此处填写你的博客地址
 
 # About/contact
 owner: 
-  name: "作者名字" # 填写作者信息：名字
-  email: X@gmail.com # 填写作者信息：邮箱
+  name: "王大雷" # 填写作者信息：名字
+  email: 2140502113@cnu.edu.cn # 填写作者信息：邮箱
   bio: "你的博客描述" # 填写作者信息：博客描述
 
 # Data
@@ -18,9 +18,9 @@ favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
-github_username: 
+github_username: WangZhonglei
 facebook_username: 
-weibo_username: 
+QQ_username: 452893884
 zhihu_username: 
 
 # Build settings  
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "你的名字" # 你的名字
+      author: "王大雷" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
