@@ -5,5 +5,5 @@ sidebar_link: true
 ---
 
 <p class="message">	
-	关于我。
+	关于我
 </p>
