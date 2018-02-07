@@ -1,8 +1,8 @@
 # Site settings
-title: clwater # 你的博客名字，可以定义修订
+title: clwater
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "这是清水的博客"  # 一句话描述你的博客
+description: "清水的博客"  # 一句话描述你的博客
 baseurl: ""
 url: "http://clwater.me"  # 此处填写你的博客地址 
 
@@ -14,7 +14,7 @@ owner:
 
 # Data
 gavatar: img/myfavicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/myfavicon.png # 浏览器地址栏小图标，可自定义更改
+favicon: img/myfavicon.ico # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
