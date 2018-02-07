@@ -1,5 +1,5 @@
 # Site settings
-title: Clwater
+title: Clwater's blog
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "清水的博客"  # 一句话描述你的博客
@@ -8,7 +8,7 @@ url: "http://clwater.me"  # 此处填写你的博客地址
 
 # About/contact
 owner: 
-  name: "Clwater's blog" # 填写作者信息：名字
+  name: "Clwater" # 填写作者信息：名字
   email: clwater@foxmail.com # 填写作者信息：邮箱
   bio: "清水" # 填写作者信息：博客描述
 
