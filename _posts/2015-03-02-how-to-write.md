@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
+title: IDEA开发遇到的问题:Mybatis中Mapper.xml编译后不存在
 date: 2015-3-02
 categories: blog
-tags: [标签一,标签二]
-description: 文章金句。
+tags: [IDEA,Mybatis]
+description: 如何解决IDEA工具开发中Mybatis中Mapper.xml编译后不存在的问题
+date: 2017-5-08
 ---
-
-这里是博客正文。
+Test
 
 
 
