@@ -3,7 +3,7 @@ layout: post
 title: 你愿意“素味平生”吗？
 date: 2018-03-10
 categories: blog
-tags: [想法,博文]
+tags: [食品安全,博文]
 description: “食品安全与科学理性”课程第一次讨论课总结
 ---
 
