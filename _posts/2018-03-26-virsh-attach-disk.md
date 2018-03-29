@@ -36,7 +36,7 @@ virsh attach-device命令可以动态的添加和卸载设备，由于此命令�
 
 文件编辑完成后保存成一个xml文件，本文档中起名为disk01.xml。
 
-假设我们要把这个disk02.xml中指定的设备挂载到domain name为 centos7的虚拟机上则挂载命令为：
+假设我们要把这个disk01.xml中指定的设备挂载到domain name为 centos7的虚拟机上则挂载命令为：
 
 	# virsh attach-device centos7 ./disk01.xml
 	Device attached successfully
