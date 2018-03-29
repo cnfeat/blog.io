@@ -52,14 +52,19 @@ virsh attach-device命令可以动态的添加和卸载设备，由于此命令�
 
 卸载完成。	
 
-## 3. 静态添加
+### 5. 静态添加
 
 使用attach-disk命令添加完磁盘后操作系统不能使用，还要使用virsh destroy命令重新加载此虚拟机。命令格式如下
 
-	# virsh attach-disk --domain centos7 --source /data/storage/data01.qcow2 --target sdb --live --current --address scsi:1.0.0
+	# virsh attach-disk --domain centos7 --source /data/storage/data01.qcow2 --target sdb --live --current --address scsi:1.0.0 --persistent
 
 	# virsh destroy centos7
 
 	# virsh start centos7
 	
 
+### 6. 静态卸载
+
+通过使用detach-disk命令卸载磁盘，命令如下：
+
+	# virsh detach-disk --domain centos7 --target sdb --persistent
