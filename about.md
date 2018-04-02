@@ -4,9 +4,9 @@ title: 关于我
 sidebar_link: true
 ---
 
-<p class="message">
-姓名：田磊 <\br>
-微信/手机：18600598698	<\br>
+姓名：田磊 
+
+微信/手机：18600598698	
 
 职业：DBA打杂一枚
 
@@ -23,4 +23,3 @@ sidebar_link: true
 所以，决定2018年开始在github.com上沉淀一些自己想做的东西。
 
 好交朋友，欢迎加我微信。
-</p>
