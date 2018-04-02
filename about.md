@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: post
 title: 关于我
 sidebar_link: true
 ---
 
+偶
+-----
 姓名：田磊 
 
 微信/手机：18600598698	
