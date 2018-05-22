@@ -1,6 +1,6 @@
 # Site settings
 title:  时光随笔 # 你的博客名字，可以定义修订
-header-img: "img/background.jpg"
+header-img: "img/posts.jpg"
 tagline: "cn"  
 description: "Slove the problem when you face it"  # 一句话描述你的博客
 baseurl: ""
@@ -13,14 +13,14 @@ owner:
   bio: "仅凭爱好写博客的人  feat--琦玉老师" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/avator.jpg # 浏览器地址栏小图标，可自定义更改
-favicon: img/avator.jpg # 浏览器地址栏小图标，可自定义更改
+gavatar: "img/avator.ico" # 浏览器地址栏小图标，可自定义更改
+favicon: "img/avator.ico" # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
-github_username: TimeEternal
+github_username: "TimeEternal"
 facebook_username: 
-weibo_username: 时光静逸
+weibo_username: "时光静逸"
 zhihu_username: 
 
 # Build settings  
