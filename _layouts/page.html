@@ -11,6 +11,7 @@ layout: default
         background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')
     }
     #bluecolor { color : #0000FF; }
+    #blackcolor { color : #FFFFFF; }
 </style>
 
 <header class="intro-header">
@@ -20,7 +21,7 @@ layout: default
                 <div class="site-heading">
                     <h1 id="bluecolor">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
                     <hr class="small">
-                    <span class="subheading">{{ page.description }}</span>
+                    <span id="blackcolor" class="subheading">{{ page.description }}</span>
                 </div>
             </div>
         </div>
