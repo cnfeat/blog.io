@@ -1,0 +1,18 @@
+#test
+---
+layout: post
+title: MarkDown学习入门
+date: 2018-5-22
+categories: 入门
+tags: [MarkDown,入门,初学者]
+header-img: "img/posts.jpg"
+description: MarkDown入门。
+---
+
+所有内容均为测试MarkDown,内容来自于 https://blog.csdn.net/sun8112133/article/details/79871702,特此声明
+<h2 id="二基本用法-1"><em>二、基本用法</em></h2>
+1、单个回车，视为空格   
+2、连续回车，才能分段   
+3、行尾加两个空格，就可以段内换行  
+4、注释可使用HTML的注释   
+5、也可以使用HTML标签 

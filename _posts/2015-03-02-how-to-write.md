@@ -95,9 +95,9 @@ ___ 粗斜体 ___
 [1]: https://www.baidu.com/img/bd_logo1.png "百度一下，你就知道"
 </code></pre>
 <h4 id="6引用">6、引用</h4>
-<pre><code>&gt; 一级引用
-&gt;&gt; 二级引用
-&gt;&gt;&gt; 三级引用
+<pre><code>>; 一级引用
+>;>; 二级引用
+>;>;>; 三级引用
 </code></pre>
 
 <h5 id="1引用换行">　　1）引用换行：</h5>
@@ -170,9 +170,9 @@ public class Test {
 <h5 id="1渲染序列图">　　1）渲染序列图：</h5>
 
 <pre><code>```sequence
-小异常-&gt;大异常: 嘿，老大, 看完博客评论了没?
+小异常->;大异常: 嘿，老大, 看完博客评论了没?
 Note right of 大异常: 大异常愣了一下，说：
-大异常--&gt;小异常: 呀，差点忘了，马上评论
+大异常-->;小异常: 呀，差点忘了，马上评论
 ```
 </code></pre>
 
@@ -180,14 +180,14 @@ Note right of 大异常: 大异常愣了一下，说：
 <h5 id="2渲染流程图">　　2）渲染流程图：</h5>
 
 <pre><code>``` flow
-st=&gt;start: 开始
-e=&gt;end: 结束
-com=&gt;operation: 开始评论
-cond=&gt;condition: 确认评论？
+st=>;start: 开始
+e=>;end: 结束
+com=>;operation: 开始评论
+cond=>;condition: 确认评论？
 
-st-&gt;com-&gt;cond
-cond(yes)-&gt;e
-cond(no)-&gt;com
+st->;com->;cond
+cond(yes)->;e
+cond(no)->;com
 ```
 </code></pre>
 
