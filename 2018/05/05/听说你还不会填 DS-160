@@ -1,0 +1,1028 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next muse use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="留学,签证," />
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="签证指南">
+<meta name="keywords" content="留学,签证">
+<meta property="og:type" content="article">
+<meta property="og:title" content="听说你还不会填 DS-160?——最全 F-1 签证办理指南">
+<meta property="og:url" content="http://zdong1995.github.io/2018/05/05/听说你还不会填 DS-160">
+<meta property="og:site_name" content="Goodnight Moon">
+<meta property="og:description" content="签证指南">
+<meta property="og:locale" content="zh-Hans">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqyck53kszj31120rsx2i.jpg">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqycpm8fqcj31kw0yjalq.jpg">
+<meta property="og:image" content="https://ws2.sinaimg.cn/large/006tKfTcly1fqyd0du0w1j317a0uwq60.jpg">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqycxnk35yj317k0xy0vt.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqyd530b1fj31cy13cjyr.jpg">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqyejipd5nj30z60m2n7l.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqyen8uwdaj316416e4lp.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqyeo8yayuj316416iwxc.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fr7eleyrbgj316a15mne4.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqyewex1hjj313s10gdmu.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqyeug0lowj316a12y0ye.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqyf6d4zhzj316416eked.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqyerev5ewj31600m0494.jpg">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqyerrhnynj316e0ni42b.jpg">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqz1grqheaj31680x612n.jpg">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqz1h5i26dj31660uu7a7.jpg">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqz1ii5df0j31660rmn41.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqz1nm7ozzj31660z04mc.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqz1o3jrytj31660kqq6d.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqz1sclcvoj31640xojzu.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqz2081gfaj31660o0djt.jpg">
+<meta property="og:image" content="https://ws2.sinaimg.cn/large/006tKfTcly1fqz2g6xqjpj30vm0wyjws.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqz2g6ioj3j30vw11wq7l.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqz2i372m7j31kw0ouahn.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqz3grz1o4j315w0n8dlf.jpg">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqz3baoq4kj316412sx6m.jpg">
+<meta property="og:image" content="https://ws2.sinaimg.cn/large/006tKfTcly1fqz3cgfidcj31620viwjv.jpg">
+<meta property="og:image" content="https://ws2.sinaimg.cn/large/006tKfTcly1fqz3cro0z9j31600uy45x.jpg">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fr7emsimbmj31680p8gsm.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqz3lco3n6j315s0reafc.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqz3lqo3yij31680rejx2.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqz3mi07oyj31660tsgrp.jpg">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqz3tten9yj31660tyn2t.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqz3zr42vqj316i0rcq6u.jpg">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqz415r5vij316c0jidl3.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqz455z7lhj31660ta0z0.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqz4650v47j315m0nggqw.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqz46r1v64j316412wqbu.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqz5tan3uuj30vg0c00ur.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqz4catfcgj31120sjauo.jpg">
+<meta property="og:image" content="https://ws2.sinaimg.cn/large/006tKfTcly1fqz54p8k61j31fi0qo7f4.jpg">
+<meta property="og:image" content="https://ws2.sinaimg.cn/large/006tKfTcly1fqz57656fbj31kw0gf79c.jpg">
+<meta property="og:image" content="https://ws2.sinaimg.cn/large/006tKfTcly1fqz57lbjm1j31kw0p6k7k.jpg">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqz58d5067j30zy08y750.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqz58m1bzej31040kumz6.jpg">
+<meta property="og:image" content="https://ws2.sinaimg.cn/large/006tKfTcly1fqz592vppzj31cg0ceq52.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqz6ac7d2hj30zu0gmq6o.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqz59uvqh0j31b60ictap.jpg">
+<meta property="og:image" content="https://ws2.sinaimg.cn/large/006tKfTcly1fqz5aycdyrj31d20g2wgf.jpg">
+<meta property="og:image" content="https://ws2.sinaimg.cn/large/006tKfTcly1fqz5bh8pzsj31ik0k2mz9.jpg">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqz5cyk4uej31kw0pi451.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqzj8h8k4xj30z80hy0xm.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqz5hbgz6bj31eo0r6nau.jpg">
+<meta property="og:image" content="https://ws2.sinaimg.cn/large/006tKfTcly1fqz5epn5h6j316u0q6jvx.jpg">
+<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tKfTcly1fqzl7gp2aqj30z80jcdpp.jpg">
+<meta property="og:image" content="https://ws2.sinaimg.cn/large/006tKfTcly1fqzntc3jiij311m0z0b2a.jpg">
+<meta property="og:image" content="https://ws3.sinaimg.cn/large/006tKfTcly1fqznygzwooj31cm0vmn0j.jpg">
+<meta property="og:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqzoe01965j30n60hc7ad.jpg">
+<meta property="og:updated_time" content="2018-07-13T00:20:58.000Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="听说你还不会填 DS-160?——最全 F-1 签证办理指南">
+<meta name="twitter:description" content="签证指南">
+<meta name="twitter:image" content="https://ws1.sinaimg.cn/large/006tKfTcly1fqyck53kszj31120rsx2i.jpg">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Muse',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://zdong1995.github.io/2018/05/05/听说你还不会填 DS-160"/>
+
+
+
+
+
+  <title>听说你还不会填 DS-160?——最全 F-1 签证办理指南 | Goodnight Moon</title>
+  
+
+
+
+
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Goodnight Moon</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">For my sweetie Kitty</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />
+            
+            关于
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-schedule">
+          <a href="/schedule/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-calendar"></i> <br />
+            
+            日程表
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://zdong1995.github.io/2018/05/05/听说你还不会填 DS-160?——最全 F-1 签证办理指南/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="董小染">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="https://ws3.sinaimg.cn/large/006tNc79ly1fta6j9pgr1j30hs0hsq62.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Goodnight Moon">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">听说你还不会填 DS-160?——最全 F-1 签证办理指南</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-05-05T00:00:00+08:00">
+                2018-05-05
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/blog/" itemprop="url" rel="index">
+                    <span itemprop="name">blog</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2018/05/05/听说你还不会填 DS-160?——最全 F-1 签证办理指南/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2018/05/05/听说你还不会填 DS-160?——最全 F-1 签证办理指南/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+              <div class="post-description">
+                  签证指南
+              </div>
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <blockquote>
+<p>❗️本指南包含大量截图，请在 WIFI下 浏览！填写表格过程中可以将本教程放在一旁对照填写。</p>
+</blockquote>
+<p>实在抱歉最近太拖延了，欠了大家很久的稿子了。拿到offer后很多小伙伴找我请教签证的问题，我也分享了不少以前收集的教程，但是发现以前的教程很多不够具体详细，或者只有文字没有图片不够直观。因此自己在这里想写一个全面的教程，尽量涵盖目前我所接触过的问题和经验。如有不足之处还请大家包涵指出。以上。  </p>
+<h3 id="一、签证流程"><a href="#一、签证流程" class="headerlink" title="一、签证流程"></a>一、签证流程</h3><h4 id="1-概述"><a href="#1-概述" class="headerlink" title="1. 概述"></a>1. 概述</h4><p>赴美留学必须首先被美国的学校或项目录取，然后才能申请学生签证。一旦录取，美国教育机构就会为每位申请人提供申请学生签证所需的批准文件。 F-1 签证是最常见的学生签证类型，一般来说，在获得美国政府承认的学校(包括获得认证的美国大学或 学院、私立中学或获得批准的英语学习项目等等)就读，每周学习课程超过 18 小时，都需要申请 F-1 签证。</p>
+<h4 id="2-签证办理过程"><a href="#2-签证办理过程" class="headerlink" title="2. 签证办理过程"></a>2. 签证办理过程</h4><p>收到录取后美国学校会用纸质邮件将 I-20 文件寄送过来，这个文件包含你的 SEVIS 号和学校信息，School Official Contact，是办理签证不可或缺的重要文件❗️收到 I-20 后先检查是否有学院负责人员的 signature，如果没有请立刻联系学院让小秘重新给你发一封 I-20。对，就是下图这个文件，我标出了整个申请过程中需要用到的信息。<br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fqyck53kszj31120rsx2i.jpg" alt="F1签证-I20表格" title="F1签证-I20表格"><br>确认文件无误后开始签证的办理，主要包含以下几部分：</p>
+<ul>
+<li>缴纳 SEVIS Fee</li>
+<li>填写 DS-160 表格</li>
+<li>预约签证<ul>
+<li>填写美国大使馆签证预约表</li>
+<li>缴纳签证费</li>
+<li>预约面签时间</li>
+</ul>
+</li>
+<li>面签  </li>
+</ul>
+<h4 id="3-注意事项"><a href="#3-注意事项" class="headerlink" title="3.注意事项"></a>3.注意事项</h4><p>⭐️ 如果着急的话，在 I-20 还没有收到的时候可以发邮件问对方小秘询问 SEVIS 号去缴纳 SEIVS Fee 及完成后续流程，但是由于邮寄过来的 I-20 出问题的话会影响整个流程，因此并不建议这样操作。Just quote this for emergent.<br>⭐️ 大使馆网站说明签证预约时间不得早于I-20文件中开学时间Start Date前120天，但是实际上并不会卡那么严，我和很多人都在开学时间前140天申请了签证。Never mind.</p>
+<h2 id="二、缴纳-SEVIS-费"><a href="#二、缴纳-SEVIS-费" class="headerlink" title="二、缴纳 SEVIS 费"></a>二、缴纳 SEVIS 费</h2><h4 id="1-什么是-SEVIS-费？"><a href="#1-什么是-SEVIS-费？" class="headerlink" title="1. 什么是 SEVIS 费？"></a>1. 什么是 SEVIS 费？</h4><p>SEVIS全称 Student and Exchange Visitor Information System (学生和交流学者信息系统)，是一个存储现在美国的国际学生和交流学者信息的网络数据库。根据美国公共法案的第 641 章，D部分的 104-208 条法令，拟申请 F-1，F-3，J-1，M-1 或者 M-3 非移民签证的每一位外国人均需缴纳200美元的 SEVIS 费用，用于数据库的日常维护。申请 J-1 签证的交流学者，如果学术项目是由联邦政府资助的，毋须缴纳此项费用。已缴纳此项费用的申请人，签证被拒，如果在 12 个月内再次申请，毋须再次缴纳此项费用。</p>
+<h4 id="2-如何缴费？"><a href="#2-如何缴费？" class="headerlink" title="2. 如何缴费？"></a>2. 如何缴费？</h4><p>SEVIS 费金额为 200 $，只能用美元支付。付费方式可选择邮递或在线支付。该费用最迟要在签证前三天提交。目前基本都选择在线支付。<br>访问<a href="https://fmjfee.com/i901fee/index.html" target="_blank" rel="noopener">I-901 Fee Website</a> ，该网站只支持 Visa, Mastercard, American Express 这三家签发的信用卡。<br>访问页面后点击 <code>Pay I-901</code> ，如下图所示。<br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fqycpm8fqcj31kw0yjalq.jpg" alt="I901表格" title="I901表格"><br>输入姓名，SEVIS号，生日后点击 <code>SUBMIT</code> ，填写 I-901 Form信息。Form Type 选择 I-20，Address Information 填写国内住址，这个地址信息原本是用来寄送 I-901 Form 的 receipt，但是现在也不再寄送纸质收据了，填写家庭住址即可。<br><img src="https://ws2.sinaimg.cn/large/006tKfTcly1fqyd0du0w1j317a0uwq60.jpg" alt="I901Form\_1" title="I901Form_1"><br>School Code填写 I-20 上的信息，点击 <code>Continue</code> 。<br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fqycxnk35yj317k0xy0vt.jpg" alt="I901Form\_2" title="I901Form_2"><br>选择信用卡类型，填写持有人姓名、地址、邮编等信息后，提交付款。<br>最后出现S tudent and Exchange Visitor Program: SEVIS I-901 Fee  Confirmation 网页，将交费收据直接保存为 PDF 或 IMAGE 文件，需要时可以多次打印。<strong>面签时 I-901 Fee 只需要电子付款凭证打印即可</strong>。<br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqyd530b1fj31cy13cjyr.jpg" alt="I901 Receipt" title="I901 Receipt"></p>
+<h2 id="三、DS-160-表格填写"><a href="#三、DS-160-表格填写" class="headerlink" title="三、DS-160 表格填写"></a>三、DS-160 表格填写</h2><h4 id="1-什么是-DS-160-表格？"><a href="#1-什么是-DS-160-表格？" class="headerlink" title="1. 什么是 DS-160 表格？"></a>1. 什么是 DS-160 表格？</h4><p>DS-160表格是美国非移民签证电子申请表，为了节约签证申请人以及签证处职员的时间，每位申请人都必须在网上填写提交自己的 DS-160 签证申请表。预约面谈时需要 DS-160 表确认页上的条形码编号，因此<strong>在去使领馆面谈前必须提交并打印好确认信</strong>。大如果没有 DS-160 表的确认页，您将无法参加面谈。<br>不得不说这是签证申请过程最烦人的一部分，下面我带着大家从头填一遍 DS-160 表格。</p>
+<h4 id="2-新建-DS-160-表格及注意事项"><a href="#2-新建-DS-160-表格及注意事项" class="headerlink" title="2.新建 DS-160 表格及注意事项"></a>2.新建 DS-160 表格及注意事项</h4><p>访问<a href="https://ceac.state.gov/genniv/" target="_blank" rel="noopener"> DS-160 网上申请官网 </a>，填写 DS-160 边个需要上传一张最近六个月内的照片，大使馆的照片要求见下图：<br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fqyejipd5nj30z60m2n7l.jpg" alt="签证照片要求" title="签证照片要求"><br>进入 DS-160 电子申请表网站，在右上角选择语言为简体中文便于填写，在 Select a location 一项选择要去面签的使馆，如: CHINA, BEIJING，接着点击 Start an application 开始申请。<br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqyen8uwdaj316416e4lp.jpg" alt=""><br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqyeo8yayuj316416iwxc.jpg" alt=""><br>❗️ 在填写申请表的过程中，如果未操作时长超过 20 分钟，申请流程将被终止。除非已记录申请号或已将申请存入电脑文件，否则必须重新开始。<strong>请务必记下页面右上角显示的  AA 开头申请编号。</strong> 设置好 Security Question，<strong>记住问题答案</strong>，后续调出申请时会用到！下面填写基本信息。<br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fr7eleyrbgj316a15mne4.jpg" alt=""><br>注意这里的 telecode 填写。telecode 是每一个汉字所对应的电码，可以在 <a href="https://apps.chasedream.com/chinese-commercial-code/" target="_blank" rel="noopener">标准中文电码(Chinese Commercial Code)查询</a> 网站查询 ，见下图。<br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqyewex1hjj313s10gdmu.jpg" alt=""><br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqyeug0lowj316a12y0ye.jpg" alt=""><br>填写完毕后点击 <code>Save</code> ，完成 DS-160 申请表格的建立。下面讲一下如何调出申请。当在页面停留时间过长无操作时间太久，会自动 Session Out 关闭申请页面，此时如果已经保存了姓名页的基本信息，就可以用 DS-160 申请 ID 和姓名信息调出申请。进入申请页面，点击 Retrieve an application，输入 DS-160 申请 ID, Security Questions 和姓名，出生年份即可调出申请。<br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqyf6d4zhzj316416eked.jpg" alt=""><br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqyerev5ewj31600m0494.jpg" alt=""><br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fqyerrhnynj316e0ni42b.jpg" alt=""><br>❗️ 需要注意的点：</p>
+<ul>
+<li>建议填写时使用 Chrome 浏览器，经常点击 <code>Save</code> 保存不容易无缘无故 Session Out 造成时间浪费。而且这个系统有个很 bug 的地方在于，如果你没能成功保存 Personal Information 姓名那一页，就无法调出申请，只能重新新建申请。我当时由于网络太差，新建了 5 份申请才保存成功。</li>
+<li>关于 DS-160 表格提交后发现有错误能否修改的问题，建议不是太大的问题就不用修改，如果要修改的话重开一份申请重新填写即可。同一个 SEVIS 号可以建立多个 DS-160 申请表格不受影响。<h4 id="3-DS-160-表格的填写"><a href="#3-DS-160-表格的填写" class="headerlink" title="3. DS-160 表格的填写"></a>3. DS-160 表格的填写</h4>下面开始 DS-160 表格的填写，为了方便阅读我按照填写过程的全部流程进行了截图批注，下面我们开始吧。<br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fqz1grqheaj31680x612n.jpg" alt=""><br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fqz1h5i26dj31660uu7a7.jpg" alt=""><br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fqz1ii5df0j31660rmn41.jpg" alt=""><br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqz1nm7ozzj31660z04mc.jpg" alt=""><br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqz1o3jrytj31660kqq6d.jpg" alt=""><br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqz1sclcvoj31640xojzu.jpg" alt=""><br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqz2081gfaj31660o0djt.jpg" alt=""><br>关于 Person/Entity Paying for Your Trip 的问题，国内留学论坛里和 Quora, Gradcafe 上有很多讨论贴，我也都详细进行了阅读。有兴趣可以去<a href="https://www.immihelp.com/visas/ds-160-form/travel-information.html" target="_blank" rel="noopener">immhelp website</a> 网站阅读官方说明：<br><img src="https://ws2.sinaimg.cn/large/006tKfTcly1fqz2g6xqjpj30vm0wyjws.jpg" alt=""><br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqz2g6ioj3j30vw11wq7l.jpg" alt=""><br>下面来列出几种填法，大家灵活选择：</li>
+<li>F-1 全奖<ul>
+<li>填 Self，省事。不需要填任何其他信息。第一，奖学金也是你自己工作所得的，完全可以填自己。第二，买机票的时候你的奖学金并没有下发到你手里，实际上还是自费。</li>
+<li>填 Company/Organization ➡️ Relation选other ➡️ 选择地址与邮寄地址不一样 ➡️ 填学校的地址。</li>
+</ul>
+</li>
+<li>F-1 自费<ul>
+<li>填 Self，省事。面签时你的财产证明最好是你自己名下的存款。</li>
+<li>填 Other Person ➡️ Relation选Parents ➡️ 选择地址与邮寄地址相同 ➡️ 填家庭住址。。面签时你父母对你学费和生活费的支持证明当然可以 cover 你的 travel fee。</li>
+</ul>
+</li>
+</ul>
+<p>PS：下面列出一个 Gradcafe 上 Former VO 对于这个问题的回答。这种小 case 不会影响你签证的通过与否，不需过多担心。下面我们继续填写。<br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqz2i372m7j31kw0ouahn.jpg" alt=""><br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqz3grz1o4j315w0n8dlf.jpg" alt=""><br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fqz3baoq4kj316412sx6m.jpg" alt=""><br><img src="https://ws2.sinaimg.cn/large/006tKfTcly1fqz3cgfidcj31620viwjv.jpg" alt=""><br><img src="https://ws2.sinaimg.cn/large/006tKfTcly1fqz3cro0z9j31600uy45x.jpg" alt=""><br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fr7emsimbmj31680p8gsm.jpg" alt=""><br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqz3lco3n6j315s0reafc.jpg" alt=""><br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqz3lqo3yij31680rejx2.jpg" alt=""><br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqz3mi07oyj31660tsgrp.jpg" alt=""><br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fqz3tten9yj31660tyn2t.jpg" alt=""><br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqz3zr42vqj316i0rcq6u.jpg" alt=""><br>PS：关于 Gap 党的问题，这个 Present  Work/ Education/ Training Information，写 Student 或者 Unemployed，下面的 Description 就写 Unemployment 即可，包括毕业后一直没工作待业和有了正式的工作（签过合同）然后辞职的情况。写 Unemployment 的话后续填写会出现2种情况：</p>
+<ul>
+<li>女生，会直接跳过教育经历，直接问你曾经在哪里工作。这样刚毕业的女生就没法写了曾经在哪所大学研究院之类的了，不能填写教育经历就写在简历里面即可。</li>
+<li>男生，会问你教育经历和工作经历。两个都需要填写。  </li>
+</ul>
+<p>到这里我们的 DS-160 也就到了最后的收尾阶段。<br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fqz415r5vij316c0jidl3.jpg" alt=""><br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqz455z7lhj31660ta0z0.jpg" alt=""><br>❗️ 从此处之后所有的问题全部选择 No，到下一步 Upload 签证照片，最后 Review 一遍，检查有没有问题，最后 Sign and Submit DS-160 申请表。<br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqz4650v47j315m0nggqw.jpg" alt=""><br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqz46r1v64j316412wqbu.jpg" alt=""><br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqz5tan3uuj30vg0c00ur.jpg" alt=""><br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqz4catfcgj31120sjauo.jpg" alt=""><br>点击 <code>Print Confirmaiton</code> 保存成 PDF 进行打印，到这一步申请最麻烦的一部分就填写完毕了。整个过程内容比较繁琐，填写过程中及时点 <code>Save</code> 进行保存。<br>❗️ 注意是 Confirmation 不是 Application，面签不需要携带打印出来的 Application 表格，只需要预约确认页。</p>
+<h2 id="四、预约签证"><a href="#四、预约签证" class="headerlink" title="四、预约签证"></a>四、预约签证</h2><h4 id="1-填写美国大使馆签证预约表"><a href="#1-填写美国大使馆签证预约表" class="headerlink" title="1. 填写美国大使馆签证预约表"></a>1. 填写美国大使馆签证预约表</h4><p>访问 <a href="https://cgifederal.secure.force.com/?language=Chinese%20(Simplified" target="_blank" rel="noopener">美国签证申请官网</a>&amp;country=China) ，如果是新用户，先新建账户，进入预约网站后选择 <code>新的签证申请</code>，按下图进行填写。<br><img src="https://ws2.sinaimg.cn/large/006tKfTcly1fqz54p8k61j31fi0qo7f4.jpg" alt=""><br><img src="https://ws2.sinaimg.cn/large/006tKfTcly1fqz57656fbj31kw0gf79c.jpg" alt=""><br><img src="https://ws2.sinaimg.cn/large/006tKfTcly1fqz57lbjm1j31kw0p6k7k.jpg" alt=""><br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fqz58d5067j30zy08y750.jpg" alt=""><br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqz58m1bzej31040kumz6.jpg" alt=""><br>填写个人护照，电话，联系方式等信息，SEVIS 号和学校地址，邮编按照 I-20 表格填写。签证领取方式可选择中信取件或邮寄到家（邮费自付），全部填写完毕后进行后续缴费。</p>
+<h4 id="2-缴纳签证费"><a href="#2-缴纳签证费" class="headerlink" title="2. 缴纳签证费"></a>2. 缴纳签证费</h4><p>上一步填写完后会跳出付款选项，选择借记卡或中信银行卡均可付款。该系统只能使用由中国本地的银行发行的借记卡在网上支付签证费，不支持信用卡或在中国境外发行的借记卡。由于更多的是非中信银行卡付款的情况，下文付款流程按非中信银行储蓄卡网上付款进行。请注意，银联借记卡持有人将支付 0.3% 的服务费，也就是 3 元左右。这笔费用是银联征收，而不是 CGI Stanley 征收。<br><img src="https://ws2.sinaimg.cn/large/006tKfTcly1fqz592vppzj31cg0ceq52.jpg" alt=""><br>图中 CGI 号无论你去中信银行柜台付款或者网上付款都需要提供，请妥善保管。选择 <code>点击此处使用借记卡在网上支付</code>，跳转至中信银行付款页面。<br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqz6ac7d2hj30zu0gmq6o.jpg" alt=""><br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqz59uvqh0j31b60ictap.jpg" alt=""><br>点击 <code>在线缴费</code>，注册中信通行证账号。<br>❗️ 此处不能偷懒使用微信第三方登录，微信登录不支持签证费付款，还得重新注册。<br><img src="https://ws2.sinaimg.cn/large/006tKfTcly1fqz5aycdyrj31d20g2wgf.jpg" alt=""><br>注册完成后输入 CGI 号码和个人信息，在付款方式里选择 <code>银联付款</code>，跳转到银联商户界面，下载银联安全控件付款即可。<br>❗️ 不需要选择第一项去账户设置里绑定储蓄卡。<br><img src="https://ws2.sinaimg.cn/large/006tKfTcly1fqz5bh8pzsj31ik0k2mz9.jpg" alt=""><br>⭐️ 如果付款失败，在中信银行 <code>产品与交易</code> 侧边栏中选择 <code>签证缴费记录</code>，找到未完成的交易点击 <code>缴费</code>即可。<br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fqz5cyk4uej31kw0pi451.jpg" alt=""><br>缴费完毕后收据编号会自动出现在方框里，点击下一步继续进行预约面谈即可。<br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqzj8h8k4xj30z80hy0xm.jpg" alt=""></p>
+<h4 id="3-预约面签时间"><a href="#3-预约面签时间" class="headerlink" title="3. 预约面签时间"></a>3. 预约面签时间</h4><p>进入面签时间选择界面，选择预约时间确认预约即可。<br><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqz5hbgz6bj31eo0r6nau.jpg" alt=""><br>预约完毕后记得打印预约确认页，没有预约确认页无法进入使馆面签。缴费收据不需要带，因为如果没有先缴费，根本无法预约签证。<br><img src="https://ws2.sinaimg.cn/large/006tKfTcly1fqz5epn5h6j316u0q6jvx.jpg" alt=""><br>❗️ 注意事项：</p>
+<ul>
+<li>签证的预约时间可以更改，在首页点击 <code>取消预约</code>，再点击 <code>重新预约</code> 确定新的时间，可以多次更改来刷空位。注意<strong>距离预约的时间至少两至三个工作日才可以取消</strong>，且一共最多可以更改时间 <strong>4 次</strong>，超过次数签证费作废，要重新交钱。</li>
+<li>签证时间个人和周围小伙伴经验，上午 10 点以后和下午 3 点以后都比较好过，可能是签证官到后面会比较累了，不会查特别严。</li>
+<li>DS-160 表格提交后的确认编号需要在预约签证时填写，如果已经预约了签证发现 DS-160 表格有错误，不要慌张，先点击 <code>取消预约</code>，重新填一份 DS-160 表格，重新开始一份面签预约，仍然使用原来的签证费收据编号进行再次预约即可，不用重新交费。<h2 id="五、面签"><a href="#五、面签" class="headerlink" title="五、面签"></a>五、面签</h2><h4 id="1-签证材料-Checklist"><a href="#1-签证材料-Checklist" class="headerlink" title="1. 签证材料 Checklist"></a>1. 签证材料 Checklist</h4>关于面签的签证所需材料，美国大使馆在官网<a href="#" title="学生签证申请">学生签证</a>有说明，主要包含一些必须文件和支持性材料，可以参考官方列出的 <a href="http://www.ustraveldocs.com/cn_zh/cn-niv-typefandm.asp" target="_blank" rel="noopener">支持性材料说明</a>。<blockquote>
+<p>支持性文件仅是签证官在面谈时需要考虑的众多因素之一。签证官将综合职业、社会、文化和其他因素，根据每位申请人的具体情况进行相应的分析和判断。签证官需要权衡申请人的赴美意图、家庭背景、在原居住国的长期规划等各方面信息。每一个签证申请都将视为独立个案处理，并依据法律给予充分的考虑。</p>
+</blockquote>
+</li>
+</ul>
+<p><img src="https://ws4.sinaimg.cn/large/006tKfTcly1fqzl7gp2aqj30z80jcdpp.jpg" alt="支持性材料" title="支持性材料"><br>下面列出个人整理准备的 Checklist，材料的准备遵循一个原则：不是所有的材料 VO 都会看，但是如果审阅没有材料就会很难办（还挺押韵）。支持性材料的准备因人而已，这里只是提供一个参考。</p>
+<ul>
+<li>必备材料<ul>
+<li>有效护照</li>
+<li>面签预约确认页：进入大使馆时排队需要看预约时间</li>
+<li>DS-160 确认页：进入大使馆后给护照贴扫描码需要看 DS-160 条形码信息</li>
+<li>SEVIS I-901 收据</li>
+<li>两张签证近照</li>
+<li>I-20 表格原件：<strong>记得在下方签字署名</strong>❗️ </li>
+</ul>
+</li>
+<li>学习能力证明材料<ul>
+<li>学校成绩单：使用申请时的成绩单原件即可，有学校信封密封或没有密封均可。</li>
+<li>标准化考试成绩单：TOEFL 有纸质成绩单就使用纸质版，没有就和 GRE 一起打印 Score Report 网页。</li>
+<li>在读证明：针对在读学生。毕业的带毕业证和学位证明。</li>
+<li>Resume：可参考使馆提供 <a href="http://photos.state.gov/libraries/china/196482/PDF%20File/Resume%20Sample_English.pdf" title="Resume模板" target="_blank" rel="noopener">Resume模板 </a></li>
+<li>Study Plan：赴美研究/学习计划及相关的详细信息，可参考使馆提供样本<a href="http://photos.state.gov/libraries/china/240500/pdf/Study%20Plan.doc" title="Study Plan模板" target="_blank" rel="noopener">Study Plan 模板</a>。</li>
+<li>导师简历：导师的个人简介或打印网页（针对所在美国教育机构已为其指定导师的研究生)，此项一般针对博士生。 如果没有定导师可以准备感兴趣的导师的简历。</li>
+</ul>
+</li>
+<li>经济能力证明材料（针对自费留学生）<br>  ❗️ 对于全奖博士生，如果 I-20 上学校给的 stipend 不够 cover 学校给出的预计开销，仍然需要补一个差额的存款证明。<ul>
+<li>银行存款证明：数目根据 I-20 表格上的 Estimated Average Costs 来确定，总额必须满足你在那里学习及生活费用。<ul>
+<li>如果银行存款证明开到<strong>自己持卡账户名下</strong>，不需要提供关系证明。</li>
+<li>如果是<strong>父母账户名下的存款证明</strong>，需要提供 Sponsorship Form 和关系证明。</li>
+<li>可以直接使用接 offer 后 request I-20 表格时使用的存款证明，签证结束后即可解冻存款。</li>
+</ul>
+</li>
+<li>资助信：格式可以参考学校 I-20 Request 所提供的Template。</li>
+<li>户口本：亲属关系证明。</li>
+<li>父母工作和收入证明：备用。  </li>
+</ul>
+</li>
+</ul>
+<p>❗️ 一点补充说明：</p>
+<ul>
+<li>关于简历，不建议使用申请时使用的简历，信息太密集且篇幅过长。签证的简历建议不要超过 1 页，由于签证官拿到简历是为了了解你的经历做出判断，尽量使得内容更加简洁明了，通俗易懂，减少过多的专业词汇带来的冗余感，从而降低被 check 的概率。<ul>
+<li>笔者在简历中删除了本科期间的研究经历和发表论文，只写了获奖经历及 Travel History，保留并简化了 J-1 签证暑研的科研经历，因为护照上会有签证，所以该段经历必然会问，我也进行了充足的准备。最终没有看简历，没有 check，获得五年签证。可以作为参考。</li>
+<li>但是简历也不能过于避重就轻，如果 VO 觉得你是故意使用虚假事实进行误导干扰他的决定，有权利拒签。笔者的朋友今天面签的简历删除了所有的研究经历，在问及美国暑研时回答没有做科研，被 check 了。希望大家不要大意，灵活把握好度。</li>
+</ul>
+</li>
+<li>关于 Study Plan，可以参照录取学校学院的 Graduate Handbook 来写，不需要太多内容，表明学成归国的立场，减少移民的嫌疑。<ul>
+<li>笔者在学习计划中仅列出了一些课程，并表明 career plan 是毕业后回国找 faculty，没有在 Study Plan 中列出 Advisor。准备了导师 CV 但是并没有拿出来，本来打算声称还没有决定好导师，但是最后也没有问，没有看材料就过了签证，给大家作为参考。</li>
+<li>笔者也有朋友在 Study Plan 中列了 Advisor 或者 Potential Advisor，签证官也检查了导师的 CV，最终还是成功过签。所以并不绝对，签证更多是一个玄学问题。抱着最差被 check 的心，尽量做好充足的准备，Good luck ！</li>
+<li>今天有一个 Master 小伙伴被 check 了，因为没有导师 CV 和学习计划，所以这个不仅是博士生专属的。注意一下。  </li>
+</ul>
+</li>
+</ul>
+<h4 id="2-面签地点"><a href="#2-面签地点" class="headerlink" title="2. 面签地点"></a>2. 面签地点</h4><p>美国驻华大使馆在国内一共有 5 个分点如下。</p>
+<ul>
+<li><a href="https://china.usembassy-china.org.cn/zh/%20" title="美国驻华大使馆(北京)" target="_blank" rel="noopener">美国驻华大使馆(北京)</a> ：北京签证面谈有两个地点进行，请查看预约信，确定您的面谈地点。❗️ 日坛分部只进行 J 签证和 F 签证的面签，目前还没有开放，在高峰期的 6 月左右会开放预约。 <ul>
+<li>新馆地址: 北京安家楼路55号，邮编:100600</li>
+<li>日坛分部: 北京建国门外秀水东街2号，邮编:100600 </li>
+</ul>
+</li>
+<li><a href="https://china.usembassy-china.org.cn/zh/embassy-consulates-zh/chengdu-zh/" title="美国驻华总领事馆(成都)" target="_blank" rel="noopener">美国驻华总领事馆(成都)</a><ul>
+<li>地址：四川成都领事馆路4号，邮编:610041 </li>
+</ul>
+</li>
+<li><a href="https://china.usembassy-china.org.cn/zh/embassy-consulates-zh/guanghzou-zh/" title="美国驻华总领事馆(广州)" target="_blank" rel="noopener">美国驻华总领事馆(广州)</a><ul>
+<li>地址：广州市天河区珠江新城华夏路,（靠近地铁3号线或5号线珠江新城站B1出口)。所有预约面谈的签证申请人请前往华夏路的领事部客人出入口。</li>
+</ul>
+</li>
+<li><a href="https://china.usembassy-china.org.cn/zh/embassy-consulates-zh/shanghai-zh/" title="美国驻华总领事馆(上海)" target="_blank" rel="noopener">美国驻华总领事馆(上海)</a><ul>
+<li>地址：上海南京西路1038号梅龙镇广场8楼，邮编:200041 </li>
+</ul>
+</li>
+<li><a href="https://china.usembassy-china.org.cn/zh/embassy-consulates-zh/shenyang-zh/" title="美国驻华总领事馆(沈阳)" target="_blank" rel="noopener">美国驻华总领事馆(沈阳)</a><ul>
+<li>地址：沈阳和平区十四纬路52号，邮编:110003   </li>
+</ul>
+</li>
+</ul>
+<h4 id="3-面签流程"><a href="#3-面签流程" class="headerlink" title="3. 面签流程"></a>3. 面签流程</h4><p>面签当天请带好所有相关材料，整理好放置于透明文件袋内，至少提前 30 min 到大使馆排队，其他东西及电子设备请找地方存放。❗️ <strong>迟到半小时以上的申请人当天失去面签资格，需 24 小时后重新预约</strong>(无需再缴费)。<br>进入使馆需提供 DS-160 确认页及面签预约页，核对个人信息后便可以进入使馆。在进行安检前会有工作人员查看 DS-160 表格在护照上贴条形码，这个条形码会伴随你后续的面签过程。<br>进入体检区体检，注意皮带是要脱下来的，所以<strong>尽量不要穿带皮带的裤子</strong>，很麻烦。之后排队采集双手十指指纹，美国工作人员会先扫描护照上刚贴上的条形码，再用普通话告诉你用哪个手按指印。“大拇指”的发音真的很萌。之后后排队等候面签。<br>面签时长一般 2-5 分钟左右。对于 F-1 和 J-1签证，签证官都会用英文和你进行交流。会根据材料询问申请者相应的问题，一般问题都比较简单，保持自信从容，礼貌得体，VO 需要什么文件就提供什么文件，放轻松。常见问题总结如下：</p>
+<ul>
+<li>去哪个学校读书？</li>
+<li>学习什么专业？</li>
+<li>为什么要去美国？</li>
+<li>去过美国吗？</li>
+<li>谁资助你去？</li>
+<li>为什么选择这个学校？</li>
+<li>你的本科/硕士学历什么时候获得的？</li>
+<li>你的学习计划？</li>
+<li>你以后会回国吗？</li>
+<li>你有选择导师吗？</li>
+<li>你未来毕业后的打算？  </li>
+</ul>
+<p>一般都是些常规性的问题。下面列几个不同大使馆的面经。   </p>
+<h5 id="笔者的北京面经"><a href="#笔者的北京面经" class="headerlink" title="笔者的北京面经"></a>笔者的北京面经</h5><blockquote>
+<ul>
+<li>笔者是 4 月下旬预约的下午 3:15 面签。快 3 点到达安家楼，去大使馆对面的存物处存了包，20 块钱。❗️ <strong>注意不要在对面人行道上的存物柜存物</strong>，很容易丢，那天看到一个大姐报警也没有找回来。</li>
+<li>排队分三列，15 分钟一条队。如果迟到了和前面的人解释下插个队。排队口会检查签证预约单和护照看你的预约时间。进入大使馆门后会有工作人员查看预约单和 DS-160 确认页，给你护照贴条码，至此，这俩文件可以收起来了。</li>
+<li>体检，排队进入大厅。录入信息后，排队录指纹。然后排队等面签。我最后在二楼排，前面人很多，然后我们最后两列被带到了二楼的一个小房间，面签窗口是 31-40 号，最后面签是 37 号的白人小哥，人很萌很 nice。据另一位直接过没有被 check 的小伙伴说， 35 的白人美女也很nice。40 号感觉脾气不好，有个小姐姐F签被问了 10 分钟。。心疼一秒。。。</li>
+<li>因为比较迟，只看了 I-20 和护照，我上次 J-1签 直接过也是早上 10:15，到我时已经快 12 点，就看了 DS-2019，没问啥就水过。所以可能迟一点会查的松一点。</li>
+<li>面签问题如下：</li>
+<li>礼貌问候后，问我去哪个学校，然后看我护照说你以前 J 签去干嘛，我知道他肯定问所以准备过了，就说自己做 Intern 帮助老师做点实验再没啥了。</li>
+<li>问我为啥去佛大读书，我就说 High academic performance，以及有很多感兴趣老师。</li>
+<li>然后问我为啥不选择 J 签去的学校去佛大，我说佛州漂亮啊，旅游好，然后开始讲迪士尼乐园和迈阿密，他眼睛一亮，说对，鳄鱼很好玩。我说对，Go Gators！</li>
+<li>然后他问我有没有 master 学位，我说没有，只有本科，他说 cool 。</li>
+<li>问我啥时候毕业，我说去年已经毕业了，结果他也没问我这一年干了，虽然我准备了。最后恭喜我，回应 Have a good day</li>
+</ul>
+</blockquote>
+<h5 id="G-同学的上海面经"><a href="#G-同学的上海面经" class="headerlink" title="G 同学的上海面经"></a>G 同学的上海面经</h5><blockquote>
+<ul>
+<li>大使馆位置在奉贤路江宁路交叉口东南角，来了就能看到很多人。要先存包，把电子产品什么的都存起来，存包的地方在路口的西北角人很多也是能看到。</li>
+<li>问一下保安，要先去拿一个过塑了的很破的一个 b5 大小的牌子。之后小哥哥会带着你们进电梯到办公大厅。办公大厅过个安检然后录指纹，排队。</li>
+<li>问的问题就是去哪儿，啥专业，哪的人，为啥在上海，几号走，酷酷酷，帅帅帅，good luck。</li>
+<li>只要了I-20，简历啥的都没要，我是 18 号口，这个 VO 小哥哥人非常好。</li>
+<li>有其他小伙伴说 15 号口的大姐姐也很 nice，可以留意下。</li>
+</ul>
+</blockquote>
+<h5 id="W-同学的广州面经"><a href="#W-同学的广州面经" class="headerlink" title="W 同学的广州面经"></a>W 同学的广州面经</h5><blockquote>
+<ul>
+<li>1.位置在珠江新城出口 b1 一出就可以看到，如果带了包或者手机，门口有阿姨存包，30 块。</li>
+<li>进去之后就开始排队，不要来得太早或太晚。一般 30 min 以内最佳，直接排队。</li>
+<li>拿着 DS-160 和预约签证的单子一直走走走，走过安检，再走一段距离会给你一个条形码。然后走进一个大厅开始录指纹。</li>
+<li>录完就等面签。把 I-20 夹到护照里，24 号口，要了 Study plan 和 CV，果不其然被 check 了。</li>
+</ul>
+</blockquote>
+<h2 id="六、-签证结果和-Check￼-￼-￼"><a href="#六、-签证结果和-Check￼-￼-￼" class="headerlink" title="六、 签证结果和 Check￼ ￼ ￼"></a>六、 签证结果和 Check￼ ￼ ￼</h2><h4 id="1-签证的常见结果"><a href="#1-签证的常见结果" class="headerlink" title="1. 签证的常见结果"></a>1. 签证的常见结果</h4><ul>
+<li><strong>第一种</strong>：当场通过并只留下护照，这种情况一般就是表示通过了。也有很低的概率就是使馆做了后期审核后要求补充材料，如果在签证官亲口告诉你说通过了，但是等了2周左右了还没有批签，那就默认你是被行政审核了。</li>
+<li><strong>第二种</strong>：当场被拒签，护照和相关材料全部当场还给了申请者。给的单子是 <strong>214b</strong> 单子。</li>
+<li><strong>第三种</strong>：面谈后留下了护照，同时还留下了一些材料，比如个人简历，行程单，邀请函，学校的 I-20，学习计划等，给了一张 <strong>221g</strong> 单子，让回家等结果，这个就是标准的被使馆进行行政审核了，也就是所谓的 check 了。审核的时间由使馆决定，一般在 3-4 周。</li>
+<li><strong>第四种</strong>：面谈后把护照还给了申请者，也没有说是通过还是拒签。有的时候是留下了相关材料，有的时候也不留任何材料。这种情况只能说明签证官的本意 50% 以上是想拒签，但是担心自己做的决定错误，需要使馆的综合部门去核实，如果没问题，是会通知送回护照来贴签的。但是概率很低。￼ ￼ </li>
+</ul>
+<p><img src="https://ws2.sinaimg.cn/large/006tKfTcly1fqzntc3jiij311m0z0b2a.jpg" alt="签证结果" title="签证结果"><br>笔者整理了几个小伙伴告诉我的签证结果情况如下：￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼<br><img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqznygzwooj31cm0vmn0j.jpg" alt=""></p>
+<h4 id="2-什么是-Check？"><a href="#2-什么是-Check？" class="headerlink" title="2. 什么是 Check？"></a>2. 什么是 Check？</h4><p>Check 这个词是广大签友们取的名字，在美国使馆的官方说法是行政审理，即就是 Administrative Processing ，主要是指对一些签证申请者的材料，进行更近一步的审查，其所花费的时间比一次性通过签证审查的人所需要的时间要多。主要审查的目的，根据美国国防院的说法，主要有四点：</p>
+<ul>
+<li>从根本上防止大杀伤性武器和导弹技术的扩散；</li>
+<li>限制在世界一些地区发展影响区域安全的传统武器；</li>
+<li>防止向恐怖主义国家输送军火和军民两用物品；</li>
+<li>确保美国在某些军事科技上的优势  </li>
+</ul>
+<p>因此 Check 主要针对于一些生化环材，核工程，电气工程，CS 等敏感专业。</p>
+<h4 id="3-被-Check-了怎么办？"><a href="#3-被-Check-了怎么办？" class="headerlink" title="3. 被 Check 了怎么办？"></a>3. 被 Check 了怎么办？</h4><p>Check 时间一般在 3 周左右或者一个月多一点，这个时间都是正常的，且不能人力干涉。❗️ 注意中介所谓的加速审核都是骗人的，不要浪费钱交智商税！<br>正在被 Check，护照被他们拿着，我有事要去别地儿玩，要用护照怎么办？<br>如果 Check 期间有需要使用护照，联系大使馆索要护照，一般当天或者第二天可以先把护照给你，等 Issued 之后再联系你让把护照送进去。如果签证之前就知道护照紧接着要用，而 VO 又说要 Check你，你可以当场索要护照拿回来，让他们慢慢 Check。<br>Check 收走什么材料是 VO 决定的，是否收走 I-20，是否收走简历或学习计划都是正常的，需要补充的资料 VO 会在给你的单子上写明，而且会跟你说一声，如果事后发现还需要补充材料，会联系你让你补充。<br>Check 后可以隔段时间去<a href="https://ceac.state.gov/CEACStatTracker/Default.aspx?App=NIV" title="Check My Status" target="_blank" rel="noopener">Check my status</a>官网查询签证进展。当从 Administrative Processing 变成 Issued 之后，隔天一般就会收到大使馆发送的电子邮件告知你签证寄出及 EMS 单号。<br><img src="https://ws1.sinaimg.cn/large/006tKfTcly1fqzoe01965j30n60hc7ad.jpg" alt=""><br>❗️ 注意：如果选择中信自取，中信银行只会将您的护照资料保留 15 天，15 天之后未被领取，将会被退还到大使馆，请务必 15 天内去取护照。 </p>
+<h2 id="End"><a href="#End" class="headerlink" title="End"></a>End</h2><p>至此整个签证申请的过程就分享完毕了，我觉得应该算是一个很详细的指南了，希望能帮到留学的大家。如果觉得有用麻烦点个赞支持我，希望分享给更多的人。<br>做好充分的材料准备，保持乐观自信，祝大家签证顺利，美帝学习愉快！</p>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/留学/" rel="tag"># 留学</a>
+          
+            <a href="/tags/签证/" rel="tag"># 签证</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2018/04/16/Tips for 2018 Fall/" rel="next" title="Tips for 2018 Fall">
+                <i class="fa fa-chevron-left"></i> Tips for 2018 Fall
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2018/05/10/说说体检疫苗那些事（附天津体检指南）/" rel="prev" title="说说体检疫苗那些事（附天津体检指南）">
+                说说体检疫苗那些事（附天津体检指南） <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+    <div class="comments" id="comments">
+      <div class="ds-thread" data-thread-key="2018/05/05/听说你还不会填 DS-160?——最全 F-1 签证办理指南/"
+           data-title="听说你还不会填 DS-160?——最全 F-1 签证办理指南" data-url="http://zdong1995.github.io/2018/05/05/听说你还不会填 DS-160?——最全 F-1 签证办理指南/">
+      </div>
+    </div>
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="https://ws3.sinaimg.cn/large/006tNc79ly1fta6j9pgr1j30hs0hsq62.jpg"
+                alt="董小染" />
+            
+              <p class="site-author-name" itemprop="name">董小染</p>
+              <p class="site-description motion-element" itemprop="description">Love my sweetie Kitty</p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/">
+              
+                  <span class="site-state-item-count">14</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                
+                  <span class="site-state-item-count">1</span>
+                  <span class="site-state-item-name">分类</span>
+                
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                
+                  <span class="site-state-item-count">10</span>
+                  <span class="site-state-item-name">标签</span>
+                
+              </div>
+            
+
+          </nav>
+
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#一、签证流程"><span class="nav-number">1.</span> <span class="nav-text">一、签证流程</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-概述"><span class="nav-number">1.1.</span> <span class="nav-text">1. 概述</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-签证办理过程"><span class="nav-number">1.2.</span> <span class="nav-text">2. 签证办理过程</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-注意事项"><span class="nav-number">1.3.</span> <span class="nav-text">3.注意事项</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#二、缴纳-SEVIS-费"><span class="nav-number"></span> <span class="nav-text">二、缴纳 SEVIS 费</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-什么是-SEVIS-费？"><span class="nav-number">0.1.</span> <span class="nav-text">1. 什么是 SEVIS 费？</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-如何缴费？"><span class="nav-number">0.2.</span> <span class="nav-text">2. 如何缴费？</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#三、DS-160-表格填写"><span class="nav-number"></span> <span class="nav-text">三、DS-160 表格填写</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-什么是-DS-160-表格？"><span class="nav-number">0.1.</span> <span class="nav-text">1. 什么是 DS-160 表格？</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-新建-DS-160-表格及注意事项"><span class="nav-number">0.2.</span> <span class="nav-text">2.新建 DS-160 表格及注意事项</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-DS-160-表格的填写"><span class="nav-number">0.3.</span> <span class="nav-text">3. DS-160 表格的填写</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#四、预约签证"><span class="nav-number"></span> <span class="nav-text">四、预约签证</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-填写美国大使馆签证预约表"><span class="nav-number">0.1.</span> <span class="nav-text">1. 填写美国大使馆签证预约表</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-缴纳签证费"><span class="nav-number">0.2.</span> <span class="nav-text">2. 缴纳签证费</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-预约面签时间"><span class="nav-number">0.3.</span> <span class="nav-text">3. 预约面签时间</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#五、面签"><span class="nav-number"></span> <span class="nav-text">五、面签</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-签证材料-Checklist"><span class="nav-number">0.1.</span> <span class="nav-text">1. 签证材料 Checklist</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-面签地点"><span class="nav-number">0.2.</span> <span class="nav-text">2. 面签地点</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-面签流程"><span class="nav-number">0.3.</span> <span class="nav-text">3. 面签流程</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#笔者的北京面经"><span class="nav-number">0.3.1.</span> <span class="nav-text">笔者的北京面经</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#G-同学的上海面经"><span class="nav-number">0.3.2.</span> <span class="nav-text">G 同学的上海面经</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#W-同学的广州面经"><span class="nav-number">0.3.3.</span> <span class="nav-text">W 同学的广州面经</span></a></li></ol></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#六、-签证结果和-Check￼-￼-￼"><span class="nav-number"></span> <span class="nav-text">六、 签证结果和 Check￼ ￼ ￼</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-签证的常见结果"><span class="nav-number">0.1.</span> <span class="nav-text">1. 签证的常见结果</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-什么是-Check？"><span class="nav-number">0.2.</span> <span class="nav-text">2. 什么是 Check？</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-被-Check-了怎么办？"><span class="nav-number">0.3.</span> <span class="nav-text">3. 被 Check 了怎么办？</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#End"><span class="nav-number"></span> <span class="nav-text">End</span></a></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2018</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">董小染</span>
+
+  
+</div>
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Muse</a> v5.1.4</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+  
+    
+  
+
+  <script type="text/javascript">
+    var duoshuoQuery = {short_name:"your-duoshuo-shortname"};
+    (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.id = 'duoshuo-script';
+      ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0]
+      || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+  </script>
+
+  
+    
+    
+    <script src="/lib/ua-parser-js/dist/ua-parser.min.js?v=0.7.9"></script>
+    <script src="/js/src/hook-duoshuo.js"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>
