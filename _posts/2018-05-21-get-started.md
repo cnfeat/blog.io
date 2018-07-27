@@ -4,7 +4,7 @@ title: MarkDown学习入门
 date: 2018-5-22
 categories: 入门
 tags: [MarkDown,入门,初学者]
-header-img: "img/posts.jpg"
+header-img: "img/pic8.jpg"
 description: MarkDown入门。
 ---
 
