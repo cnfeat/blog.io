@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
-date: 2015-3-02
+title: 飞镰
+date: 2018-9-09
 categories: blog
-tags: [标签一,标签二]
-description: 文章金句。
+tags: [第一个,第二]
+description: 小。
 ---
+对于这件事
 
 这里是博客正文。
 
