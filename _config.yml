@@ -1,16 +1,16 @@
 # Site settings
-title: 博客名字 # 你的博客名字，可以定义修订
+title: 小飞镰 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "这是我的博客"  # 一句话描述你的博客
+description: "欢迎来到我的博客"  # 一句话描述你的博客
 baseurl: ""
-url: "http://cnfeat"  # 此处填写你的博客地址 
+url: "http://xiaofeilian"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
-  name: "作者名字" # 填写作者信息：名字
+  name: "小飞镰" # 填写作者信息：名字
   email: X@gmail.com # 填写作者信息：邮箱
-  bio: "你的博客描述" # 填写作者信息：博客描述
+  bio: "123" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
