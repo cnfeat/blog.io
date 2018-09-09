@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "小飞镰的家 " 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+我是小飞镰，欢迎来到我的博客！
 
 
 
