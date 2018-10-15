@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "thoughts of solving problems by code" 
 header-img: "img/green.jpg"
 ---
 
