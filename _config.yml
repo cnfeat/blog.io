@@ -1,5 +1,9 @@
 # Site settings
+<<<<<<< HEAD
 title: Stevenhy's pocket # 你的博客名字，可以定义修订
+=======
+title: stevenhy's pocket # 你的博客名字，可以定义修订
+>>>>>>> e51f5e5e9ae16ea836c6c076bbbc64ecd828a131
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "目明心亮，立心力行"  # 一句话描述你的博客
