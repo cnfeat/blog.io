@@ -1,7 +1,7 @@
 # Site settings
 title: Stevenhy's pocket # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
-tagline: "cn"  
+tagline: "目明心亮，立心力行"  
 description: "目明心亮，立心力行"  # 一句话描述你的博客
 baseurl: ""
 url: "http://www.stevenhy.com"  # 此处填写你的博客地址 
