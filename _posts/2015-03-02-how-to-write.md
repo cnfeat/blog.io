@@ -9,6 +9,7 @@ description: python参加ccf csp考试
 
 python ccf题解 201809-1 卖菜  
 
+  '''python
 #卖菜
 #输入
 n = int(input())
@@ -24,7 +25,7 @@ for i in range(n):
         b.append((a[i-1]+a[i]+a[i+1])//3)
 #输出
 print(" ".join(map(str,b)))
-
+'''
 
 
 
