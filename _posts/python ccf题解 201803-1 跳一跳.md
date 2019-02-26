@@ -1,7 +1,7 @@
 ---
 layout: post
 title: python ccf题解 201803-1 跳一跳
-date: 2015-3-02
+date: 2019-2-22
 categories: blog
 tags: [ccf csp,python]
 description: python参加ccf csp考试
