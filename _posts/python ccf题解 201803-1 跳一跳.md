@@ -46,7 +46,7 @@ description: python参加ccf csp考试
 代码片段
 ====
 
- '''python
+  ```python
  #跳一跳
 score = 0
 last = 1
@@ -64,8 +64,6 @@ for a in alist:
             last = last + 2
         score += last
 print(score)
-
-
-last的设置是解决本题的核心，作用类似于flag，可以起到遇1重置，遇2累加的作用    
-
-
+  ```
+last的设置是解决本题的核心，作用类似于flag，可以起到遇1重置，遇2累加的作用  
+----
