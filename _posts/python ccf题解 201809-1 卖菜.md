@@ -52,7 +52,7 @@ for i in range(n):
         b.append((a[i - 1] + a[i] + a[i + 1]) // 3)
 # 输出
 print(" ".join(map(str, b)))
-```
+  ```
 
 
 
