@@ -1,6 +1,6 @@
 ---
 layout: post
-title: python ccf题解 201809-1 卖菜
+title: python ccf题解 201809-1 哈哈
 date: 2019-2-13
 categories: blog
 tags: [ccf csp,python]
