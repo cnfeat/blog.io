@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博客名字</title>
+    <description>这是我的博客</description>
+    <link>http://192.168.74.3:4000/</link>
+    <atom:link href="http://192.168.74.3:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 02 May 2019 13:22:38 +0800</pubDate>
+    <lastBuildDate>Thu, 02 May 2019 13:22:38 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>这是一篇博客文章模板</title>
+        <description>&lt;p&gt;这里是博客正文。&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 02 Mar 2015 00:00:00 +0800</pubDate>
+        <link>http://192.168.74.3:4000/blog/2015/03/02/how-to-write/</link>
+        <guid isPermaLink="true">http://192.168.74.3:4000/blog/2015/03/02/how-to-write/</guid>
+        
+        <category>标签一</category>
+        
+        <category>标签二</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
