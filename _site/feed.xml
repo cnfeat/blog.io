@@ -3,10 +3,10 @@
   <channel>
     <title>博客名字</title>
     <description>这是我的博客</description>
-    <link>http://192.168.74.3:4000/</link>
-    <atom:link href="http://192.168.74.3:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 02 May 2019 13:22:38 +0800</pubDate>
-    <lastBuildDate>Thu, 02 May 2019 13:22:38 +0800</lastBuildDate>
+    <link>http://0.0.0.0:3999/</link>
+    <atom:link href="http://0.0.0.0:3999/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 17 May 2019 01:04:55 +0800</pubDate>
+    <lastBuildDate>Fri, 17 May 2019 01:04:55 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -15,8 +15,8 @@
 
 </description>
         <pubDate>Mon, 02 Mar 2015 00:00:00 +0800</pubDate>
-        <link>http://192.168.74.3:4000/blog/2015/03/02/how-to-write/</link>
-        <guid isPermaLink="true">http://192.168.74.3:4000/blog/2015/03/02/how-to-write/</guid>
+        <link>http://0.0.0.0:3999/blog/2015/03/02/how-to-write/</link>
+        <guid isPermaLink="true">http://0.0.0.0:3999/blog/2015/03/02/how-to-write/</guid>
         
         <category>标签一</category>
         
