@@ -61,3 +61,8 @@ google_verify:
 bing_verify:
 
 # Links to include in footer navigation
+
+plugins: [jekyll-paginate]
+
+
+#theme: jekyll-theme-cayman
