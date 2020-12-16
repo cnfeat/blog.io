@@ -8,7 +8,6 @@ url: "http://cnfeat"  # 此处填写你的博客地址
 
 # About/contact
 owner: 
-  name: "作者名字" # 填写作者信息：名字
   email: X@gmail.com # 填写作者信息：邮箱
   bio: "你的博客描述" # 填写作者信息：博客描述
 
